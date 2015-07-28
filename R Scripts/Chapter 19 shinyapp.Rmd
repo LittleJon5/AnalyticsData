@@ -14,7 +14,9 @@ require(ggplot2)
 require(reshape2)
 require(magrittr)
 
- gas <- read.table("C:\\Users\\Jonathan\\Documents\\GitHub\\AnalyicsData\\Stine&Foster\\Data by Chapter\\Chapter 19\\19_convenience\\19_convenience.txt",
+govfinance <- "http://marriottschool.net/teacher/govfinance/resources/dataSets/stineFoster/Text/"
+
+gas <- read.table(paste0(govfinance,"19_convenience.txt"),
              header = TRUE,
              sep = "\t"
              )
@@ -41,7 +43,7 @@ gasLM <- lm(sales ~ gallons, data = gas)
 ```
 
 From this the equation is:
-$sales = `r gasLM$coefficients[1]` + `r gasLM$coefficients[2]` * gallons$
+$sales = `r round(gasLM$coefficients[1],0)` + `r round(gasLM$coefficients[2], 2)` * gallons$
 
 ### Part C, Interpret the summary values r^2^ 
 
