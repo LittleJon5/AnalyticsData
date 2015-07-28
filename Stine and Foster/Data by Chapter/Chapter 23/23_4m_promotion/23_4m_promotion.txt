@@ -1,0 +1,324 @@
+Site	Region	Type of Location	Specialty	Sex of Physician	MD Age	Years of Experience	Journal Subscriber	Attend Conference	Direct to Consumer	Hospital Affliations	Practice Size	Patient Visits	Details Nosorr	Details Paenex	Details Other	Minutes Nosorr	Samples Nosorr	Samples Paenex	Samples Other	nrx.nosorr	nrx.paenex	nrx.other	therapy.days.nosorr	therapy.days.paenex	therapy.days.other	NRx/Visit
+Allentown	e	urban	RH	male	36	13	No	Yes	0.56	2	7	225	3	4	7	32	46	103	50	26	182	160	528	3253	3381	0.11555556
+Allentown	e	urban	RH	male	56	36	No	No	0.56	0	6	179	13	2	3	91	259	37	20	50	95	101	875	1835	1930	0.27932961
+Allentown	e	urban	PD	female	34	5	No	No	0.56	2	4	67	2	1	1	19	54	10	1	7	19	18	36	98	107	0.10447761
+Allentown	e	urban	PD	female	52	23	No	Yes	0.56	6	5	86	1	1	1	11	32	13	28	8	24	30	54	103	191	0.09302326
+Allentown	e	urban	PD	male	57	32	No	No	0.56	2	2	65	3	3	1	23	39	51	6	8	23	14	39	136	72	0.12307692
+Allentown	e	urban	PD	male	42	17	Yes	Yes	0.56	7	6	71	3	3	2	37	31	76	9	5	19	17	34	81	78	0.07042254
+Allentown	e	urban	GP	male	35	12	No	No	0.56	5	6	142	4	1	2	22	80	18	14	19	59	73	160	551	654	0.13380282
+Allentown	e	urban	GP	female	48	25	No	No	0.56	4	5	102	4	5	2	34	107	60	32	13	64	47	100	627	438	0.12745098
+Allentown	e	urban	RH	male	38	14	No	No	0.56	1	5	263	4	5	8	27	82	67	79	28	166	200	579	3266	3990	0.10646388
+Allentown	e	rural	GP	male	55	32	Yes	No	0.56	3	5	151	5	1	4	35	63	9	12	22	67	89	203	645	832	0.14569536
+Allentown	e	urban	PD	female	44	23	Yes	Yes	0.56	5	6	77	1	1	1	5	19	6	8	9	28	31	57	174	158	0.11688312
+Allentown	e	urban	PD	male	48	22	No	Yes	0.56	2	3	66	1	1	1	3	17	0	15	9	22	23	61	144	130	0.13636364
+Allentown	e	rural	GP	female	53	29	No	Yes	0.56	3	5	122	2	2	3	13	30	39	24	19	70	66	155	645	617	0.1557377
+Allentown	e	urban	GP	female	40	18	No	No	0.56	3	4	179	5	1	5	29	90	3	43	22	64	124	183	532	1073	0.12290503
+Allentown	e	rural	GP	male	68	34	No	No	0.56	3	4	116	4	2	1	27	36	42	13	24	62	49	226	599	436	0.20689655
+Allentown	e	urban	GP	male	48	25	Yes	No	0.56	4	5	124	3	2	4	19	26	23	40	12	57	63	107	510	554	0.09677419
+Allentown	e	rural	RH	male	64	34	No	Yes	0.56	5	3	163	5	4	2	39	58	70	12	24	140	85	493	2569	1489	0.14723926
+Allentown	e	urban	PD	male	43	20	Yes	Yes	0.56	7	4	40	2	1	3	13	36	31	21	5	10	17	15	45	111	0.125
+San Marcos	w	rural	GP	male	49	23	No	No	4.13	1	1	50	4	1	1	20	55	11	1	26	21	21	235	198	212	0.52
+San Marcos	w	urban	PD	female	31	5	No	No	4.13	2	2	24	2	1	2	19	50	4	24	7	5	6	54	37	26	0.29166667
+San Marcos	w	urban	RH	male	37	9	No	No	4.13	0	1	97	4	1	3	15	54	7	42	58	49	56	1039	913	1077	0.59793814
+San Marcos	w	urban	GP	male	38	16	No	No	4.13	4	4	56	3	1	2	18	47	13	12	29	17	21	266	170	237	0.51785714
+San Marcos	w	urban	GP	male	35	15	No	No	4.13	2	1	59	2	1	1	18	14	8	8	31	23	18	280	207	145	0.52542373
+San Marcos	w	rural	PD	female	43	16	No	No	4.13	6	3	17	1	1	1	8	18	28	2	3	3	4	20	24	27	0.17647059
+San Marcos	w	urban	GP	male	36	11	No	Yes	4.13	5	4	70	3	2	1	13	32	24	12	42	36	30	421	336	306	0.6
+San Marcos	w	urban	GP	female	32	8	Yes	No	4.13	6	4	62	5	2	3	34	87	8	18	29	20	28	266	178	260	0.46774194
+San Marcos	w	urban	PD	male	29	3	Yes	Yes	4.13	7	4	38	1	2	2	7	13	42	31	10	12	10	52	81	85	0.26315789
+San Marcos	w	urban	GP	male	34	10	Yes	No	4.13	7	2	72	4	1	1	43	67	8	10	39	24	30	334	203	274	0.54166667
+San Marcos	w	urban	GP	female	37	11	No	No	4.13	2	3	68	4	1	1	32	87	5	4	28	21	24	239	194	254	0.41176471
+San Marcos	w	urban	PD	female	39	14	Yes	No	4.13	5	4	30	2	1	2	10	40	31	15	7	6	8	40	33	32	0.23333333
+San Marcos	w	urban	GP	female	26	0	No	No	4.13	6	2	65	3	3	2	14	43	88	16	26	26	20	210	224	153	0.4
+San Marcos	w	rural	GP	male	48	23	No	Yes	4.13	4	2	87	6	1	1	63	97	18	5	49	26	29	440	222	270	0.56321839
+San Marcos	w	rural	PD	male	47	26	No	No	4.13	4	2	44	3	1	1	19	47	8	10	10	9	7	57	46	36	0.22727273
+San Marcos	w	rural	RH	male	42	15	No	No	4.13	0	3	119	4	2	2	29	93	29	23	74	79	62	1500	1519	1162	0.62184874
+San Marcos	w	rural	PD	male	50	26	No	No	4.13	0	1	17	2	1	1	15	40	30	11	4	6	2	27	44	10	0.23529412
+San Marcos	w	urban	RH	male	45	21	Yes	No	4.13	5	1	125	1	1	3	10	2	23	17	82	53	61	1527	1141	1163	0.656
+San Marcos	w	rural	GP	male	47	23	No	No	4.13	1	1	41	2	2	2	7	14	50	3	17	15	14	164	150	150	0.41463415
+Dallas	c	rural	RH	male	61	34	No	No	2.35	0	2	86	4	2	2	29	58	51	0	32	63	49	467	1274	975	0.37209302
+Dallas	c	rural	GP	male	40	14	No	No	2.35	4	1	64	2	1	1	10	60	8	8	22	33	22	229	276	194	0.34375
+Dallas	c	urban	GP	male	38	12	Yes	No	2.35	1	1	68	7	1	1	61	96	4	4	22	29	23	167	257	219	0.32352941
+Dallas	c	urban	PD	male	34	8	Yes	Yes	2.35	7	6	36	1	1	2	5	23	15	17	8	6	11	35	48	45	0.22222222
+Dallas	c	rural	PD	male	37	4	Yes	Yes	2.35	5	1	4	1	1	1	9	24	12	2	0	0	4	0	0	23	0
+Dallas	c	rural	GP	male	46	17	No	No	2.35	0	1	62	5	1	3	40	57	16	23	26	23	35	268	196	343	0.41935484
+Dallas	c	rural	RH	male	48	26	No	No	2.35	6	1	124	3	1	4	22	50	20	10	59	63	86	1087	1157	1661	0.47580645
+Dallas	c	urban	RH	male	26	0	Yes	Yes	2.35	7	1	130	2	2	1	10	35	17	5	59	79	55	1135	1534	1132	0.45384615
+Dallas	c	rural	GP	male	43	20	No	No	2.35	1	1	58	4	1	2	26	85	13	11	22	23	35	248	175	311	0.37931034
+Dallas	c	urban	PD	female	36	12	Yes	Yes	2.35	7	2	10	2	1	1	13	31	11	14	2	1	2	10	3	6	0.2
+Dallas	c	urban	PD	female	42	11	Yes	Yes	2.35	5	2	29	1	1	1	9	6	29	0	8	7	10	65	25	71	0.27586207
+Dallas	c	urban	PD	female	28	5	Yes	Yes	2.35	6	2	30	2	1	2	10	34	17	6	9	8	14	90	58	96	0.3
+Dallas	c	rural	GP	male	48	21	No	No	2.35	1	1	50	3	1	1	15	41	1	1	17	19	22	156	187	237	0.34
+Dallas	c	rural	GP	male	47	24	No	No	2.35	4	1	53	2	1	1	24	29	28	5	25	26	17	257	215	137	0.47169811
+Dallas	c	urban	PD	female	53	31	Yes	Yes	2.35	7	1	19	1	1	1	5	11	7	10	4	3	4	27	20	23	0.21052632
+Dallas	c	urban	GP	male	29	4	No	No	2.35	3	1	69	2	2	1	12	35	31	0	23	40	16	212	348	124	0.33333333
+Dallas	c	rural	PD	male	48	15	Yes	No	2.35	4	3	23	2	2	2	11	35	27	9	5	7	5	37	55	30	0.2173913
+Dallas	c	rural	RH	male	56	32	No	No	2.35	2	3	130	7	1	5	49	126	11	19	57	62	85	1137	1298	1668	0.43846154
+Dallas	c	urban	PD	male	41	19	No	Yes	2.35	4	1	18	2	1	2	14	25	9	6	6	6	5	33	37	19	0.33333333
+Warwick	w	urban	GP	male	35	6	Yes	Yes	0.58	6	2	42	2	1	1	8	45	28	18	16	20	15	123	158	117	0.38095238
+Warwick	w	rural	PD	male	47	22	Yes	No	0.58	5	1	20	1	2	1	9	5	31	25	3	9	3	9	53	13	0.15
+Warwick	w	urban	RH	male	39	9	Yes	Yes	0.58	3	1	90	3	1	1	9	50	14	2	38	59	54	808	1122	1077	0.42222222
+Warwick	w	urban	PD	female	32	11	No	Yes	0.58	4	2	19	1	1	1	8	8	25	0	5	7	4	34	40	27	0.26315789
+Warwick	w	rural	RH	female	45	20	Yes	Yes	0.58	6	1	112	8	3	2	69	109	64	14	40	80	81	815	1485	1479	0.35714286
+Warwick	w	rural	RH	female	49	27	No	No	0.58	4	1	114	4	2	3	19	55	33	28	36	71	75	679	1379	1416	0.31578947
+Warwick	w	urban	PD	male	44	14	Yes	Yes	0.58	5	3	16	2	1	2	18	27	4	12	2	3	7	21	20	73	0.125
+Warwick	w	rural	PD	female	40	17	No	Yes	0.58	4	1	23	1	1	1	9	8	20	5	3	5	11	24	19	75	0.13043478
+Warwick	w	urban	RH	male	47	26	No	No	0.58	1	2	88	6	3	3	30	57	34	20	26	56	57	450	1089	1157	0.29545455
+Warwick	w	urban	PD	female	35	11	Yes	Yes	0.58	3	2	20	2	1	2	14	17	20	11	5	4	7	30	24	58	0.25
+Warwick	w	urban	RH	female	29	0	Yes	Yes	0.58	4	3	113	8	2	2	49	128	13	10	40	84	56	760	1656	1057	0.3539823
+Warwick	w	urban	PD	male	38	14	Yes	No	0.58	5	3	38	2	2	1	4	20	22	6	3	8	14	20	50	78	0.07894737
+Warwick	w	urban	RH	female	41	15	Yes	Yes	0.58	7	2	121	9	3	1	38	176	51	10	54	83	59	1089	1502	1083	0.44628099
+Warwick	w	urban	PD	female	46	23	Yes	No	0.58	7	8	51	2	1	1	16	20	11	13	9	14	15	38	94	79	0.17647059
+Warwick	w	rural	RH	female	45	23	No	No	0.58	0	1	136	3	2	3	18	55	48	24	31	93	80	529	1752	1300	0.22794118
+Warwick	w	urban	PD	female	34	4	Yes	Yes	0.58	7	2	17	3	1	1	17	39	13	1	9	2	8	79	6	43	0.52941176
+Warwick	w	urban	GP	female	40	17	Yes	Yes	0.58	4	2	40	4	1	1	41	61	14	7	12	14	19	103	132	152	0.3
+Warwick	w	urban	GP	female	31	2	Yes	Yes	0.58	6	1	81	2	1	2	22	27	15	10	29	34	38	289	300	382	0.35802469
+Warwick	w	rural	RH	male	51	27	No	No	0.58	4	2	126	4	2	3	23	29	48	13	39	100	88	677	1673	1526	0.30952381
+Warwick	w	urban	RH	female	36	10	No	Yes	0.58	6	2	113	2	1	3	6	21	16	21	46	51	92	915	1031	1733	0.40707965
+Gary	c	urban	PD	female	41	17	No	No	2.13	5	1	15	3	2	1	11	57	52	2	2	3	3	10	28	24	0.13333333
+Gary	c	urban	RH	male	43	22	No	No	2.13	2	4	145	2	3	3	15	36	39	15	47	105	86	913	1979	1521	0.32413793
+Gary	c	rural	GP	male	52	25	Yes	No	2.13	5	1	58	3	1	2	21	46	7	17	20	27	27	180	263	235	0.34482759
+Gary	c	rural	PD	male	49	28	No	No	2.13	1	2	34	1	1	1	9	10	28	1	8	10	10	51	57	63	0.23529412
+Gary	c	rural	GP	male	43	18	No	Yes	2.13	7	2	61	5	1	1	41	73	4	10	32	30	20	279	293	199	0.52459016
+Gary	c	rural	RH	female	52	25	No	No	2.13	3	2	109	1	2	2	6	24	33	16	40	71	79	785	1186	1515	0.36697248
+Gary	c	rural	GP	male	41	16	No	No	2.13	0	2	65	3	1	2	11	64	26	24	19	31	35	176	266	394	0.29230769
+Gary	c	urban	RH	female	34	8	No	Yes	2.13	3	5	130	3	2	3	19	32	30	33	56	69	82	1125	1336	1564	0.43076923
+Gary	c	rural	GP	female	56	31	Yes	No	2.13	1	1	33	3	1	2	16	55	22	22	10	16	11	101	142	97	0.3030303
+Gary	c	urban	PD	male	54	32	Yes	No	2.13	2	1	11	1	1	1	11	6	7	1	4	2	5	12	10	19	0.36363636
+Gary	c	rural	RH	male	42	19	No	No	2.13	3	2	126	3	1	2	31	45	24	14	51	74	72	1104	1397	1351	0.4047619
+Gary	c	urban	PD	male	47	21	Yes	Yes	2.13	5	1	7	2	1	1	17	32	17	12	3	1	2	13	3	10	0.42857143
+Gary	c	rural	RH	male	58	32	No	No	2.13	2	1	83	2	2	1	13	22	32	5	39	55	56	762	928	937	0.46987952
+Gary	c	rural	GP	female	45	19	No	No	2.13	0	1	62	5	1	1	40	94	31	4	24	22	26	187	233	272	0.38709677
+Gary	c	urban	PD	male	45	20	Yes	Yes	2.13	7	4	18	1	1	1	5	37	22	30	5	4	7	26	28	54	0.27777778
+Gary	c	rural	RH	male	40	13	No	No	2.13	0	1	122	4	1	1	23	64	14	12	69	78	77	1187	1375	1517	0.56557377
+Gary	c	urban	RH	male	31	6	Yes	Yes	2.13	3	2	74	4	2	1	32	37	14	12	36	43	43	665	818	767	0.48648649
+Gary	c	urban	GP	male	29	2	Yes	Yes	2.13	6	2	90	3	1	2	20	48	34	14	41	44	48	364	399	485	0.45555556
+North Charleston	e	rural	PD	male	50	19	No	No	0.65	0	5	66	3	1	1	11	58	12	5	9	20	31	64	115	184	0.13636364
+North Charleston	e	rural	RH	female	46	25	No	No	0.65	1	3	220	4	1	4	21	83	15	46	46	123	188	940	2437	3549	0.20909091
+North Charleston	e	urban	RH	male	43	17	Yes	No	0.65	3	5	268	7	3	5	56	139	38	61	50	154	201	1035	2941	3917	0.18656716
+North Charleston	e	urban	PD	male	50	24	No	No	0.65	4	4	60	2	1	4	9	15	5	45	3	10	30	9	53	184	0.05
+North Charleston	e	urban	RH	male	53	32	Yes	Yes	0.65	6	6	250	6	4	7	31	86	63	45	25	169	196	482	3060	3705	0.1
+North Charleston	e	urban	GP	male	48	18	Yes	Yes	0.65	7	3	89	5	3	5	29	84	48	48	12	42	44	122	351	371	0.13483146
+North Charleston	e	rural	GP	male	57	29	No	No	0.65	1	4	102	4	2	2	16	72	43	5	17	72	49	166	692	411	0.16666667
+North Charleston	e	urban	PD	male	49	26	Yes	No	0.65	3	2	32	3	1	1	8	47	68	5	2	12	17	10	70	119	0.0625
+North Charleston	e	rural	PD	male	59	39	No	No	0.65	1	5	61	5	1	1	36	103	32	1	12	23	21	70	147	131	0.19672131
+North Charleston	e	urban	PD	male	46	21	Yes	No	0.65	5	4	48	2	2	1	24	38	22	6	5	20	9	48	102	46	0.10416667
+North Charleston	e	urban	GP	male	48	24	No	Yes	0.65	3	8	194	8	1	3	35	158	13	36	31	67	119	313	541	1148	0.15979381
+North Charleston	e	urban	GP	male	52	28	No	No	0.65	5	7	181	7	3	2	52	143	47	9	25	116	69	214	1092	665	0.13812155
+North Charleston	e	urban	GP	male	52	27	No	No	0.65	1	5	206	5	3	4	27	92	49	43	45	111	112	384	958	1029	0.2184466
+North Charleston	e	urban	GP	male	47	21	No	No	0.65	5	3	108	2	6	2	2	15	74	11	15	76	37	127	671	351	0.13888889
+North Charleston	e	urban	GP	male	39	12	Yes	Yes	0.65	7	3	84	5	2	2	27	78	15	5	14	52	49	128	485	465	0.16666667
+North Charleston	e	urban	GP	female	55	30	Yes	Yes	0.65	6	4	183	7	2	6	31	79	8	45	14	75	118	111	684	1048	0.07650273
+North Charleston	e	rural	PD	female	57	32	No	No	0.65	1	2	32	2	2	1	19	43	29	5	2	8	10	10	50	71	0.0625
+North Charleston	e	urban	RH	male	49	27	No	No	0.65	4	5	315	8	2	7	42	115	31	49	46	165	280	876	3275	5225	0.14603175
+North Charleston	e	urban	PD	male	43	16	Yes	No	0.65	2	4	67	1	1	2	5	27	12	21	2	18	30	10	99	184	0.02985075
+High Point	e	urban	RH	male	40	15	No	No	0.94	0	5	291	12	3	4	53	165	50	27	58	203	194	1059	3841	3771	0.19931271
+High Point	e	urban	GP	female	41	16	No	No	0.94	0	3	169	4	2	2	16	74	25	16	32	102	79	294	911	703	0.18934911
+High Point	e	urban	GP	male	41	16	No	No	0.94	5	3	150	4	5	2	27	61	88	16	27	96	57	260	790	547	0.18
+High Point	e	rural	PD	male	51	25	No	No	0.94	2	4	65	2	2	1	6	42	11	1	10	19	20	56	115	105	0.15384615
+High Point	e	urban	GP	male	34	5	Yes	Yes	0.94	7	5	123	6	3	4	43	120	46	21	29	69	67	263	642	668	0.23577236
+High Point	e	urban	GP	male	46	20	Yes	Yes	0.94	6	4	183	5	2	3	52	93	45	18	43	98	92	428	841	907	0.23497268
+High Point	e	urban	GP	female	45	20	Yes	Yes	0.94	7	4	129	6	1	2	63	125	13	16	30	67	83	285	523	749	0.23255814
+High Point	e	urban	GP	male	51	30	Yes	No	0.94	4	6	167	5	2	3	25	64	49	38	28	80	72	217	699	667	0.16766467
+High Point	e	urban	RH	male	47	19	Yes	No	0.94	3	9	254	5	2	4	36	86	48	31	71	181	178	1321	3670	3392	0.27952756
+High Point	e	urban	GP	female	41	13	No	No	0.94	0	6	113	5	3	3	21	82	40	28	20	56	56	172	525	505	0.17699115
+High Point	e	rural	RH	female	49	27	Yes	No	0.94	3	4	222	16	3	4	101	210	53	37	64	159	172	1166	2925	3429	0.28828829
+High Point	e	urban	GP	male	47	22	Yes	Yes	0.94	7	8	196	6	3	5	29	68	70	43	36	106	115	322	952	996	0.18367347
+High Point	e	urban	PD	male	40	20	No	Yes	0.94	4	7	134	4	3	3	12	62	24	10	12	40	50	67	225	276	0.08955224
+High Point	e	rural	RH	male	52	32	No	No	0.94	1	1	239	5	5	4	33	46	108	30	52	198	147	1003	3894	2757	0.21757322
+High Point	e	urban	PD	male	52	23	Yes	Yes	0.94	7	4	53	2	1	2	15	29	18	4	5	15	25	26	90	154	0.09433962
+High Point	e	urban	RH	female	35	10	Yes	Yes	0.94	4	5	270	7	3	2	46	96	52	20	47	209	152	952	4322	3003	0.17407407
+High Point	e	urban	PD	female	38	14	Yes	Yes	0.94	1	2	47	3	2	1	22	47	17	4	5	13	14	30	80	83	0.10638298
+High Point	e	urban	GP	female	41	15	No	No	0.94	7	3	118	9	4	2	29	140	33	13	26	83	51	244	719	458	0.22033898
+High Point	e	rural	PD	female	47	22	No	No	0.94	1	3	27	1	1	1	10	16	6	33	1	6	9	7	37	50	0.03703704
+Albany	e	urban	PD	male	49	25	No	No	0.61	6	7	103	2	1	2	10	16	12	30	7	27	42	62	167	262	0.06796117
+Albany	e	urban	GP	female	41	19	Yes	No	0.61	4	5	111	3	3	3	17	68	72	32	16	59	63	148	493	529	0.14414414
+Albany	e	rural	RH	female	59	35	Yes	No	0.61	5	5	301	10	4	9	74	186	96	68	45	182	252	763	3381	4693	0.14950166
+Albany	e	rural	GP	female	50	25	No	No	0.61	0	2	126	6	2	2	50	134	34	30	20	70	53	209	616	492	0.15873016
+Albany	e	urban	GP	male	41	18	Yes	Yes	0.61	2	5	192	9	2	3	57	137	38	12	28	103	95	245	1022	860	0.14583333
+Albany	e	urban	PD	female	38	13	No	No	0.61	0	6	103	4	2	1	31	66	15	9	14	32	32	61	223	153	0.13592233
+Albany	e	urban	PD	male	43	15	No	Yes	0.61	5	4	64	3	1	2	23	36	10	7	6	16	27	22	123	149	0.09375
+Albany	e	urban	PD	male	48	24	No	No	0.61	3	4	86	2	2	8	11	31	38	65	5	22	41	30	151	218	0.05813953
+Albany	e	urban	RH	female	43	23	Yes	Yes	0.61	5	7	316	10	5	3	65	128	90	23	50	278	152	1026	5437	2938	0.15822785
+Albany	e	rural	PD	female	61	39	No	No	0.61	0	5	44	4	1	3	32	57	14	25	3	12	18	24	71	126	0.06818182
+Albany	e	rural	GP	male	62	34	No	No	0.61	1	4	131	9	1	3	32	142	16	19	23	49	73	247	459	547	0.17557252
+Albany	e	rural	GP	male	58	33	No	No	0.61	1	4	149	6	2	2	38	96	25	19	28	78	72	213	696	626	0.18791946
+Albany	e	rural	RH	male	58	33	No	No	0.61	3	4	293	7	1	7	45	75	11	75	43	121	274	797	2239	5494	0.14675768
+Albany	e	rural	GP	male	61	39	No	No	0.61	2	3	150	6	5	4	37	73	65	34	17	83	79	152	743	733	0.11333333
+Albany	e	urban	RH	male	37	13	No	No	0.61	2	7	303	10	2	3	56	164	38	30	77	183	226	1519	3451	4344	0.25412541
+Albany	e	urban	PD	female	49	26	Yes	Yes	0.61	7	6	96	2	1	1	6	39	15	6	11	31	33	53	171	179	0.11458333
+Albany	e	rural	RH	male	53	30	No	Yes	0.61	2	4	186	5	1	3	37	89	7	40	46	102	156	821	2004	2991	0.24731183
+Albany	e	rural	PD	male	59	37	Yes	Yes	0.61	7	2	29	1	1	1	6	22	13	12	4	10	13	23	42	106	0.13793103
+Albany	e	urban	RH	male	59	29	No	Yes	0.61	6	6	241	5	3	4	33	55	57	24	44	202	174	761	3821	3050	0.18257261
+Albany	e	urban	RH	male	58	33	Yes	No	0.61	0	4	334	6	2	2	32	107	23	22	69	240	248	1304	4363	4710	0.20658683
+Gastonia	e	urban	GP	female	50	23	Yes	Yes	0.65	6	4	120	3	1	3	25	21	9	16	21	56	59	175	518	605	0.175
+Gastonia	e	urban	RH	female	47	25	No	Yes	0.65	7	3	248	7	4	4	33	98	38	42	42	196	167	907	3666	3290	0.16935484
+Gastonia	e	rural	RH	male	60	33	Yes	Yes	0.65	5	5	322	10	7	4	80	138	122	15	41	277	146	861	5349	2873	0.12732919
+Gastonia	e	urban	PD	male	39	15	No	Yes	0.65	7	5	91	8	1	3	42	84	5	40	10	26	42	68	193	282	0.10989011
+Gastonia	e	urban	RH	female	44	17	No	Yes	0.65	1	5	259	10	6	4	48	109	89	25	44	207	136	722	3826	2466	0.16988417
+Gastonia	e	urban	PD	female	53	32	Yes	Yes	0.65	7	3	53	5	2	4	22	51	34	21	4	10	25	27	71	171	0.0754717
+Gastonia	e	urban	GP	male	40	16	Yes	Yes	0.65	7	3	144	5	4	2	32	126	48	5	21	110	60	216	936	466	0.14583333
+Gastonia	e	urban	PD	female	58	37	Yes	No	0.65	6	10	102	5	2	4	26	52	24	69	5	33	56	35	130	335	0.04901961
+Gastonia	e	urban	GP	male	47	25	Yes	Yes	0.65	7	7	242	6	3	5	51	73	21	27	27	130	144	267	1179	1256	0.11157025
+Gastonia	e	urban	GP	male	38	13	No	No	0.65	2	2	91	5	1	4	47	65	9	29	19	43	64	199	341	619	0.20879121
+Gastonia	e	urban	RH	male	47	23	Yes	Yes	0.65	7	10	215	6	2	8	29	109	24	70	41	102	167	774	1988	3212	0.19069767
+Gastonia	e	rural	GP	male	51	28	No	No	0.65	2	3	132	2	2	4	12	28	41	17	18	65	86	156	597	690	0.13636364
+Gastonia	e	rural	GP	female	45	16	No	No	0.65	2	6	170	4	2	3	34	50	35	14	19	88	85	180	713	754	0.11176471
+Gastonia	e	urban	PD	female	50	23	No	Yes	0.65	4	4	64	6	2	1	19	115	16	7	7	23	13	32	134	70	0.109375
+Gastonia	e	urban	RH	male	60	39	No	Yes	0.65	7	4	281	8	5	4	32	128	56	35	38	240	180	787	4983	3562	0.13523132
+Gastonia	e	rural	RH	male	46	17	No	No	0.65	1	4	239	6	4	6	34	125	68	62	39	144	188	760	2587	3503	0.16317992
+Gastonia	e	urban	RH	male	43	22	No	No	0.65	4	5	254	8	4	5	78	167	35	34	42	182	187	701	3310	3683	0.16535433
+Gastonia	e	urban	PD	female	35	13	Yes	Yes	0.65	7	4	70	3	2	3	25	50	19	31	5	17	28	19	101	178	0.07142857
+Gastonia	e	urban	PD	male	42	15	No	No	0.65	2	6	81	2	2	1	8	39	59	5	6	28	25	26	134	172	0.07407407
+Wilkes Barre	e	rural	GP	male	66	43	No	No	4.91	0	5	101	2	2	2	14	11	42	15	39	50	36	389	432	361	0.38613861
+Wilkes Barre	e	rural	RH	male	61	37	No	No	4.91	0	3	261	14	3	4	82	154	58	24	154	171	149	2895	3277	2804	0.59003831
+Wilkes Barre	e	urban	GP	female	41	20	No	No	4.91	1	6	123	5	2	2	9	62	45	27	51	51	49	461	416	448	0.41463415
+Wilkes Barre	e	urban	PD	female	36	5	No	Yes	4.91	5	6	84	6	3	1	13	73	39	14	18	26	19	107	178	91	0.21428571
+Wilkes Barre	e	urban	GP	male	47	20	Yes	Yes	4.91	4	3	188	6	2	1	34	48	11	19	96	67	54	834	595	480	0.5106383
+Wilkes Barre	e	urban	RH	male	41	16	Yes	Yes	4.91	7	4	158	6	2	2	51	57	20	7	113	78	67	2382	1396	1238	0.71518987
+Wilkes Barre	e	rural	RH	male	58	31	No	No	4.91	2	6	287	6	4	7	47	84	63	65	128	184	189	2483	3574	3706	0.44599303
+Wilkes Barre	e	urban	RH	male	43	20	No	No	4.91	1	4	180	7	1	2	33	127	40	9	127	95	113	2557	1796	2075	0.70555556
+Wilkes Barre	e	urban	PD	male	56	35	No	No	4.91	3	3	70	4	2	2	12	64	27	15	24	16	14	128	115	94	0.34285714
+Wilkes Barre	e	urban	RH	male	53	33	No	No	4.91	1	6	217	6	4	4	13	96	75	24	100	131	104	1951	2362	2054	0.46082949
+Wilkes Barre	e	rural	RH	male	60	32	No	No	4.91	3	4	267	8	2	3	78	107	4	41	172	121	163	3198	2413	3042	0.64419476
+Wilkes Barre	e	rural	RH	male	53	29	No	No	4.91	2	5	281	10	3	7	67	225	55	55	137	134	176	2631	2599	3084	0.48754448
+Wilkes Barre	e	urban	PD	female	43	18	No	Yes	4.91	6	6	82	6	4	3	20	82	57	37	15	17	23	76	110	122	0.18292683
+Wilkes Barre	e	urban	RH	male	56	33	Yes	No	4.91	6	5	251	4	5	6	29	52	48	30	108	147	142	1877	2725	2681	0.43027888
+Wilkes Barre	e	rural	PD	female	54	29	Yes	No	4.91	4	2	66	1	1	2	8	23	14	17	16	11	17	104	56	107	0.24242424
+Wilkes Barre	e	urban	RH	male	42	18	Yes	Yes	4.91	7	3	223	11	2	3	67	234	48	25	161	120	130	3038	2098	2495	0.72197309
+Wilkes Barre	e	urban	PD	male	35	12	Yes	Yes	4.91	5	6	101	3	1	2	15	32	16	16	28	25	30	195	165	143	0.27722772
+Wilkes Barre	e	rural	GP	female	50	29	No	No	4.91	3	4	167	3	1	3	20	74	9	20	84	56	84	748	526	741	0.50299401
+San Bernardino	w	urban	PD	female	30	5	Yes	Yes	0.62	5	2	21	1	2	1	12	12	16	22	5	5	9	37	34	68	0.23809524
+San Bernardino	w	rural	RH	male	49	21	No	No	0.62	3	1	144	5	2	2	27	101	21	13	57	111	78	1123	2285	1552	0.39583333
+San Bernardino	w	urban	PD	female	37	7	Yes	Yes	0.62	3	1	10	2	1	1	23	27	23	2	2	2	5	10	28	30	0.2
+San Bernardino	w	urban	GP	male	28	7	Yes	Yes	0.62	3	4	63	2	1	1	15	43	23	6	25	31	27	236	279	225	0.3968254
+San Bernardino	w	urban	PD	male	33	7	No	No	0.62	4	1	11	1	1	1	35	18	30	2	2	1	4	21	7	35	0.18181818
+San Bernardino	w	urban	PD	female	33	7	No	No	0.62	4	8	53	3	2	1	15	76	20	1	6	13	12	37	73	69	0.11320755
+San Bernardino	w	urban	GP	female	41	21	No	No	0.62	1	1	30	2	1	1	7	17	9	3	16	17	9	138	138	87	0.53333333
+San Bernardino	w	urban	GP	male	37	13	No	Yes	0.62	7	2	56	2	1	1	14	26	35	6	15	35	22	131	284	190	0.26785714
+San Bernardino	w	urban	PD	female	29	5	No	No	0.62	3	5	45	1	2	1	7	19	35	9	11	19	11	82	135	85	0.24444444
+San Bernardino	w	rural	RH	male	41	19	Yes	Yes	0.62	2	1	93	3	2	3	22	50	19	40	28	67	68	556	1300	1300	0.30107527
+San Bernardino	w	urban	GP	female	34	5	No	No	0.62	2	3	53	3	1	2	18	27	7	14	14	26	23	139	258	223	0.26415094
+San Bernardino	w	urban	RH	female	32	8	Yes	Yes	0.62	6	5	127	4	2	2	26	51	33	5	39	84	89	778	1633	1671	0.30708661
+San Bernardino	w	rural	GP	female	43	22	No	No	0.62	0	1	54	4	1	1	29	70	35	1	14	28	18	121	255	174	0.25925926
+San Bernardino	w	rural	RH	male	38	15	Yes	Yes	0.62	3	1	112	4	4	3	31	71	92	27	31	85	76	416	1695	1412	0.27678571
+San Bernardino	w	urban	RH	male	39	15	No	No	0.62	1	4	126	5	1	3	38	70	21	36	43	63	90	831	1301	1797	0.34126984
+San Bernardino	w	rural	PD	female	40	16	No	No	0.62	6	2	34	1	1	1	9	4	17	6	3	9	14	13	46	65	0.08823529
+San Bernardino	w	rural	GP	male	57	28	No	No	0.62	0	1	38	1	1	1	10	15	7	2	12	22	16	129	191	163	0.31578947
+San Bernardino	w	urban	PD	female	27	4	No	Yes	0.62	3	3	20	3	1	1	35	51	10	9	3	6	4	13	18	27	0.15
+San Bernardino	w	urban	RH	male	29	5	No	No	0.62	6	2	114	4	1	2	25	48	9	20	41	71	89	725	1287	1815	0.35964912
+San Bernardino	w	rural	GP	male	47	20	Yes	No	0.62	1	3	52	2	3	2	20	61	78	11	12	31	15	97	270	149	0.23076923
+Worcester	e	rural	PD	male	54	31	No	No	0.07	0	5	75	2	1	1	22	52	14	2	4	22	27	27	111	155	0.05333333
+Worcester	e	urban	GP	male	47	18	Yes	Yes	0.07	1	3	129	1	3	4	8	12	75	18	2	77	69	28	724	677	0.01550388
+Worcester	e	urban	RH	male	47	22	No	No	0.07	6	4	285	13	5	6	82	212	64	51	33	219	200	600	4195	3713	0.11578947
+Worcester	e	rural	RH	male	65	43	No	No	0.07	3	2	246	10	1	4	51	141	13	31	45	142	197	816	2528	3843	0.18292683
+Worcester	e	urban	RH	male	50	23	No	Yes	0.07	2	4	246	6	5	3	41	60	71	12	29	220	142	517	4197	2720	0.11788618
+Worcester	e	urban	RH	male	35	9	No	Yes	0.07	5	4	248	10	2	5	80	139	29	25	26	135	207	505	2735	3891	0.10483871
+Worcester	e	rural	PD	male	56	31	Yes	Yes	0.07	4	3	27	2	3	1	30	34	65	3	0	9	4	0	57	16	0
+Worcester	e	urban	GP	male	48	23	No	Yes	0.07	4	6	185	6	1	3	46	148	12	16	25	92	110	236	828	919	0.13513514
+Worcester	e	urban	PD	female	49	26	Yes	Yes	0.07	4	5	76	3	1	2	28	27	20	18	5	24	39	27	172	229	0.06578947
+Worcester	e	urban	GP	male	52	28	Yes	Yes	0.07	6	6	127	6	2	1	46	91	36	4	32	78	61	284	675	560	0.2519685
+Worcester	e	rural	PD	male	66	36	No	No	0.07	2	5	43	4	1	1	22	72	19	10	5	15	18	38	116	103	0.11627907
+Worcester	e	urban	GP	male	52	27	No	Yes	0.07	1	7	132	3	2	2	23	29	33	17	16	78	70	167	688	543	0.12121212
+Worcester	e	urban	RH	male	46	22	Yes	Yes	0.07	6	7	306	9	5	8	66	129	64	65	16	196	209	338	3839	4126	0.05228758
+Worcester	e	rural	GP	male	60	34	No	No	0.07	3	4	152	2	4	2	14	26	69	9	5	90	59	59	792	510	0.03289474
+Worcester	e	urban	RH	female	44	22	No	No	0.07	5	2	218	9	6	2	52	129	78	12	19	194	102	334	3479	1765	0.08715596
+Worcester	e	urban	GP	male	48	21	Yes	Yes	0.07	2	4	104	2	1	2	15	36	18	21	9	61	72	80	546	650	0.08653846
+Worcester	e	urban	PD	female	52	24	Yes	No	0.07	7	6	87	3	1	3	37	30	14	23	4	18	42	49	113	276	0.04597701
+Worcester	e	rural	RH	male	61	32	No	No	0.07	2	5	211	5	4	4	38	70	58	28	11	168	163	149	3437	3213	0.0521327
+Worcester	e	urban	RH	female	44	21	No	No	0.07	4	5	221	7	5	6	48	111	59	47	14	172	176	356	3288	3307	0.06334842
+Worcester	e	urban	PD	male	49	23	Yes	Yes	0.07	6	8	75	4	2	2	15	57	44	14	1	22	27	3	112	193	0.01333333
+Las Vegas	w	rural	PD	male	40	12	No	No	0.65	1	1	11	2	1	2	18	33	7	18	2	2	7	17	10	47	0.18181818
+Las Vegas	w	urban	GP	male	43	21	No	No	0.65	0	2	81	2	2	3	15	33	29	27	19	35	48	140	353	470	0.2345679
+Las Vegas	w	rural	RH	female	41	19	Yes	Yes	0.65	2	1	103	4	1	1	23	39	14	2	59	81	57	1137	1683	1100	0.57281553
+Las Vegas	w	urban	RH	male	25	0	No	Yes	0.65	5	2	96	3	1	3	13	55	47	11	28	62	75	547	1184	1517	0.29166667
+Las Vegas	w	urban	PD	female	34	8	No	No	0.65	3	1	19	1	1	2	3	21	33	22	3	4	5	13	16	19	0.15789474
+Las Vegas	w	urban	RH	female	32	6	Yes	No	0.65	5	2	122	3	1	3	12	42	0	17	47	58	89	968	1215	1845	0.3852459
+Las Vegas	w	urban	RH	female	39	18	Yes	No	0.65	2	2	89	4	2	1	25	53	32	12	37	48	55	725	979	964	0.41573034
+Las Vegas	w	urban	PD	male	43	18	No	Yes	0.65	2	2	34	4	1	1	13	41	14	1	9	6	12	42	45	92	0.26470588
+Las Vegas	w	urban	PD	female	37	11	Yes	Yes	0.65	7	5	36	1	1	1	12	7	11	6	7	10	12	40	60	66	0.19444444
+Las Vegas	w	urban	RH	female	42	15	Yes	Yes	0.65	7	2	107	5	3	3	33	86	31	49	41	76	57	944	1343	1130	0.38317757
+Las Vegas	w	rural	PD	male	44	18	No	No	0.65	0	1	17	1	1	1	5	25	16	7	4	5	4	12	45	27	0.23529412
+Las Vegas	w	urban	RH	male	41	11	Yes	Yes	0.65	7	2	115	2	2	2	20	12	18	26	33	77	74	658	1485	1478	0.28695652
+Las Vegas	w	rural	PD	female	40	19	No	No	0.65	3	5	20	2	2	1	17	58	26	21	3	10	8	9	34	57	0.15
+Las Vegas	w	urban	RH	male	31	7	Yes	No	0.65	0	3	95	3	3	3	16	83	36	22	26	62	64	553	1184	1304	0.27368421
+Las Vegas	w	urban	PD	female	45	17	No	No	0.65	5	1	10	1	1	1	7	21	17	8	2	3	4	17	20	12	0.2
+Las Vegas	w	rural	PD	male	50	23	No	No	0.65	0	1	11	1	1	1	9	12	19	7	2	1	4	21	3	31	0.18181818
+Las Vegas	w	urban	RH	male	33	8	Yes	Yes	0.65	7	3	96	6	4	2	46	88	55	9	27	70	41	512	1401	799	0.28125
+Las Vegas	w	rural	PD	male	50	29	No	No	0.65	3	1	11	1	1	1	4	3	14	6	2	2	3	6	10	17	0.18181818
+Las Vegas	w	rural	RH	male	52	26	No	No	0.65	4	2	133	6	2	4	55	113	54	17	40	78	92	728	1549	1800	0.30075188
+Suffolk	e	urban	PD	male	40	5	No	Yes	1.93	2	3	55	2	1	2	12	39	19	4	8	9	13	46	76	54	0.14545455
+Suffolk	e	urban	RH	male	34	14	No	No	1.93	2	11	352	12	3	11	69	168	52	62	81	163	282	1463	3167	5461	0.23011364
+Suffolk	e	urban	GP	male	57	29	Yes	Yes	1.93	7	4	95	5	2	3	38	103	33	12	30	45	33	225	365	294	0.31578947
+Suffolk	e	urban	PD	male	42	20	Yes	Yes	1.93	7	3	39	2	1	1	25	31	12	3	7	8	8	40	54	39	0.17948718
+Suffolk	e	urban	GP	male	44	22	Yes	Yes	1.93	5	4	216	6	3	2	49	113	37	13	65	117	99	601	1046	807	0.30092593
+Suffolk	e	urban	RH	male	61	34	No	Yes	1.93	5	4	262	4	4	5	21	43	65	56	59	163	181	1096	3212	3550	0.22519084
+Suffolk	e	urban	PD	female	37	10	No	No	1.93	1	9	122	7	2	1	45	104	32	1	23	51	39	130	278	259	0.18852459
+Suffolk	e	urban	GP	male	54	27	No	No	1.93	0	4	159	6	3	2	42	112	34	6	44	85	59	336	844	508	0.27672956
+Suffolk	e	rural	GP	male	50	28	Yes	No	1.93	5	6	148	3	2	2	21	66	48	25	31	85	97	260	778	826	0.20945946
+Suffolk	e	urban	RH	male	60	38	Yes	No	1.93	3	4	273	10	7	7	49	150	150	39	63	217	168	1090	4103	3264	0.23076923
+Suffolk	e	urban	RH	male	46	26	No	Yes	1.93	4	5	176	6	1	5	35	103	13	35	52	64	134	1161	1203	2584	0.29545455
+Suffolk	e	rural	RH	male	64	33	No	No	1.93	1	6	244	7	2	5	36	97	29	30	82	120	165	1594	2170	3195	0.33606557
+Suffolk	e	urban	RH	female	47	21	No	No	1.93	0	7	252	6	6	4	25	91	90	55	51	187	131	973	3398	2539	0.20238095
+Suffolk	e	urban	RH	male	35	11	No	No	1.93	7	5	209	11	2	2	33	190	27	11	90	136	122	1541	2496	2239	0.43062201
+Suffolk	e	urban	PD	male	46	12	No	No	1.93	1	3	51	1	1	4	17	12	5	20	8	8	19	28	51	125	0.15686275
+Suffolk	e	urban	GP	female	54	27	Yes	No	1.93	5	6	142	2	2	2	11	22	21	25	53	72	68	518	678	631	0.37323944
+Suffolk	e	rural	RH	male	57	33	No	No	1.93	0	4	184	2	3	4	9	16	43	40	40	91	116	792	1635	2128	0.2173913
+Suffolk	e	rural	PD	male	55	25	No	No	1.93	0	2	42	1	1	2	11	2	4	4	5	7	15	19	65	75	0.11904762
+Suffolk	e	rural	RH	male	55	31	Yes	Yes	1.93	6	4	168	7	3	5	48	94	58	33	39	103	99	794	1923	1694	0.23214286
+Suffolk	e	urban	PD	male	37	12	Yes	Yes	1.93	7	7	93	2	2	2	16	17	16	21	16	23	26	101	126	201	0.17204301
+St Paul	c	rural	PD	female	49	23	Yes	No	6.56	1	1	18	2	1	2	18	20	17	26	7	5	7	36	26	29	0.38888889
+St Paul	c	rural	RH	male	54	26	No	No	6.56	3	4	114	4	4	3	37	52	53	31	65	54	56	1120	1015	1091	0.57017544
+St Paul	c	urban	PD	male	39	18	No	Yes	6.56	3	5	44	1	2	1	10	15	71	5	14	13	7	87	78	54	0.31818182
+St Paul	c	urban	GP	female	30	6	No	No	6.56	3	1	26	1	1	1	6	6	36	2	16	9	8	174	83	73	0.61538462
+St Paul	c	urban	GP	male	50	29	Yes	No	6.56	4	3	65	1	1	2	21	9	7	24	38	17	34	301	156	258	0.58461538
+St Paul	c	urban	PD	male	43	18	Yes	Yes	6.56	7	3	41	3	2	1	19	37	39	3	12	11	9	77	55	53	0.29268293
+St Paul	c	urban	PD	female	33	8	No	No	6.56	3	3	31	2	1	1	0	27	16	7	9	6	6	64	34	48	0.29032258
+St Paul	c	rural	RH	male	50	15	No	No	6.56	0	2	142	4	1	4	38	57	12	57	108	49	105	1931	970	1943	0.76056338
+St Paul	c	urban	PD	male	37	11	No	No	6.56	1	3	33	1	1	1	12	8	10	6	15	3	5	112	17	19	0.45454545
+St Paul	c	urban	RH	male	39	16	No	No	6.56	1	2	86	3	2	7	28	41	18	39	54	23	65	1067	463	1304	0.62790698
+St Paul	c	urban	PD	female	41	15	No	Yes	6.56	3	1	18	1	1	1	5	16	15	1	4	5	7	49	45	25	0.22222222
+St Paul	c	urban	RH	male	37	11	No	Yes	6.56	1	2	104	3	2	2	20	50	11	24	70	48	47	1339	959	812	0.67307692
+St Paul	c	urban	GP	male	33	10	No	No	6.56	4	1	51	4	1	1	26	88	21	11	27	14	20	208	128	165	0.52941176
+St Paul	c	urban	RH	male	40	7	No	Yes	6.56	4	3	98	5	1	3	41	75	16	26	70	33	55	1281	745	1070	0.71428571
+St Paul	c	urban	PD	female	36	9	No	No	6.56	2	1	10	1	1	1	9	18	8	17	3	2	2	17	10	17	0.3
+St Paul	c	rural	GP	male	50	25	Yes	No	6.56	5	1	56	2	1	1	17	17	20	10	27	18	10	241	152	90	0.48214286
+St Paul	c	rural	PD	male	60	39	No	No	6.56	0	1	14	1	1	1	11	20	5	8	6	2	2	40	17	6	0.42857143
+St Paul	c	urban	GP	female	35	11	No	No	6.56	1	3	52	5	1	2	43	75	11	20	28	24	20	242	210	206	0.53846154
+St Paul	c	urban	PD	female	37	11	Yes	Yes	6.56	7	2	27	3	1	2	9	20	27	19	15	2	7	97	6	29	0.55555556
+Somerset	e	urban	RH	male	45	22	No	Yes	2.2	3	3	245	7	7	7	58	95	114	66	50	167	155	964	3123	2966	0.20408163
+Somerset	e	urban	GP	male	51	19	Yes	No	2.2	5	3	139	5	2	1	46	57	18	12	47	79	53	368	677	492	0.3381295
+Somerset	e	rural	GP	female	57	33	No	No	2.2	1	5	156	7	3	3	35	112	51	37	39	89	81	320	844	646	0.25
+Somerset	e	urban	RH	male	41	16	No	No	2.2	7	3	279	11	3	5	63	123	52	23	97	173	190	1899	3235	3600	0.34767025
+Somerset	e	urban	GP	male	38	10	Yes	No	2.2	6	4	131	3	3	2	13	58	39	17	36	66	65	326	635	568	0.27480916
+Somerset	e	rural	PD	male	53	24	Yes	Yes	2.2	0	4	76	3	1	2	31	56	11	32	13	16	30	62	115	162	0.17105263
+Somerset	e	urban	PD	male	48	18	Yes	Yes	2.2	4	6	73	3	1	2	31	64	22	8	11	19	24	74	121	132	0.15068493
+Somerset	e	rural	PD	male	65	34	No	No	2.2	0	4	60	2	1	2	15	14	29	28	10	17	25	53	92	144	0.16666667
+Somerset	e	urban	GP	male	48	18	Yes	No	2.2	2	4	138	5	2	4	27	71	21	24	35	55	81	372	523	695	0.25362319
+Somerset	e	urban	RH	male	57	22	No	No	2.2	2	5	246	8	3	7	64	92	46	72	64	125	187	1143	2398	3582	0.2601626
+Somerset	e	rural	RH	male	49	25	Yes	No	2.2	2	4	242	6	3	4	53	137	45	9	65	162	156	1219	2886	2957	0.26859504
+Somerset	e	urban	GP	female	55	26	No	Yes	2.2	6	6	170	5	2	4	37	82	43	20	46	83	95	464	757	802	0.27058824
+Somerset	e	rural	RH	male	66	40	No	Yes	2.2	2	6	301	8	2	6	30	108	18	44	98	137	235	1798	2684	4406	0.3255814
+Somerset	e	urban	RH	male	47	15	Yes	Yes	2.2	7	3	262	6	3	5	36	68	38	38	99	174	201	1670	3358	3872	0.3778626
+Somerset	e	urban	RH	male	51	28	No	No	2.2	6	3	236	4	2	3	39	84	19	20	89	143	159	1783	2672	2950	0.37711864
+Somerset	e	urban	RH	male	54	32	Yes	Yes	2.2	5	4	257	10	4	5	82	194	64	52	85	152	166	1627	2761	3192	0.3307393
+Somerset	e	rural	RH	male	61	39	No	No	2.2	1	4	148	7	2	4	50	108	24	34	62	72	116	1294	1275	2050	0.41891892
+Somerset	e	urban	RH	male	58	32	Yes	Yes	2.2	7	5	274	17	6	3	108	253	122	40	88	195	140	1677	3424	2481	0.32116788
+Lancaster	e	urban	GP	male	44	16	No	Yes	4.95	3	4	224	5	4	3	40	103	60	26	94	105	85	877	1032	782	0.41964286
+Lancaster	e	rural	PD	male	65	43	Yes	Yes	4.95	6	2	24	2	1	1	13	41	19	6	6	5	4	22	30	34	0.25
+Lancaster	e	urban	GP	female	43	18	No	No	4.95	1	8	172	5	2	4	12	78	39	29	88	77	65	837	712	554	0.51162791
+Lancaster	e	urban	PD	female	34	13	No	Yes	4.95	5	7	95	4	1	2	15	80	16	12	26	26	30	167	168	187	0.27368421
+Lancaster	e	urban	RH	male	42	10	No	No	4.95	2	3	255	9	4	2	45	132	65	17	152	188	114	2945	3370	2263	0.59607843
+Lancaster	e	rural	PD	male	57	34	No	No	4.95	0	6	63	4	1	2	26	52	9	9	19	15	11	121	142	85	0.3015873
+Lancaster	e	urban	PD	male	50	26	Yes	No	4.95	4	6	51	2	1	3	7	40	15	9	20	8	16	110	57	111	0.39215686
+Lancaster	e	rural	PD	male	53	25	Yes	No	4.95	0	2	44	2	1	1	23	24	14	7	12	9	10	99	57	53	0.27272727
+Lancaster	e	rural	GP	male	58	37	No	No	4.95	0	5	149	9	1	1	57	117	21	16	82	52	59	727	558	489	0.55033557
+Lancaster	e	urban	PD	male	52	26	No	No	4.95	3	6	126	6	2	3	45	67	51	36	27	33	47	163	198	306	0.21428571
+Lancaster	e	urban	PD	female	39	16	Yes	No	4.95	4	5	68	1	2	3	2	16	21	26	18	14	21	102	98	108	0.26470588
+Lancaster	e	urban	GP	male	53	27	Yes	Yes	4.95	6	5	188	5	1	2	35	88	9	27	103	50	81	959	432	768	0.54787234
+Lancaster	e	urban	GP	female	47	20	No	Yes	4.95	0	12	170	7	5	3	38	108	108	28	66	95	57	625	857	482	0.38823529
+Lancaster	e	rural	PD	female	60	36	No	No	4.95	0	4	61	3	2	3	23	52	35	31	12	13	18	47	95	118	0.19672131
+Lancaster	e	urban	GP	male	46	25	Yes	Yes	4.95	7	3	105	2	2	4	14	57	57	18	45	48	48	412	439	396	0.42857143
+Lancaster	e	rural	GP	male	65	42	No	No	4.95	0	5	122	6	3	3	37	111	36	11	47	52	47	445	453	429	0.3852459
+Lancaster	e	urban	RH	female	63	37	No	Yes	4.95	3	4	208	7	2	4	38	106	50	26	113	104	108	2203	1717	1922	0.54326923
+Lancaster	e	rural	GP	male	64	38	No	No	4.95	0	5	154	5	1	4	51	94	26	17	78	55	76	745	559	644	0.50649351

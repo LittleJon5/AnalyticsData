@@ -1,0 +1,255 @@
+﻿New Table( "01_employment",
+	Add Rows( 190 ),
+	New Script(
+		"Source",
+		Data Table( "non_farm_emp" ) << Subset(
+			Output Table( "Subset of non_farm_emp" ),
+			Rows(
+				[613, 614, 615, 616, 617, 618, 619, 620, 621, 622, 623, 624, 625,
+				626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637, 638, 639,
+				640, 641, 642, 643, 644, 645, 646, 647, 648, 649, 650, 651, 652, 653,
+				654, 655, 656, 657, 658, 659, 660, 661, 662, 663, 664, 665, 666, 667,
+				668, 669, 670, 671, 672, 673, 674, 675, 676, 677, 678, 679, 680, 681,
+				682, 683, 684, 685, 686, 687, 688, 689, 690, 691, 692, 693, 694, 695,
+				696, 697, 698, 699, 700, 701, 702, 703, 704, 705, 706, 707, 708, 709,
+				710, 711, 712, 713, 714, 715, 716, 717, 718, 719, 720, 721, 722, 723,
+				724, 725, 726, 727, 728, 729, 730, 731, 732, 733, 734, 735, 736, 737,
+				738, 739, 740, 741, 742, 743, 744, 745, 746, 747, 748, 749, 750, 751,
+				752, 753, 754, 755, 756, 757, 758, 759, 760, 761, 762, 763, 764, 765,
+				766, 767, 768, 769, 770, 771, 772, 773, 774, 775, 776, 777, 778, 779,
+				780, 781, 782, 783, 784, 785, 786, 787, 788, 789, 790, 791, 792, 793,
+				794, 795, 796, 797, 798, 799, 800, 801, 802]
+			)
+		)
+	),
+	New Script(
+		"Overlay Plot",
+		Overlay Plot(
+			X( :Year ),
+			Y( :Name( "Employees (millions)" ) ),
+			Y Axis[1] << {Scale( Linear ), Format( Best ), Min( 128.25 ),
+			Max( 135.25 ), Inc( 1 ), Minor Ticks( 3 )},
+			Separate Axes( 1 ),
+			Connect Thru Missing( 1 ),
+			X Axis << {Scale( Linear ), Format( Best ), Min( 2002.96265822785 ),
+			Max( 2006 ), Inc( 1 ), Minor Ticks( 3 )},
+			SendToReport(
+				Dispatch(
+					{},
+					"106",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 128.25 ), Max( 135.25 ),
+					Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch(
+					{},
+					"101",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 2002.96265822785 ),
+					Max( 2006 ), Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch( {}, "Overlay Plot", FrameBox, Frame Size( 373, 201 ) )
+			)
+		)
+	),
+	New Script(
+		"Overlay Plot 2",
+		Overlay Plot(
+			X( :Year ),
+			Y(
+				:Name( "Employees (millions)" ),
+				:Name( "Employees (not adjusted)" )
+			),
+			Overlay Axis << {Scale( Linear ), Format( Best ), Min( 128.25 ),
+			Max( 135.25 ), Inc( 1 ), Minor Ticks( 3 )},
+			Connect Thru Missing( 1 ),
+			X Axis << {Scale( Linear ), Format( Best ), Min( 2002.94247787611 ),
+			Max( 2006 ), Inc( 1 ), Minor Ticks( 3 )},
+			SendToReport(
+				Dispatch(
+					{},
+					"102",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 128.25 ), Max( 135.25 ),
+					Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch(
+					{},
+					"101",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 2002.94247787611 ),
+					Max( 2006 ), Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch( {}, "Overlay Plot", FrameBox, Frame Size( 392, 179 ) )
+			)
+		)
+	),
+	New Script(
+		"Linear Regression",
+		Bivariate(
+			Y( :Name( "Employees (millions)" ) ),
+			X( :Year ),
+			Fit Line,
+			SendToReport(
+				Dispatch(
+					{},
+					"1",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 2004 ), Max( 2006 ),
+					Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch(
+					{},
+					"2",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 128.2 ), Max( 135.2 ),
+					Inc( 1 ), Minor Ticks( 3 )}
+				)
+			)
+		)
+	),
+	New Script(
+		"Residuals",
+		Bivariate(
+			Y( :Name( "Residuals Employees (millions)" ) ),
+			X( :Year ),
+			SendToReport(
+				Dispatch(
+					{},
+					"1",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( 2004 ), Max( 2006 ),
+					Inc( 1 ), Minor Ticks( 3 )}
+				),
+				Dispatch(
+					{},
+					"2",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( -0.2 ), Max( 0.2 ),
+					Inc( 0.05 ), Minor Ticks( 1 ), Add Ref Line( 0, Solid, Red )}
+				),
+				Dispatch( {}, "Bivar Plot", FrameBox, Frame Size( 329, 174 ) )
+			)
+		)
+	),
+	New Script(
+		"Distribution",
+		Distribution(
+			Continuous Distribution(
+				Column( :Name( "Residuals Employees (millions)" ) ),
+				Horizontal Layout( 1 ),
+				Count Axis( 1 ),
+				Outlier Box Plot( 0 ),
+				Axis Settings(
+					Scale( Linear ),
+					Format( Best ),
+					Min( -0.25 ),
+					Max( 0.25 ),
+					Inc( 0.1 ),
+					Minor Ticks( 1 )
+				)
+			),
+			SendToReport(
+				Dispatch(
+					{"Residuals Employees (millions)"},
+					"1",
+					ScaleBox,
+					{Scale( Linear ), Format( Best ), Min( -0.25 ), Max( 0.25 ),
+					Inc( 0.1 ), Minor Ticks( 1 )}
+				),
+				Dispatch(
+					{"Residuals Employees (millions)"},
+					"Distrib Histogram",
+					FrameBox,
+					Background Color( 2 )
+				)
+			)
+		)
+	),
+	New Column( "Year",
+		Numeric,
+		Continuous,
+		Format( "Best", 10 ),
+		Formula( 1939 + (Row() - 1) / 12 ),
+		Suppress Eval
+	),
+	New Column( "Employees (millions)",
+		Numeric,
+		Continuous,
+		Format( "Best", 10 ),
+		Set Values(
+			[109.144, 109.397, 109.618, 109.652, 109.801, 109.82, 109.773, 109.569,
+			109.485, 109.321, 109.175, 109.118, 108.998, 108.698, 108.542, 108.325,
+			108.203, 108.283, 108.233, 108.252, 108.285, 108.293, 108.235, 108.261,
+			108.313, 108.242, 108.301, 108.457, 108.584, 108.64, 108.714, 108.851,
+			108.888, 109.061, 109.205, 109.418, 109.725, 109.962, 109.916, 110.223,
+			110.496, 110.66, 110.96, 111.119, 111.359, 111.638, 111.901, 112.203,
+			112.473, 112.665, 113.133, 113.49, 113.829, 114.139, 114.498, 114.801,
+			115.155, 115.361, 115.786, 116.056, 116.377, 116.588, 116.808, 116.971,
+			116.962, 117.189, 117.26, 117.538, 117.777, 117.926, 118.07, 118.21,
+			118.192, 118.627, 118.882, 119.047, 119.376, 119.647, 119.875, 120.078,
+			120.296, 120.534, 120.826, 121.003, 121.232, 121.526, 121.843, 122.134,
+			122.396, 122.642, 122.918, 122.911, 123.417, 123.756, 124.063, 124.361,
+			124.629, 124.814, 124.962, 125.24, 125.641, 125.846, 125.967, 126.322,
+			126.543, 126.735, 127.02, 127.364, 127.477, 127.873, 127.997, 128.379,
+			128.593, 128.85, 129.145, 129.338, 129.525, 129.947, 130.242, 130.536,
+			130.781, 130.901, 131.377, 131.662, 131.882, 131.839, 132.015, 132.004,
+			132.122, 132.11, 132.326, 132.484, 132.454, 132.546, 132.511, 132.214,
+			132.187, 132.029, 131.941, 131.803, 131.549, 131.172, 130.879, 130.705,
+			130.581, 130.478, 130.441, 130.335, 130.326, 130.377, 130.277, 130.295,
+			130.25, 130.309, 130.315, 130.161, 130.247, 130.125, 129.907, 129.853,
+			129.827, 129.854, 129.857, 129.859, 129.953, 130.076, 130.172, 130.255,
+			130.372, 130.466, 130.786, 131.123, 131.373, 131.479, 131.562, 131.75,
+			131.88, 132.162, 132.294, 132.449, 132.573, 132.873, 132.995, 133.287,
+			133.413, 133.588, 133.865, 134.013, 134.005, 134.061]
+		)
+	),
+	New Column( "Month",
+		Character,
+		Nominal,
+		List Check(
+			{"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+			"Nov", "Dec"}
+		),
+		Set Values(
+			{"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+			"Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug",
+			"Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+			"Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr",
+			"May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb",
+			"Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+			"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+			"Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug",
+			"Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+			"Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr",
+			"May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb",
+			"Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+			"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct",
+			"Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug",
+			"Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr", "May", "Jun",
+			"Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb", "Mar", "Apr",
+			"May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec", "Jan", "Feb",
+			"Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec",
+			"Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct"}
+		)
+	),
+	Set Row States(
+		[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+		0, 0, 0, 0, 0, 0, 0, 0, 1]
+	),
+	Set Label Columns( :Month )
+);
+Graph Builder(
+	Size( 1124, 690 ),
+	Variables( X( :Year ), Y( :Name( "Employees (millions)" ) ) ),
+	Elements(
+		Smoother( X, Y, Legend( 4 ) ),
+		Points( X, Y, Legend( 5 ), Jitter( 1 ) )
+	)
+);

@@ -1,0 +1,597 @@
+Name	Artist	Genre	Megabytes (MB)	Time (seconds)	Format	Format Dummy	Dummy * Time
+Sufoco	Alcione	Latin	41.5433064	246	AIFF	1	246
+Olere Camara	Alcione	Latin	31.229805	185	AIFF	1	185
+Ghost In This House	Alison Krauss	Country	3.72106743	240	AAC	0	0
+You Asked Me To	Alison Krauss	Country	36.7992802	218	AIFF	1	218
+Down In Texas	The Allman Brothers Band	Rock	31.4787731	187	AIFF	1	187
+Morning Dew	The Allman Brothers Band	Rock	38.089016	226	AIFF	1	226
+Its Not My Cross To Bear	The Allman Brothers Band	Rock	49.9547234	296	AIFF	1	296
+Trouble No More	The Allman Brothers Band	Rock	38.4075336	228	AIFF	1	228
+In Memory Of Elizabeth Reed [Fillmore East 1971   Live]	The Allman Brothers Band	Rock	12.0195398	778	AAC	0	0
+Just Aint Easy	The Allman Brothers Band	Rock	50.7397518	301	AIFF	1	301
+Angeline	The Allman Brothers Band	Rock	37.0975647	220	AIFF	1	220
+(You Make Me Feel Like) A Natural Woman	Aretha Franklin	R B	2.50650311	163	AAC	0	0
+Since Youve Been Gone (Sweet Sweet Baby)	Aretha Franklin	R B	2.22969246	144	AAC	0	0
+Aint No Way	Aretha Franklin	R B	3.8783474	252	AAC	0	0
+Think	Aretha Franklin	R B	2.13035679	138	AAC	0	0
+I Say A Little Prayer	Aretha Franklin	R B	3.27284431	212	AAC	0	0
+See Saw	Aretha Franklin	R B	2.51023769	163	AAC	0	0
+Day Dreaming	Aretha Franklin	R B	3.67565441	239	AAC	0	0
+Until You Come Back To Me	Aretha Franklin	R B	3.17942047	207	AAC	0	0
+When Your Lover Has Gone	Art Blakey	Jazz	6.238451	404	AAC	0	0
+Begin The Beguine	Art Tatum	Jazz	27.2124825	161	AIFF	1	161
+Bobs Breakdowns	Asleep At The Wheel	Country	37.0953197	220	AIFF	1	220
+End Of The Line	Asleep At The Wheel	Country	28.2913799	168	AIFF	1	168
+Deep Water	Asleep At The Wheel	Country	2.52096748	162	AAC	0	0
+Cinco A Diez	Azabache	Latin	60.4229164	359	AIFF	1	359
+Besitos De Coco	Azabache	Latin	69.9244442	415	AIFF	1	415
+Love Shack	The B 52s	Rock	54.0998249	321	AIFF	1	321
+Channel Z	The B 52s	Rock	48.7770844	289	AIFF	1	289
+Aint Nobody Home (With Dangelo)	B.B. King	Blues	53.521122	318	AIFF	1	318
+Life Is A Carnival	The Band	Rock	3.63519192	236	AAC	0	0
+It Makes No Difference	The Band	Soundtrack	68.9802208	410	AIFF	1	410
+Sarandonga	Barbarito Torres	Latin	3.43628502	221	AAC	0	0
+Corazon De Chivo	Barbarito Torres	Latin	4.7423563	306	AAC	0	0
+Things We Said Today	The Beatles	Rock	2.41216278	158	AAC	0	0
+Here Comes The Sun	The Beatles	Pop	2.8716507	185	AAC	0	0
+You Never Give Me Your Money	The Beatles	Pop	3.75294399	242	AAC	0	0
+Mean Mr. Mustard	The Beatles	Pop	1.06279278	66	AAC	0	0
+Speech: John	The Beatles	Rock	1.74051666	10	AIFF	1	10
+I Want To Hold Your Hand	The Beatles	Rock	26.3983116	156	AIFF	1	156
+Ill Be Back (Demo)	The Beatles	Rock	12.2491989	72	AIFF	1	72
+Ill Be Back (Complete)	The Beatles	Rock	19.8306847	117	AIFF	1	117
+Eight Days A Week	The Beatles	Rock	28.2017117	167	AIFF	1	167
+Kansas City / Hey Hey Hey Hey!	The Beatles	Rock	27.6589241	164	AIFF	1	164
+Im Down	The Beatles	Rock	29.1886234	173	AIFF	1	173
+Youve Got To Hide Your Love Away	The Beatles	Rock	27.7149677	164	AIFF	1	164
+Yesterday	The Beatles	Rock	27.3740044	162	AIFF	1	162
+Help!	The Beatles	Rock	29.3972244	174	AIFF	1	174
+Norwegian Wood	The Beatles	Rock	20.0886078	119	AIFF	1	119
+Im Looking Thru You	The Beatles	Rock	29.2559261	173	AIFF	1	173
+And Your Bird Can Sing	The Beatles	Rock	22.4438095	133	AIFF	1	133
+You Know My Name (Look Up The Number)	The Beatles	Rock	57.7425766	343	AIFF	1	343
+Dont Pass Me By	The Beatles	Rock	27.2820301	162	AIFF	1	162
+Step Inside Love/Los Paranoias	The Beatles	Rock	25.3934727	150	AIFF	1	150
+Why Dont We Do It In The Road	The Beatles	Rock	22.7466278	135	AIFF	1	135
+Oh! Darling	The Beatles	Pop	41.7339497	248	AIFF	1	248
+Babys In Black	The Beatles	Rock	21.4613132	127	AIFF	1	127
+Everybodys Trying To Be My Baby	The Beatles	Rock	24.2045708	143	AIFF	1	143
+With A Little Help From My Friends	The Beatles	Rock	2.5543108	164	AAC	0	0
+Lovely Rita	The Beatles	Rock	2.525774	162	AAC	0	0
+Happiness Is A Warm Gun	The Beatles	Rock	2.53543377	163	AAC	0	0
+Martha My Dear	The Beatles	Rock	2.32049656	148	AAC	0	0
+Savoy Truffle	The Beatles	Rock	29.4241428	174	AIFF	1	174
+Limboland (Pop Remix)	Betty	Rock	31.9609642	189	AIFF	1	189
+Happy On My Way	Bill Monroe	Country	22.1948338	131	AIFF	1	131
+Im Sittin On Top Of The World	Bill Monroe	Country	23.6887379	140	AIFF	1	140
+Ill Meet You In The Morning	Bill Monroe	Country	22.5559845	134	AIFF	1	134
+Jerusalem Ridge	Bill Monroe	Country	35.8011284	212	AIFF	1	212
+My Last Days On Earth	Bill Monroe	Country	46.8884907	278	AIFF	1	278
+Brakemans Blues	Bill Monroe	Country	26.6338196	158	AIFF	1	158
+Walking In Jerusalem	Bill Monroe	Country	20.3622761	121	AIFF	1	121
+Salt Creek	Bill Monroe	Country	24.7137947	146	AIFF	1	146
+Sailors Hornpipe	Bill Monroe	Country	19.5951786	116	AIFF	1	116
+Dusty Miller	Bill Monroe	Country	24.0857296	143	AIFF	1	143
+Soldiers Joy	Bill Monroe	Country	22.1746578	131	AIFF	1	131
+With Body And Soul	Bill Monroe	Country	31.4765644	187	AIFF	1	187
+Saturday Night	Billy Dean	Rock	34.8814621	207	AIFF	1	207
+Santa Claus Is Coming To Town	Bing Crosby   Frank Sinatra	Holiday	19.1689415	113	AIFF	1	113
+God Bless The Child	Blood  Sweat   Tears	Rock	59.3126564	352	AIFF	1	352
+Fishers Hornpipe	Bob Carlin  Kirk Sutphin  Joe Newberry  Scott Ainslie and Paul Brown	Country	27.8293743	165	AIFF	1	165
+When the Wagon Was New	Bob Carlin  Kirk Sutphin  Joe Newberry  Scott Ainslie and Paul Brown	Country	35.2291756	209	AIFF	1	209
+You Angel You	Bob Dylan	Rock	29.2626362	173	AIFF	1	173
+To Ramona	Bob Dylan	Rock	39.3226757	233	AIFF	1	233
+Tangled Up In Blue	Bob Dylan	Rock	57.7604904	343	AIFF	1	343
+I Want You	Bob Dylan	Rock	31.5168896	187	AIFF	1	187
+Solid Rock	Bob Dylan	Rock	39.9125977	237	AIFF	1	237
+Idiot Wind	Bob Dylan	Rock	78.845068	468	AIFF	1	468
+Buckets Of Rain	Bob Dylan	Rock	34.2376976	203	AIFF	1	203
+Its All Over Now  Baby Blue [Take 1]	Bob Dylan	Soundtrack	3.31408405	213	AAC	0	0
+Tombstone Blues [Alternate Take]	Bob Dylan	Soundtrack	3.35839653	216	AAC	0	0
+Wiggle Wiggle	Bob Dylan	Rock	21.7820816	129	AIFF	1	129
+Ragged   Dirty	Bob Dylan	Rock	41.9582405	249	AIFF	1	249
+Lo And Behold	Bob Dylan   The Band	Rock	28.073843	166	AIFF	1	166
+Please  Mrs. Henry	Bob Dylan   The Band	Rock	25.7971611	153	AIFF	1	153
+3 A.M.	Bob James	Jazz	55.2662125	328	AIFF	1	328
+Rousseau	Bob James	Jazz	60.8895092	361	AIFF	1	361
+Hypocrites	Bob Marley	Reggae	26.1851807	155	AIFF	1	155
+Im Hurting Inside (Alternate Mix)	Bob Marley	Reggae	35.0990505	208	AIFF	1	208
+No More Trouble	Bob Marley	Reggae	40.2378426	239	AIFF	1	239
+Concrete Jungle	Bob Marley	Reggae	42.2049904	250	AIFF	1	250
+Get Up Stand Up	Bob Marley	Reggae	32.728138	194	AIFF	1	194
+War	Bob Marley	Reggae	36.4919586	216	AIFF	1	216
+Natural Mystic	Bob Marley	Reggae	35.0608997	208	AIFF	1	208
+Steal Your Heart Away	Bonnie Raitt	Rock	57.9511509	344	AIFF	1	344
+One Part Be My Lover	Bonnie Raitt	Rock	51.5091457	306	AIFF	1	306
+Kokomo	Bonnie Raitt	Rock	50.4885483	300	AIFF	1	300
+Come To Me	Bonnie Raitt	Rock	50.8474255	302	AIFF	1	302
+Angel From Montgomery	Bonnie Raitt	Rock	53.2968369	316	AIFF	1	316
+El Vergel	Bostich	Electronica/Dance	36.4964447	216	AIFF	1	216
+Quit	Brad Mehldau Trio	Jazz	6.7112999	434	AAC	0	0
+Secret Love	Brad Mehldau Trio	Jazz	9.40561962	608	AAC	0	0
+Sidney In Da House	Branford Marsalis	Jazz	6.06982327	392	AAC	0	0
+In The Crease	Branford Marsalis Quartet	Jazz	68.9129009	409	AIFF	1	409
+Tain Mutiny	Branford Marsalis Quartet	Jazz	84.7151299	503	AIFF	1	503
+Night	Bruce Springsteen	Rock	30.5860214	181	AIFF	1	181
+Born To Run	Bruce Springsteen	Rock	45.4753399	270	AIFF	1	270
+Buckwheats Special	Buckwheat Zydeco	World	53.3528957	317	AIFF	1	317
+Hot Tamale Baby	Buckwheat Zydeco	World	41.7047749	247	AIFF	1	247
+Bucks Nouvelle Jole Blon	Buckwheat Zydeco   Ils Sont Partis Band	Soundtrack	47.408884	281	AIFF	1	281
+No Name Blues	Bud Powell	Jazz	67.1543407	399	AIFF	1	399
+I Aint Foolin	Bud Powell	Jazz	33.8429298	201	AIFF	1	201
+Bud On Bach	Bud Powell	Jazz	2.36685848	153	AAC	0	0
+Cleopatras Dream	Bud Powell	Jazz	4.07629395	265	AAC	0	0
+I Am A Child	Buffalo Springfield	Rock	23.9645996	142	AIFF	1	142
+Moliendo Cafe	Carlos Guedes	Jazz	4.35860825	284	AAC	0	0
+I Feel the Earth Move	Carole King	Pop	2.77857399	180	AAC	0	0
+Wrap Around Joy	Carole King	Pop	2.77621746	180	AAC	0	0
+Monday Without You	Carole King	Pop	40.7470036	242	AIFF	1	242
+Safe Harbor Rag   Wild Hog In The Woods	Cathy Fink	Folk	27.5018215	163	AIFF	1	163
+Sleepy Lu	Cathy Fink	Folk	19.0948715	113	AIFF	1	113
+Isadoras Reel	Cathy Fink	Folk	19.5659142	116	AIFF	1	116
+Said The Banjo To The Whipporwill	Cathy Fink	Folk	21.10466	125	AIFF	1	125
+Cinema Paradiso (Main Theme)	Charlie Haden   Pat Metheny	Jazz	4.13070679	267	AAC	0	0
+This Time the Dreams on Me	Charlie Parker	Jazz	36.7723389	218	AIFF	1	218
+Cool Blues	Charlie Parker	Jazz	22.6232147	134	AIFF	1	134
+Dont Take Your Guns To Town	Charlie Robison	Country	38.1855106	226	AIFF	1	226
+Say It Again (Part 2)	Chick Corea	Jazz	14.8847313	88	AIFF	1	88
+Tempus Fugit	Chick Corea	Jazz	96.3744488	572	AIFF	1	572
+Blue Monk	Chick Corea	Jazz	45.318327	269	AIFF	1	269
+Dusk In Sandi	Chick Corea	Jazz	57.9847832	344	AIFF	1	344
+Brazil	Chick Corea	Jazz	30.9404449	183	AIFF	1	183
+Whole Heap Of Little Horses	The Chieftains	Country	28.085104	166	AIFF	1	166
+Ill Be All Smiles Tonight	The Chieftains	Country	45.4686794	270	AIFF	1	270
+Katie Dear	The Chieftains	Country	45.0694027	267	AIFF	1	267
+I Shall Be Released (Live)	Chrissie Hynde	Rock	44.7665977	266	AIFF	1	266
+Formosa	Ciro Monteiro	Latin	28.2420788	167	AIFF	1	167
+Guitar In My Hand	Clarence Gatemouth Brown	Blues	52.6015224	312	AIFF	1	312
+Harvard Blues [41]   Jimmy Rushing	Count Basie	Jazz	3.11705112	202	AAC	0	0
+Aint It The Truth [42]	Count Basie	Jazz	2.71669483	176	AAC	0	0
+Oh  Lady Be Good	Count Basie	Jazz	2.88915539	188	AAC	0	0
+I Aint Got Nobody	Count Basie	Jazz	2.74638939	178	AAC	0	0
+Ticke Toe	Count Basie   His Orchestra	Jazz	2.45508766	159	AAC	0	0
+Rock Bye Basie	Count Basie   His Orchestra	Jazz	3.45025635	222	AAC	0	0
+Baby  Dont Tell On Me	Count Basie   His Orchestra	Jazz	3.48278141	226	AAC	0	0
+Round Here	Counting Crows	Rock	55.7462711	331	AIFF	1	331
+Omaha	Counting Crows	Rock	36.933836	219	AIFF	1	219
+Mr. Jones	Counting Crows	Rock	45.8342323	272	AIFF	1	272
+Have You Seen Me Lately?	Counting Crows	Rock	42.2655678	251	AIFF	1	251
+Millers Angels	Counting Crows	Rock	66.2728405	393	AIFF	1	393
+A Long December	Counting Crows	Rock	50.0780754	297	AIFF	1	297
+Comin Back Soon (The Bereft Mans Song)	Crash Test Dummies	Alternative   Punk	45.1165047	268	AIFF	1	268
+Supermans Song	Crash Test Dummies	Alternative   Punk	45.6413517	271	AIFF	1	271
+Wrapping Paper	Cream	Rock	23.789587	141	AIFF	1	141
+Susie Q	Creedence Clearwater Revival	Rock	4.26275349	276	AAC	0	0
+Proud Mary	Creedence Clearwater Revival	Rock	2.93541336	188	AAC	0	0
+Sweet Hitch Hiker	Creedence Clearwater Revival	Rock	2.73287201	175	AAC	0	0
+Wooden Ships	Crosby  Stills  Nash   Young	Rock	5.03779888	330	AAC	0	0
+Guinnevere	Crosby  Stills  Nash   Young	Rock	4.28389931	282	AAC	0	0
+Little Ditty	Cyrus Chestnut	Jazz	6.80319977	442	AAC	0	0
+Cornbread Pudding	Cyrus Chestnut	Jazz	6.08462524	393	AAC	0	0
+So Much to Say	Dave Matthews Band	Rock	41.5590019	247	AIFF	1	247
+Crash Into Me	Dave Matthews Band	Rock	53.2183323	316	AIFF	1	316
+41	Dave Matthews Band	Rock	67.2709808	399	AIFF	1	399
+Carol Of The Bells	David Benoit	Holiday	37.3376026	221	AIFF	1	221
+Remembering What You Said	David Benoit	Jazz	46.0405998	273	AIFF	1	273
+Sao Paulo	David Benoit	Jazz	53.2968254	316	AIFF	1	316
+Cat On A Windowsill	David Benoit	Jazz	46.8772469	278	AIFF	1	278
+Funkallero	David Benoit	Jazz	36.3394241	216	AIFF	1	216
+Mediterranean Nights	David Benoit   Russ Freeman	Jazz	70.2206211	417	AIFF	1	417
+Teardrops In My Eyes	David Grisman	Country	29.9198265	177	AIFF	1	177
+La Sirena	David Hidalgo	Latin	29.1056404	173	AIFF	1	173
+When Silence Was Golden	David Schnaufer	Folk	31.1759586	185	AIFF	1	185
+Baby Baby All The Time	Diana Krall	Jazz	3.34300995	215	AAC	0	0
+Pick Yourself Up	Diana Krall	Jazz	2.826931	181	AAC	0	0
+The Christmas Song	Diane Schuur	Holiday	40.7133846	242	AIFF	1	242
+The Mans Too Strong	Dire Straits	Rock	4.3324213	280	AAC	0	0
+Brothers In Arms	Dire Straits	Rock	6.47301388	419	AAC	0	0
+It Never Rains	Dire Straits	Rock	80.3815575	477	AIFF	1	477
+Tunnel Of Love	Dire Straits	Rock	82.5797787	490	AIFF	1	490
+Telegraph Road (Live Remix)	Dire Straits	Rock	120.935774	718	AIFF	1	718
+Cowboy Take Me Away	Dixie Chicks	Country	49.0081291	291	AIFF	1	291
+Tortured  Tangled Hearts	Dixie Chicks	Country	37.1469536	220	AIFF	1	220
+I Let A Song Go Out Of My Heart	Dizzy Gillespie   Stan Getz	Jazz	5.80164051	379	AAC	0	0
+Girl Of My Dreams	Dizzy Gillespie   Stan Getz	Jazz	3.04163361	199	AAC	0	0
+Siboney (Parts 1 And 2)	Dizzy Gillespie   Stan Getz	Jazz	7.90394306	514	AAC	0	0
+Telling Me Lies	Dolly Parton  Linda Ronstadt   Emmylou Harris	Country	44.6992798	265	AIFF	1	265
+Ive Had Enough	Dolly Parton  Linda Ronstadt   Emmylou Harris	Country	35.7293453	212	AIFF	1	212
+Waltz For Suzy	Dudley Moore	Jazz	41.6666794	247	AIFF	1	247
+Do Nothin Til You Hear From Me	Duke Ellington	Jazz	34.8859844	207	AIFF	1	207
+In My Solitude	Duke Ellington	Jazz	56.1230965	333	AIFF	1	333
+Sophisticated Lady	Duke Ellington	Jazz	42.7994328	254	AIFF	1	254
+Take The A Train	Duke Ellington	Jazz	56.7443867	337	AIFF	1	337
+Reflections in D	Duke Ellington	Jazz	36.5637684	217	AIFF	1	217
+New Kid In Town	The Eagles	Rock	51.0650425	303	AIFF	1	303
+Mi Magdalena	Eliades Ochoa Y El Cuarteto Patria	Latin	3.14296246	203	AAC	0	0
+Simplicidaje	Emily Remler	Jazz	49.629446	295	AIFF	1	295
+When He Calls	Emmylou Harris	Country	27.5354939	163	AIFF	1	163
+Drifting Too Far	Emmylou Harris	Country	48.6649723	289	AIFF	1	289
+Who Will Sing for Me	Emmylou Harris	Country	25.9878159	154	AIFF	1	154
+Good King Wenceslas	Empire Brass	Holiday	25.2296295	149	AIFF	1	149
+I Shot The Sheriff [Live]	Eric Clapton	Rock	79.024538	469	AIFF	1	469
+I Found A Love	Eric Clapton	Rock	36.8441219	219	AIFF	1	219
+Someone Like You	Eric Clapton	Rock	45.5246944	270	AIFF	1	270
+Lay Down Sally	Eric Clapton	Rock	38.8224602	230	AIFF	1	230
+Wonderful Tonight	Eric Clapton	Rock	37.4721527	222	AIFF	1	222
+Hoochie Coochie Man	Eric Clapton	Rock	32.9412251	195	AIFF	1	195
+Someday After A While	Eric Clapton	Rock	45.0985279	268	AIFF	1	268
+Groaning The Blues	Eric Clapton	Rock	61.7351551	366	AIFF	1	366
+Come Back Baby	Eric Clapton	Rock	39.5649147	235	AIFF	1	235
+Lonely Stranger	Eric Clapton	Rock	55.0531235	327	AIFF	1	327
+Stardust	Errol Garner	Jazz	28.0401573	166	AIFF	1	166
+Night And Day	Errol Garner	Jazz	33.4548645	198	AIFF	1	198
+Time Is A Healer	Eva Cassidy	Folk	43.1089363	256	AIFF	1	256
+True Love	The Fabulous Thunderbirds	Rock	32.1000805	190	AIFF	1	190
+Do Me A Favor	Fats Waller	Jazz	32.3961506	192	AIFF	1	192
+Tell Me With Your Kisses	Fats Waller	Jazz	33.2754345	197	AIFF	1	197
+Cariño Sincero	Flaco Jiménez	Unclassifiable	24.7025356	146	AIFF	1	146
+Pillow	Flim   The BBs	Jazz	48.1647701	286	AIFF	1	286
+Flakey Jakey	Flim   The BBs	Jazz	43.2816391	257	AIFF	1	257
+Sunflowers	Francis Dunnery	Alternative   Punk	35.3278236	209	AIFF	1	209
+Embraceable You	Frank Sinatra	Country	34.5001545	205	AIFF	1	205
+Un Lunes Por La Mañana	Freddy Fender	Latin	33.4235058	198	AIFF	1	198
+Zealots	The Fugees	Hip Hop/Rap	43.8312168	260	AIFF	1	260
+Cowboys	The Fugees	Hip Hop/Rap	54.4251442	323	AIFF	1	323
+Little Birdie	Gaither Carlton	Pop	24.099165	143	AIFF	1	143
+Bags Groove	Gary Burton	Jazz	5.03263092	325	AAC	0	0
+House On The Hill	Gary Burton	Jazz	5.28460407	341	AAC	0	0
+Or Else	Gary Burton	Jazz	4.44719315	287	AAC	0	0
+Was It So Long Ago?	Gary Burton	Jazz	7.23621082	468	AAC	0	0
+Willow Weep For Me	George Benson	Jazz	79.0356922	469	AIFF	1	469
+Clockwise (Alternate Take)	George Benson	Jazz	50.2866306	298	AIFF	1	298
+Isnt It A Pity	George Harrison	Rock	72.8674049	433	AIFF	1	433
+Run Of The Mill	George Harrison	Rock	28.9419136	172	AIFF	1	172
+I Live For You	George Harrison	Rock	36.5974159	217	AIFF	1	217
+Cloud 9	George Harrison	Rock	32.9412136	195	AIFF	1	195
+Dark Horse	George Harrison	Rock	43.0057583	255	AIFF	1	255
+All Those Years Ago	George Harrison	Rock	45.1142254	268	AIFF	1	268
+Ill Never Let A Day Pass By	George Shearer	Jazz	27.5422249	163	AIFF	1	163
+Mujer	Gipsy Kings	World	43.2098789	256	AIFF	1	256
+Los Peces En El Rio	Gipsy Kings	World	33.0870438	196	AIFF	1	196
+Cataluña	Gipsy Kings	World	37.2209606	221	AIFF	1	221
+Prelude No.15 In G Major  BWV 884	Glenn Gould	Classical	11.7669601	69	AIFF	1	69
+Prelude No.17 In A Flat Major  BWV 886	Glenn Gould	Classical	30.3909416	180	AIFF	1	180
+Bach (JS): The Well Tempered Clavier  Book 2   09. Prelude   Fugue 5 In D  BWV 874   Praeludium	Glenn Gould	Classical	42.727726	253	AIFF	1	253
+Bach (JS): The Well Tempered Clavier  Book 2   13. Prelude   Fugue 7 In E Flat  BWV 876   Praeludium	Glenn Gould	Classical	14.8556919	88	AIFF	1	88
+Bach (JS): The Well Tempered Clavier  Book 2   17. Prelude   Fugue 9 In E Major  BWV 878   Praeludium	Glenn Gould	Classical	23.0943871	137	AIFF	1	137
+Bach (JS): The Well Tempered Clavier  Book 2   22. Prelude   Fugue 11 In F  BWV 880   Fuga	Glenn Gould	Classical	15.6699066	93	AIFF	1	93
+High Time	Grateful Dead	Rock	53.1353378	315	AIFF	1	315
+Dont Deny Me	Gregg Allman	Rock	46.6080627	277	AIFF	1	277
+Memphis In The Meantime	Gregg Allman	Rock	37.6134758	223	AIFF	1	223
+Begin the Beguine	Guy Van Duser And Billy Novick	Jazz	34.8432941	207	AIFF	1	207
+Sondras Blues	Guy Van Duser And Billy Novick	Jazz	55.232542	328	AIFF	1	328
+High Society	Guy Van Duser And Billy Novick	Jazz	31.6334953	188	AIFF	1	188
+Do You Know What It Means To Miss New Orleans	Harry Connick  Jr.	Jazz	54.4183769	323	AIFF	1	323
+Colomby Day	Harry Connick  Jr.	Jazz	61.6790771	366	AIFF	1	366
+Just A Boy	Harry Connick  Jr.	Jazz	62.183773	369	AIFF	1	369
+Sweethearts On Parade	Herb Ellis and Red Mitchell	Jazz	39.3854694	234	AIFF	1	234
+Theres No Bad Blues	Herb Ellis and Red Mitchell	Jazz	51.8455658	308	AIFF	1	308
+Over The Rainbow	Herb Ellis and Red Mitchell	Jazz	69.1708183	411	AIFF	1	411
+Tijuana For Dummies	Hiperboreal	Electronica/Dance	52.3884106	311	AIFF	1	311
+How Bold	Holly Near	Folk	41.8954067	249	AIFF	1	249
+How Was I To Know	Holly Near	Folk	39.3742352	234	AIFF	1	234
+Running From An Angel	Hootie   The Blowfish	Rock	36.6198673	217	AIFF	1	217
+Cracked Rear View	Hootie   The Blowfish	Rock	9.03044891	53	AIFF	1	53
+Juicy Lucy	Horace Silver	Jazz	5.32736492	346	AAC	0	0
+Short Grass	Ian   Sylvia	Folk	2.13582325	139	AAC	0	0
+Gifts Are For Giving	Ian   Sylvia	Folk	3.00632858	196	AAC	0	0
+Satisfied Mind	Ian   Sylvia	Folk	3.30895519	215	AAC	0	0
+Twenty Four Hours From Tulsa	Ian   Sylvia	Folk	2.84959126	186	AAC	0	0
+Every Time I Feel The Spirit	Ian   Sylvia	Folk	1.67098999	108	AAC	0	0
+Blood And Fire	Indigo Girls	Rock	46.9669552	279	AIFF	1	279
+Tried To Be True	Indigo Girls	Rock	30.1755447	179	AIFF	1	179
+Hammer And A Nail	Indigo Girls	Rock	38.8897781	231	AIFF	1	231
+1 2 3	Indigo Girls	Rock	43.1134644	256	AIFF	1	256
+Miles Away	Jackson Browne	Rock	3.60187817	232	AAC	0	0
+Casino Nation	Jackson Browne	Rock	70.0927715	416	AIFF	1	416
+Chasing You Into The Light	Jackson Browne	Rock	43.7078457	259	AIFF	1	259
+When The Stone Begins To Turn	Jackson Browne	Rock	49.0956345	291	AIFF	1	291
+Ive Got A Feeling	The James Cotton Blues Band	Blues	49.9434814	296	AIFF	1	296
+Folsom Prison Blues	James Intveld	Country	31.8488979	189	AIFF	1	189
+On The 4th Of July	James Taylor	Pop	34.6055584	205	AIFF	1	205
+As the Rain	Jeb Loy Nichols	Alternative   Punk	44.2349434	262	AIFF	1	262
+Appetizer 2	Jerry Garcia  David Grisman   Tony Rice	Rock	4.92562866	29	AIFF	1	29
+Appetizer 3	Jerry Garcia  David Grisman   Tony Rice	Rock	4.48374939	26	AIFF	1	26
+House Of The Rising Sun	Jerry Garcia  David Grisman   Tony Rice	Rock	81.6309662	485	AIFF	1	485
+Ec Stacy	Jess Stacy	Jazz	49.0238514	291	AIFF	1	291
+Room Full Of Mirrors	Jimi Hendrix	Rock	33.4907913	199	AIFF	1	199
+Dolly Dagger	Jimi Hendrix	Rock	47.6488647	283	AIFF	1	283
+Are You Experienced?	The Jimi Hendrix Experience	Rock	43.0528736	255	AIFF	1	255
+Hey Joe	The Jimi Hendrix Experience	Rock	35.5611	211	AIFF	1	211
+Little Miss Lover	The Jimi Hendrix Experience	Rock	24.3100128	144	AIFF	1	144
+Gypsy Eyes	The Jimi Hendrix Experience	Rock	37.8804092	225	AIFF	1	225
+Have You Ever Been (To Electric Ladyland)	The Jimi Hendrix Experience	Rock	21.8718681	130	AIFF	1	130
+Wild Thing	The Jimi Hendrix Experience	Rock	67.4212933	400	AIFF	1	400
+Gloria	The Jimi Hendrix Experience	Rock	88.7414036	527	AIFF	1	527
+The Peacocks	Jimmy Rowles	Jazz	40.5563755	241	AIFF	1	241
+Tuition Blues	Jimmy Smith	Jazz	5.42936611	351	AAC	0	0
+My Funny Valentine	Jimmy Smith	Jazz	10.2294922	663	AAC	0	0
+Its Only A Paper Moon	Jimmy Smith	Jazz	9.65458965	628	AAC	0	0
+Cane River	Jimmy Witherspoon	Blues	25.6804657	152	AIFF	1	152
+Mean Old Frisco Blues	Jimmy Witherspoon	Blues	32.0327721	190	AIFF	1	190
+Plane Wreck At Los Gatos (Deportee)	Joe Ely	Latin	36.7589169	218	AIFF	1	218
+As Long As I Live	Joe Pass	Jazz	46.7404232	277	AIFF	1	277
+Blues For Monty	Joe Pass	Jazz	64.7632446	384	AIFF	1	384
+Tricrotism	Joe Pass	Jazz	60.8222275	361	AIFF	1	361
+Dindi	Joe Pass	Jazz	44.2573643	263	AIFF	1	263
+Naima	John Coltrane	Jazz	44.6341858	265	AIFF	1	265
+In The Manger	John Doan	Holiday	47.6959362	283	AIFF	1	283
+The Angels First Noel	John Doan	Holiday	35.0003262	208	AIFF	1	208
+Infant King	John Doan	Holiday	41.3346672	245	AIFF	1	245
+Gone  Gone  Gone	John Hartford	Folk	1.78671169	114	AAC	0	0
+Highway	John Lee Hooker	Blues	66.9457283	397	AIFF	1	397
+Susie	John Lee Hooker	Blues	44.9414845	267	AIFF	1	267
+Hideaway	John Mayall   The Bluesbreakers	Rock	32.6944828	194	AIFF	1	194
+Wont Pass Me By	Johnny Adams	Blues	44.2730331	263	AIFF	1	263
+Angel Eyes	Johnny Adams	Blues	37.095293	220	AIFF	1	220
+Personal Jesus	Johnny Cash	Country	33.6926575	200	AIFF	1	200
+Redemption	Johnny Cash	Country	30.8955631	183	AIFF	1	183
+Like A Soldier	Johnny Cash	Country	28.6502819	170	AIFF	1	170
+The One Rose (Thats Left In My Heart)	Johnny Cash	Rock	24.641983	146	AIFF	1	146
+Meet Me In Heaven	Johnny Cash	Rock	33.8653507	201	AIFF	1	201
+Highway 61 Revisited	Johnny Winter	Folk	51.4463711	305	AIFF	1	305
+Enemies Within	Joshua Redman	Jazz	94.8603954	563	AIFF	1	563
+Walkin In And Out Of Your Arms	k.d. lang	Country	31.1625061	185	AIFF	1	185
+Nowhere To Stand	k.d. lang	Country	44.8854237	266	AIFF	1	266
+Smoke Dreams	k.d. lang	Country	38.4635963	228	AIFF	1	228
+Save Me	k.d. lang	Country	45.9732723	273	AIFF	1	273
+Zou	Kassav	World	51.7603016	307	AIFF	1	307
+Youre The One	Kate Bush	Alternative   Punk	59.0950966	351	AIFF	1	351
+Tell Everybody I Know	Keb Mo	Blues	31.947546	189	AIFF	1	189
+She Just Wants To Dance	Keb Mo	Blues	35.1999683	209	AIFF	1	209
+Blues	Keith Jarrett	Jazz	54.2276936	322	AIFF	1	322
+partIIa	Keith Jarrett	Jazz	13.8191433	894	AAC	0	0
+Cumberland Gap	Kyle Creed	Folk	12.8704777	76	AIFF	1	76
+Big Eyed Rabbit	Kyle Creed and Fred Cockerham	Folk	18.1977215	108	AIFF	1	108
+Inner City Blues	Larry Coryel	Jazz	35.5319424	211	AIFF	1	211
+Misty	Larry Coryel	Jazz	45.7310333	271	AIFF	1	271
+The Lighthouse	Laurie Lewis	Country	4.11724377	266	AAC	0	0
+Mona Ray	Leo Kottke	Folk	37.5282021	223	AIFF	1	223
+Medley	Leo Kottke	Folk	22.0175648	130	AIFF	1	130
+Hay Unos Ojos	Linda Ronstadt	Latin	28.2420559	167	AIFF	1	167
+La Cigarra	Linda Ronstadt	Latin	38.6049099	229	AIFF	1	229
+Cold  Cold  Cold	Little Feat	Rock	40.6169052	241	AIFF	1	241
+Big Love	Little Village	Rock	64.7766914	385	AIFF	1	385
+Fool Who Knows	Little Village	Rock	37.9992619	225	AIFF	1	225
+The Sad Café	Lorrie Morgan	Rock	47.9853134	285	AIFF	1	285
+Río De Tenampa	Los Super Seven	Latin	44.1900997	262	AIFF	1	262
+Foot Of Pride	Lou Reed	Folk	88.7974949	527	AIFF	1	527
+When I Stop Dreaming	The Louvin Brothers	Country	25.4719048	151	AIFF	1	151
+Pra Que Discutir Com Madame	Luciana Souza	World	27.4816875	163	AIFF	1	163
+Creeps Like Me	Lyle Lovett	Country	22.661356	134	AIFF	1	134
+Moon On My Shoulder	Lyle Lovett	Country	23.583252	140	AIFF	1	140
+If I Had A Boat	Lyle Lovett	Country	32.0058441	190	AIFF	1	190
+Shes No Lady	Lyle Lovett	Country	32.8357677	195	AIFF	1	195
+Simple Song	Lyle Lovett	Country	33.697094	200	AIFF	1	200
+Pontiac	Lyle Lovett	Country	24.5813675	146	AIFF	1	146
+Pontiac	Lyle Lovett	Country	24.5813675	146	AIFF	1	146
+Lonely In Love	Lyle Lovett	Country	27.8046665	165	AIFF	1	165
+The Road to Ensenada	Lyle Lovett	Country	43.0080013	255	AIFF	1	255
+La Ronde	M.J.Q.	Jazz	2.96351624	190	AAC	0	0
+Vendome	M.J.Q.	Jazz	3.02862549	195	AAC	0	0
+Autumn In New York	M.J.Q.	Jazz	3.44118309	222	AAC	0	0
+Jackson	Mandy Barnett And Chuck Mead	Country	28.8970757	171	AIFF	1	171
+The Speak Up Mambo (Cuentame)	The Manhattan Transfer	Jazz	31.3621635	186	AIFF	1	186
+So You Say (Esquinas)	The Manhattan Transfer	Jazz	50.721859	301	AIFF	1	301
+Trickle Trickle	The Manhattan Transfer	Jazz	23.6505718	140	AIFF	1	140
+I Got It Bad	Marcus Roberts	Jazz	35.8056126	212	AIFF	1	212
+Shout em Aunt Tillie	Marcus Roberts	Jazz	56.717495	337	AIFF	1	337
+Our Love Is Here To Stay	Marcus Roberts	Jazz	5.35351181	348	AAC	0	0
+They Cant Take That Away From Me	Marcus Roberts	Jazz	7.84582233	510	AAC	0	0
+How Long Has This Been Going On?	Marcus Roberts	Jazz	4.02484703	262	AAC	0	0
+But Not For Me	Marcus Roberts	Jazz	5.75731087	372	AAC	0	0
+Shout em Aunt Tillie	Marcus Roberts	Jazz	56.6210365	336	AIFF	1	336
+Creole Blues	Marcus Roberts	Jazz	17.8388195	106	AIFF	1	106
+The Jitterbug Waltz	Marcus Roberts	Jazz	4.06158447	262	AAC	0	0
+Texas Rangers	Michael Martin Murphey	Country	3.12098217	201	AAC	0	0
+Secret To A Long Life	Michelle Shocked	Alternative   Punk	3.57023239	230	AAC	0	0
+Jump Jim Crow	Michelle Shocked	Alternative   Punk	3.28826046	212	AAC	0	0
+Strawberry Jam	Michelle Shocked	Alternative   Punk	4.22451973	273	AAC	0	0
+Mother Of A Man	Mick Jagger	Rock	43.3265896	257	AIFF	1	257
+Think	Mick Jagger	Rock	30.1374226	179	AIFF	1	179
+Hang On To Me Tonight	Mick Jagger	Rock	46.5790081	276	AIFF	1	276
+Battle In The Horseshoe	Mike Seeger	Folk	1.80190945	114	AAC	0	0
+Big Time	Miles Davis	Jazz	5.2816906	341	AAC	0	0
+Hannibal	Miles Davis	Jazz	5.42542839	351	AAC	0	0
+Deception	Miles Davis	Jazz	28.6525173	170	AIFF	1	170
+Bye Bye Blackbird	Miles Davis   John Coltrane	Jazz	80.3031368	477	AIFF	1	477
+So What	Miles Davis   John Coltrane	Jazz	94.8716564	563	AIFF	1	563
+Flamenco Sketches	Miles Davis   John Coltrane	Jazz	95.4997177	567	AIFF	1	567
+All Blues	Miles Davis   John Coltrane	Jazz	116.505798	692	AIFF	1	692
+Milestones	Miles Davis   John Coltrane	Jazz	58.0184917	344	AIFF	1	344
+Two Bass Hit (Alternate Take)	Miles Davis   John Coltrane	Jazz	3.12438011	201	AAC	0	0
+Sweet Sue   Just You (False start With Discussion Between Leonard Bernstein   Miles Davis)	Miles Davis   John Coltrane	Jazz	19.9878235	118	AIFF	1	118
+Miles Davis Comments	Miles Davis   John Coltrane	Jazz	5.15674782	30	AIFF	1	30
+Two Bass Hit (Alternate Take)	Miles Davis   John Coltrane	Jazz	45.8567696	272	AIFF	1	272
+My Funny Valentine	Miles Davis   John Coltrane	Jazz	9.56199646	618	AAC	0	0
+The Late Late Blues	Milt Jackson   John Coltrane	Jazz	8.84972382	575	AAC	0	0
+Delilah	Milt Jackson   Wes Montgomery	Jazz	5.7229929	371	AAC	0	0
+Odds Against Tomorrow	Modern Jazz Quartet	Jazz	7.89755726	510	AAC	0	0
+Odds Against Tomorrow	Modern Jazz Quartet	Jazz	8.25816727	534	AAC	0	0
+The Martyr	Modern Jazz Quartet	Jazz	8.24493408	533	AAC	0	0
+Valeria	Modern Jazz Quartet	Jazz	6.31719017	408	AAC	0	0
+Romaine	Modern Jazz Quartet	Jazz	6.83496475	445	AAC	0	0
+Jazz Ostinato	Modern Jazz Quartet	Jazz	5.87360287	382	AAC	0	0
+D and E	Modern Jazz Quartet	Jazz	7.79031944	506	AAC	0	0
+Honaloochie Boogie	Mott The Hoople	Rock	26.925396	160	AIFF	1	160
+All The Young Dudes	Mott The Hoople	Rock	35.3861504	210	AIFF	1	210
+Listen To The Radio	Nanci Griffith	Folk	38.9166908	231	AIFF	1	231
+Deck The Hall	Nat King Cole	Holiday	11.5246735	68	AIFF	1	68
+Adeste Fideles	Nat King Cole	Holiday	24.7990246	147	AIFF	1	147
+Like A Hurricane	Neil Young	Rock	47.8305359	284	AIFF	1	284
+Transformer Man	Neil Young	Rock	36.3730774	216	AIFF	1	216
+Long May You Run	Neil Young	Rock	54.1895599	322	AIFF	1	322
+Buffalo Spingfield Again	Neil Young	Rock	34.1704102	203	AIFF	1	203
+This Town	Neil Young   Crazy Horse	Rock	30.5479031	181	AIFF	1	181
+Baby  What You Want Me To Do	Neil Young   Crazy Horse	Rock	82.1760197	488	AIFF	1	488
+Country Home	Neil Young   Crazy Horse	Rock	71.5619221	425	AIFF	1	425
+Love To Burn	Neil Young   Crazy Horse	Rock	101.022036	600	AIFF	1	600
+Love And Only Love	Neil Young   Crazy Horse	Rock	104.023232	618	AIFF	1	618
+Fearless	Neville Brothers	R B	42.507822	252	AIFF	1	252
+Sons And Daughters	Neville Brothers	R B	50.885622	302	AIFF	1	302
+Sons And Daughters (Reprise)	Neville Brothers	R B	41.9134636	249	AIFF	1	249
+Mystery Train	Neville Brothers	R B	45.6929321	271	AIFF	1	271
+Sleepy Time Gal	Oscar Peterson	Jazz	30.5501289	181	AIFF	1	181
+Dizzy Atmosphere	Oscar Peterson   Dizzy Gillespie	Jazz	49.6967602	295	AIFF	1	295
+Alone Together	Oscar Peterson   Dizzy Gillespie	Jazz	53.4987144	318	AIFF	1	318
+Quiet Nights Of Quiet Stars (Corcovado)	Oscar Peterson Trio	Jazz	2.62502384	170	AAC	0	0
+After The Rain	Ottmar Liebert	World	33.5647926	199	AIFF	1	199
+Shepherds Nite Watch	Ottmar Liebert	Holiday	30.5411758	181	AIFF	1	181
+Deep In Your Heart	Ottmar Liebert	World	45.0244923	267	AIFF	1	267
+Lilac Sun	Ottmar Liebert	World	53.3371983	317	AIFF	1	317
+Dawn In A New World	Ottmar Liebert	World	43.9209175	261	AIFF	1	261
+And L	Panoptica	Electronica/Dance	59.8913708	356	AIFF	1	356
+Excerpt (from Aires Tropicales)	Paquito DRivera	Latin	0.78967476	48	AAC	0	0
+Movie Magg	Paul McCartney	Rock	2.07078743	132	AAC	0	0
+Still Crazy After All These Years	Paul Simon	Rock	34.0897007	202	AIFF	1	202
+Legs	PJ Harvey	Alternative   Punk	37.0459785	220	AIFF	1	220
+Yuri G	PJ Harvey	Alternative   Punk	35.042944	208	AIFF	1	208
+Spirits In The Material World	The Police	Rock	30.0589352	178	AIFF	1	178
+Pray On My Child	Pops Staples	Blues	44.627449	265	AIFF	1	265
+The Ballad Of Dorothy Parker	Prince	Rock	40.7021675	241	AIFF	1	241
+Moonless	Ralph Towner	Jazz	4.28525829	279	AAC	0	0
+Taxis Waiting	Ralph Towner	Jazz	4.23650551	274	AAC	0	0
+Tequila Mockingbird	Ramsey Lewis	Jazz	47.8059063	284	AIFF	1	284
+I Guess Things Happen That Way	Raul Malo	Country	31.5954399	187	AIFF	1	187
+Just A Gigolo	Ray Brown Trio With Benny Green	Jazz	55.4389896	329	AIFF	1	329
+Little Darlin	Ray Brown Trio with Russell Malone	Jazz	7.22377014	467	AAC	0	0
+The Sinking Of The Reuben James	Rich Brotherton	Folk	34.6863651	206	AIFF	1	206
+Easy There  Steady Now	Richard Thompson	Rock	48.1894398	286	AIFF	1	286
+Mascara Tears	Richard Thompson	Rock	36.749918	218	AIFF	1	218
+Darling Corey: Bruce Hornsby	Ricky Skaggs   Friends	Country	52.9087906	314	AIFF	1	314
+Girl With the Indigo Eyes	The Rippingtons	Jazz	48.7770996	289	AIFF	1	289
+Beautiful Love Of God	The Roches	Pop	44.8966293	266	AIFF	1	266
+(Music Fadeout)	The Roches	Pop	4.5599823	27	AIFF	1	27
+Here We Come A Carolling	The Roches	Holiday	15.2256699	90	AIFF	1	90
+Good King Wenceslas	The Roches	Holiday	35.2784653	209	AIFF	1	209
+The First Nowell	The Roches	Holiday	18.9042511	112	AIFF	1	112
+Ballad Of A Teenage Queen	Rodney Crowell	Country	32.1831169	191	AIFF	1	191
+Heartbreak Hotel Intro	Roger McGuinn	Rock	5.16786194	30	AIFF	1	30
+Chestnut Mare Intro	Roger McGuinn	Rock	27.9010906	165	AIFF	1	165
+Torn   Frayed	The Rolling Stones	Rock	3.99205875	258	AAC	0	0
+I Just Want To See His Face	The Rolling Stones	Rock	2.70369434	173	AAC	0	0
+Its Only Rock N Roll (But I Like It)	The Rolling Stones	Rock	51.6773987	307	AIFF	1	307
+Time Waits For No One	The Rolling Stones	Rock	66.9906292	398	AIFF	1	398
+Let There Be PEace On Earth	Ronnie Wells	Holiday	45.9508591	273	AIFF	1	273
+Jailbait	Roosevelt Sykes	Blues	24.6643639	146	AIFF	1	146
+Klactoveesedstene	The Roy Hargrove/Christian McBride/Stephen Scott Trio	Jazz	4.32382965	279	AAC	0	0
+Bongo Beep	The Roy Hargrove/Christian McBride/Stephen Scott Trio	Jazz	2.91688251	187	AAC	0	0
+Get Rhythm	Ry Cooder	Blues	33.1991558	197	AIFF	1	197
+Going Back to Okinawa	Ry Cooder	Blues	47.4581814	282	AIFF	1	282
+Billy The Kid	Ry Cooder	Rock	38.3850842	228	AIFF	1	228
+Great Dream From Heaven	Ry Cooder	Rock	19.4941959	115	AIFF	1	115
+Persuasion	Santana	Rock	2.43318844	156	AAC	0	0
+Roddy McCorley	Schooner Fare	Folk	43.9096527	261	AIFF	1	261
+What Christmas Means To Me	Schooner Fare	Holiday	39.4236202	234	AIFF	1	234
+The Entertainer	Scott Joplin	Jazz	31.6088467	187	AIFF	1	187
+Aminahs Dream	Scott  Stephen	Jazz	6.06084061	392	AAC	0	0
+Behind The Scenes	Scott  Stephen	Jazz	4.26462841	275	AAC	0	0
+The Pit   The Pendulum	Scott  Stephen	Jazz	5.01386738	325	AAC	0	0
+Sally Anne	Sidna Myers (banjo) and Fulton Myers (fiddle)	Folk	22.7847462	135	AIFF	1	135
+Shady Grove	Sidna Myers (banjo) and Fulton Myers (fiddle)	Folk	17.8702431	106	AIFF	1	106
+You Can Tell the World	Simon   Garfunkel	Rock	27.8383369	165	AIFF	1	165
+I Am a Rock	Simon   Garfunkel	Rock	28.6502991	170	AIFF	1	170
+For Emily  Whenever I May Find Her	Simon   Garfunkel	Rock	1.93382645	124	AAC	0	0
+Old Friends	Simon   Garfunkel	Rock	2.4204464	155	AAC	0	0
+Punkys Dilemma	Simon   Garfunkel	Rock	2.07559967	137	AAC	0	0
+Homeward Bound	Simon   Garfunkel	Country	25.2206764	149	AIFF	1	149
+Youve Got To Believe In Something	Spin Doctors	Rock	40.7762146	242	AIFF	1	242
+Dogs On A Doe	Spin Doctors	Rock	52.5005703	312	AIFF	1	312
+She Used To Be Mine	Spin Doctors	Rock	36.3282471	215	AIFF	1	215
+A Fine Romance	Stacey Kent	Jazz	2.83190823	182	AAC	0	0
+I Was Doing All Right	Stan Getz	Jazz	42.2274418	251	AIFF	1	251
+Bronx Blues	Stan Getz	Jazz	56.1903572	334	AIFF	1	334
+Desafinado (Off Key)	Stan Getz   João Gilberto	Latin	3.89628601	255	AAC	0	0
+Georgia Buck/Cluckin Hen	Stephen Wade	Folk	1.66166306	109	AAC	0	0
+Shooting Creek	Stephen Wade	Folk	2.20166206	145	AAC	0	0
+Drunken Waggoner	Stephen Wade	Folk	2.48919201	163	AAC	0	0
+Interlude	Steve Buckingham	Folk	2.78127861	16	AIFF	1	16
+Corrido Del Aceite	Steve Jordan	Unclassifiable	33.3113346	198	AIFF	1	198
+Life By The Drop	Stevie Ray Vaughan   Double Trouble	Blues	24.8506031	147	AIFF	1	147
+Loves In Need Of Love Today	Stevie Wonder	R B	71.7167187	426	AIFF	1	426
+Saturn	Stevie Wonder	R B	49.4612503	294	AIFF	1	294
+Damask	Strunz   Farah	World	39.9574203	237	AIFF	1	237
+Terremoto	Strunz   Farah	World	50.6275749	300	AIFF	1	300
+Bola	Strunz   Farah	World	52.6283894	312	AIFF	1	312
+Amazonas	Strunz   Farah	World	67.3046188	400	AIFF	1	400
+Baby How Long	Sunnyland Slim	Blues	27.7552795	164	AIFF	1	164
+Decoration Day	Sunnyland Slim	Blues	47.7004089	283	AIFF	1	283
+Cool Water	Talking Heads	Alternative   Punk	53.1847172	316	AIFF	1	316
+El Lado Oscuro De Mi Compadre	Terrestre	Electronica/Dance	46.1751919	274	AIFF	1	274
+Tepache Jam	Terrestre	Electronica/Dance	51.8769875	308	AIFF	1	308
+I Surrender  Dear	Thelonious Monk	Jazz	5.01933193	327	AAC	0	0
+Reflections	Thelonious Monk	Jazz	46.661911	277	AIFF	1	277
+Dinah	Thelonious Monk	Jazz	25.3417912	150	AIFF	1	150
+Bemsha Swing	Thelonious Monk	Jazz	44.8136463	266	AIFF	1	266
+Well  You Neednt	Thelonious Monk	Jazz	94.0259819	558	AIFF	1	558
+Straight No Chaser	Thelonious Monk	Jazz	2.73929977	178	AAC	0	0
+Hornin In (Alternative Take)	Thelonious Monk	Jazz	2.91860008	189	AAC	0	0
+Crepuscule With Nellie (Take 6)	Thelonious Monk	Jazz	4.26933575	279	AAC	0	0
+Monks Dream	Thelonious Monk Quartet	Jazz	5.96465397	387	AAC	0	0
+Just A Gigolo	Thelonious Monk Quartet	Jazz	2.31347942	150	AAC	0	0
+Amanecer	Tish Hinojosa	Folk	3.49961567	227	AAC	0	0
+Please Be With Me	Tish Hinojosa	Folk	2.63568687	170	AAC	0	0
+Ti Mon Bo	Tito Puente	Latin	66.5980587	395	AIFF	1	395
+Machito Forever	Tito Puente	Latin	60.8738232	361	AIFF	1	361
+On Broadway	Tito Puente	Latin	81.8440208	486	AIFF	1	486
+Tokyo Blues	Tito Puente	Latin	53.1622429	316	AIFF	1	316
+Lady Bird	Tommy Flanagan and Hank Jones	Jazz	39.5200996	234	AIFF	1	234
+Sugar Hill	Tommy Jarrell   Fred Cockerham	Folk	30.4289818	180	AIFF	1	180
+Little Maggie	Tommy Jarrell   Fred Cockerham	Folk	25.3103638	150	AIFF	1	150
+Wreck Of The Old 97	Tommy Jarrell   Fred Cockerham	Folk	29.2356949	173	AIFF	1	173
+Silent All These Years	Tori Amos	Alternative   Punk	42.32164	251	AIFF	1	251
+Leather	Tori Amos	Alternative   Punk	32.3199005	192	AIFF	1	192
+Little Earthquakes	Tori Amos	Alternative   Punk	69.2448692	411	AIFF	1	411
+New York	U2	Rock	55.5623245	330	AIFF	1	330
+Dance With The Devil	UB40	Reggae	57.8501816	343	AIFF	1	343
+Silent Night	Various Artists	Holiday	28.2017288	167	AIFF	1	167
+One Tree Hill	Various Artists	Country	44.2685738	263	AIFF	1	263
+Telephone Song	The Vaughan Brothers	Blues	35.072134	208	AIFF	1	208
+Hymn For Carl	Wes Montgomery	Jazz	46.6686134	277	AIFF	1	277
+Lois Ann	Wes Montgomery	Jazz	48.0189457	285	AIFF	1	285
+Pretty Memory	Wes Montgomery	Jazz	38.9907074	231	AIFF	1	231
+Compulsion	Wes Montgomery	Jazz	68.9420433	409	AIFF	1	409
+Never Will I Marry	Wes Montgomery	Jazz	86.3143997	513	AIFF	1	513
+Au Privave (tk 1   alt)	Wes Montgomery	Jazz	44.784483	266	AIFF	1	266
+Doujie	Wes Montgomery	Jazz	4.28585148	277	AAC	0	0
+While We Were Young	Wes Montgomery	Jazz	2.10992146	136	AAC	0	0
+Mambo In Chimes (tk 11)	Wes Montgomery	Jazz	2.33591652	149	AAC	0	0
+Stairway To The Stars (tk 6)	Wes Montgomery	Jazz	3.38595867	218	AAC	0	0
+S.K.J. (tk 7)	Wes Montgomery	Jazz	4.88458252	315	AAC	0	0
+Full House	Wes Montgomery	Jazz	93.2454433	554	AIFF	1	554
+God Bless The Child (Take 4   originally issued)	Wes Montgomery	Jazz	33.4078102	198	AIFF	1	198
+Tune Up (Take 5   originally issued/re edited)	Wes Montgomery	Jazz	48.402544	287	AIFF	1	287
+Besame Mucho (tk 3)	Wes Montgomery	Jazz	6.03856182	390	AAC	0	0
+Fried Pies (tk 2)	Wes Montgomery	Jazz	7.10661316	461	AAC	0	0
+The Way You Look Tonight (tk 2   alt)	Wes Montgomery	Jazz	5.41635895	352	AAC	0	0
+The Real Me	The Who	Rock	33.7532005	200	AIFF	1	200
+Happy Jack [Acoustic Version]	The Who	Rock	29.1684418	173	AIFF	1	173
+I Cant Explain	The Who	Rock	21.1787224	125	AIFF	1	125
+Im A Boy	The Who	Rock	26.5799618	157	AIFF	1	157
+Long Live Rock	The Who	Rock	39.4976444	234	AIFF	1	234
+Who Are You	The Who	Rock	64.1150284	381	AIFF	1	381
+The Song Is Over	The Who	Rock	63.2110786	375	AIFF	1	375
+Heartland	Willie Nelson	Country	46.1863937	274	AIFF	1	274
+Things To Remember	Willie Nelson	Country	18.1506138	107	AIFF	1	107
+A Moment Isnt Very Long	Willie Nelson	Country	30.8170795	183	AIFF	1	183
+Milk Cow Blues	Willie Nelson	Country	45.6256218	271	AIFF	1	271
+Fools Paradise	Willie Nelson	Country	43.2412968	257	AIFF	1	257
+Help Me Make It Through The Night	Willie Nelson	Country	40.8255482	242	AIFF	1	242
+Faded Love	Willie Nelson	Country	39.0983849	232	AIFF	1	232
+Come Home Baby	Wilson Pickett	R B	2.41387272	156	AAC	0	0
+Mini Skirt Minnie	Wilson Pickett	R B	2.76555538	180	AAC	0	0
+Hey Joe	Wilson Pickett	R B	2.84916019	185	AAC	0	0
+Dont Knock My Love  Pt. I	Wilson Pickett	R B	2.13016701	137	AAC	0	0
+Funk Factory	Wilson Pickett	R B	2.69747734	175	AAC	0	0
+Brother Veal	Wynton Marsalis	Jazz	34.2758312	203	AIFF	1	203
+Let It Snow! Let It Snow! Let It Snow!	Wynton Marsalis	Holiday	43.7975941	260	AIFF	1	260
+Melancholia	Wynton Marsalis	Jazz	52.529707	312	AIFF	1	312
+After	Wynton Marsalis	Jazz	62.4035625	370	AIFF	1	370
+Skylark	Wynton Marsalis	Jazz	2.72662544	176	AAC	0	0
+Taking A Chance On Love	Wynton Marsalis	Jazz	3.55474091	230	AAC	0	0
+Representative Offerings   (a) The Lords Prayer	Wynton Marsalis Septet	Jazz	38.3021355	227	AIFF	1	227
+Benediction	Wynton Marsalis Septet	Jazz	34.6190529	205	AIFF	1	205
+I Wish You Would	The Yardbirds	Rock	23.3297729	138	AIFF	1	138
+My Heads In Mississippi	ZZ Top	Rock	4.01473141	259	AAC	0	0
+Sleeping Bag	ZZ Top	Rock	3.76706219	243	AAC	0	0
+La Grange	ZZ Top	Rock	3.59047127	232	AAC	0	0

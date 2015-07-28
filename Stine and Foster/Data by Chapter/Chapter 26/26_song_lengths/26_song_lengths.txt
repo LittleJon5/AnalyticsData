@@ -1,0 +1,640 @@
+Name	Genre	Time	D(Rock)	D(Latin)	D(Jazz)	D(Folk)	D(Country)	D(Blues)
+Im Gone	Country	208	0	0	0	0	1	0
+Shapes Of Things	Rock	168	1	0	0	0	0	0
+Trouble No More	Rock	228	1	0	0	0	0	0
+Revival	Rock	244	1	0	0	0	0	0
+Can You Fool	Rock	199	1	0	0	0	0	0
+Little Martha	Rock	127	1	0	0	0	0	0
+Sincerely Diana	Jazz	408	0	0	1	0	0	0
+Sincerely Diana	Jazz	413	0	0	1	0	0	0
+Gone With The Wind	Jazz	172	0	0	1	0	0	0
+Red Wing	Country	205	0	0	0	0	1	0
+Big Balls In Cowtown	Country	161	0	0	0	0	1	0
+Yearning	Country	201	0	0	0	0	1	0
+I Wonder If You Feel The Way I Do	Country	184	0	0	0	0	1	0
+This Moment	Latin	354	0	1	0	0	0	0
+Cosmic Thing	Rock	232	1	0	0	0	0	0
+Cryin Wont Help You Babe (With David Gilmour & Paul Carrack)	Blues	252	0	0	0	0	0	1
+Corazon De Chivo	Latin	306	0	1	0	0	0	0
+El Amor De Mi Bohio	Latin	232	0	1	0	0	0	0
+I Should Have Known Better	Rock	164	1	0	0	0	0	0
+Speech: Brian Epstein	Rock	18	1	0	0	0	0	0
+Searchin	Rock	179	1	0	0	0	0	0
+Three Cool Cats	Rock	145	1	0	0	0	0	0
+Besame Mucho	Rock	157	1	0	0	0	0	0
+Yesterday	Rock	153	1	0	0	0	0	0
+Everybodys Trying To Be My Baby	Rock	165	1	0	0	0	0	0
+Being For The Benefit Of Mr Kite	Rock	153	1	0	0	0	0	0
+Helter Skelter	Rock	277	1	0	0	0	0	0
+Polythene Pam	Rock	86	1	0	0	0	0	0
+Junk	Rock	144	1	0	0	0	0	0
+I Will	Rock	115	1	0	0	0	0	0
+Rock And Roll Music	Rock	153	1	0	0	0	0	0
+Everybodys Trying To Be My Baby	Rock	143	1	0	0	0	0	0
+Little Child	Rock	107	1	0	0	0	0	0
+Sgt. Peppers Lonely Hearts Club Band (Reprise)	Rock	78	1	0	0	0	0	0
+Things We Said Today	Rock	158	1	0	0	0	0	0
+Tell Me Why	Rock	131	1	0	0	0	0	0
+Ob-La-Di Ob-La-Da	Rock	188	1	0	0	0	0	0
+Happiness Is A Warm Gun	Rock	163	1	0	0	0	0	0
+Julia	Rock	174	1	0	0	0	0	0
+You Really Got A Hold On Me	Rock	185	1	0	0	0	0	0
+Wait	Rock	146	1	0	0	0	0	0
+My Romance	Jazz	434	0	0	1	0	0	0
+Memories Of Mother And Dad	Country	180	0	0	0	0	1	0
+Put My Little Shoes Away	Country	154	0	0	0	0	1	0
+Cheyenne	Country	171	0	0	0	0	1	0
+A Good Womans Love	Country	143	0	0	0	0	1	0
+Ill Meet You In The Morning	Country	134	0	0	0	0	1	0
+Molly And Tenbrooks	Country	150	0	0	0	0	1	0
+Kentucky Waltz	Country	186	0	0	0	0	1	0
+Jenny Lynn	Country	136	0	0	0	0	1	0
+Jerusalem Ridge	Country	212	0	0	0	0	1	0
+My Sweet Blue-Eyed Darlin	Country	166	0	0	0	0	1	0
+Lord Protect My Soul	Country	163	0	0	0	0	1	0
+Raw Hide	Country	158	0	0	0	0	1	0
+Im Going Back To Old Kentucky	Country	146	0	0	0	0	1	0
+Bills Dream	Country	156	0	0	0	0	1	0
+This Is The Time	Rock	301	1	0	0	0	0	0
+Temptation	Rock	256	1	0	0	0	0	0
+Cant Find My Way Home (Electric Version)	Rock	342	1	0	0	0	0	0
+Lisa Listen To Me	Rock	179	1	0	0	0	0	0
+Doctor Blooze	Blues	213	0	0	0	0	0	1
+Skoshuss	Blues	319	0	0	0	0	0	1
+Ben Dewberrys Final Run	Country	286	0	0	0	0	1	0
+God Gave Noah the Rainbow Sign	Country	315	0	0	0	0	1	0
+I Wanna Be Your Lover	Rock	208	1	0	0	0	0	0
+Visions Of Johanna	Rock	454	1	0	0	0	0	0
+Leopard-Skin Pill-Box Hat	Rock	240	1	0	0	0	0	0
+Most Likely You Go Your Way And Ill Go Mine	Rock	209	1	0	0	0	0	0
+Obviously 5 Believers	Rock	216	1	0	0	0	0	0
+Youre A Big Girl	Rock	273	1	0	0	0	0	0
+If You See Her Say Hello	Rock	289	1	0	0	0	0	0
+Canadee-I-O	Rock	263	1	0	0	0	0	0
+Tomorrow Night	Rock	223	1	0	0	0	0	0
+It Takes a Lot to Laugh It Takes a Train to Cry	Rock	249	1	0	0	0	0	0
+Just Like Tom Thumbs Blues	Rock	332	1	0	0	0	0	0
+I Dreamed I Saw St. Augustine	Rock	233	1	0	0	0	0	0
+Dear Landlord	Rock	196	1	0	0	0	0	0
+Bye And Bye	Rock	196	1	0	0	0	0	0
+Lonesome Day Blues	Rock	365	1	0	0	0	0	0
+Floater (Too Much To Ask)	Rock	299	1	0	0	0	0	0
+Moonlight	Rock	203	1	0	0	0	0	0
+Nashville Skyline Rag	Rock	194	1	0	0	0	0	0
+I Threw It All Away	Rock	145	1	0	0	0	0	0
+Went To See The Gypsy	Rock	171	1	0	0	0	0	0
+Sign On The Window	Rock	221	1	0	0	0	0	0
+One More Weekend	Rock	192	1	0	0	0	0	0
+Cant Wait	Rock	347	1	0	0	0	0	0
+Highlands	Rock	991	1	0	0	0	0	0
+Stack A Lee	Rock	230	1	0	0	0	0	0
+Aint No More Cane	Rock	238	1	0	0	0	0	0
+Nothing Was Delivered	Rock	263	1	0	0	0	0	0
+Steady	Jazz	345	0	0	1	0	0	0
+James	Jazz	293	0	0	1	0	0	0
+Three Mice Blind	Jazz	438	0	0	1	0	0	0
+El Mayor	Jazz	329	0	0	1	0	0	0
+Pride And Joy	Blues	258	0	0	0	0	0	1
+Storm Warning	Rock	271	1	0	0	0	0	0
+Tangled And Dark	Rock	292	1	0	0	0	0	0
+Shake A Little	Rock	279	1	0	0	0	0	0
+I Cant Make You Love Me	Rock	344	1	0	0	0	0	0
+Working on the Highway	Rock	195	1	0	0	0	0	0
+No Surrender	Rock	246	1	0	0	0	0	0
+Glory Days	Rock	262	1	0	0	0	0	0
+Give My Love To Rose	Country	175	0	0	0	0	1	0
+Thunder Road	Rock	288	1	0	0	0	0	0
+Darkness on the Edge of Town	Rock	268	1	0	0	0	0	0
+The Promised Land	Rock	268	1	0	0	0	0	0
+Brilliant Disguise	Rock	255	1	0	0	0	0	0
+None but the Brave (Bonus Track)	Rock	334	1	0	0	0	0	0
+The Line	Rock	319	1	0	0	0	0	0
+Waitin On A Sunny Day	Rock	258	1	0	0	0	0	0
+The Fuse	Rock	337	1	0	0	0	0	0
+Off Minor	Jazz	322	0	0	1	0	0	0
+Ruby My Dear	Jazz	349	0	0	1	0	0	0
+No Name Blues	Jazz	399	0	0	1	0	0	0
+Early in the Morning (Single)	Rock	126	1	0	0	0	0	0
+Everyday (Single)	Rock	128	1	0	0	0	0	0
+Listen to Me (Single)	Rock	142	1	0	0	0	0	0
+Oh Boy! (Single)	Rock	129	1	0	0	0	0	0
+Rock Me My Baby	Rock	108	1	0	0	0	0	0
+Rave On	Rock	109	1	0	0	0	0	0
+Heartbeat (Single)	Rock	129	1	0	0	0	0	0
+Crying Waiting Hoping (Overdubbed Version)	Rock	124	1	0	0	0	0	0
+Go And Say Goodbye	Rock	144	1	0	0	0	0	0
+Out Of My Mind	Rock	189	1	0	0	0	0	0
+Down Down Down (Outtake Take 4)	Rock	166	1	0	0	0	0	0
+No Sun Today (Outtake)	Rock	124	1	0	0	0	0	0
+Sad Memory	Rock	184	1	0	0	0	0	0
+For What Its Worth	Rock	163	1	0	0	0	0	0
+Baby Dont Scold Me	Rock	193	1	0	0	0	0	0
+Kind Woman	Rock	259	1	0	0	0	0	0
+Nowadays Clancy Cant Even Sing	Rock	207	1	0	0	0	0	0
+Belle Starr	Folk	327	0	0	0	1	0	0
+Lay Lady Lay	Rock	198	1	0	0	0	0	0
+Ill Feel a Whole Lot Better	Rock	154	1	0	0	0	0	0
+El Ausente	Latin	219	0	1	0	0	0	0
+Arco de Karma	Jazz	283	0	0	1	0	0	0
+Harposaurus	Jazz	247	0	0	1	0	0	0
+Para Luisa	Jazz	241	0	0	1	0	0	0
+Looking Back / Reflections	Jazz	337	0	0	1	0	0	0
+Listen To Monk / Rhythm A Ning (alt)	Jazz	181	0	0	1	0	0	0
+Cumberland Gap	Folk	134	0	0	0	1	0	0
+Time Draws Near	Folk	161	0	0	0	1	0	0
+Isadoras Reel	Folk	116	0	0	0	1	0	0
+First Song	Jazz	400	0	0	1	0	0	0
+Dont Take Your Guns To Town	Country	226	0	0	0	0	1	0
+Soul Mates	Jazz	543	0	0	1	0	0	0
+Bouncin With Bud	Jazz	481	0	0	1	0	0	0
+Mediocre	Jazz	532	0	0	1	0	0	0
+Blue Monk	Jazz	269	0	0	1	0	0	0
+Country Blues	Country	195	0	0	0	0	1	0
+Cindy	Country	158	0	0	0	0	1	0
+Dont Let Your Deal Go Down	Country	162	0	0	0	0	1	0
+Four Dead Guys Waltz	Folk	124	0	0	0	1	0	0
+Wee Wee Hours (1955 Single Version)	Rock	182	1	0	0	0	0	0
+Hootie Blues	Blues	300	0	0	0	0	0	1
+Im Beginning To See The Light	Blues	154	0	0	0	0	0	1
+Swamp Ghost	Blues	407	0	0	0	0	0	1
+Without Me Baby	Blues	223	0	0	0	0	0	1
+Para Vigo Me Voy (Heading For Vigo)	Latin	308	0	1	0	0	0	0
+Its The Same Old South [40] - Jimmy Rushing	Jazz	190	0	0	1	0	0	0
+920 Special [41] - Coleman Hawkins	Jazz	192	0	0	1	0	0	0
+Goin To Chicago Blues Jimmy Rushing	Jazz	206	0	0	1	0	0	0
+Taps Miller	Jazz	200	0	0	1	0	0	0
+Evenin	Jazz	176	0	0	1	0	0	0
+How Long Blues	Jazz	180	0	0	1	0	0	0
+Cafe Society Blues	Jazz	199	0	0	1	0	0	0
+Way Back Blues	Jazz	210	0	0	1	0	0	0
+Taxi War Dance	Jazz	171	0	0	1	0	0	0
+Clap Hands Here Comes Charlie	Jazz	151	0	0	1	0	0	0
+I Want A Little Girl	Jazz	158	0	0	1	0	0	0
+One OClock Jump	Jazz	79	0	0	1	0	0	0
+Rock-Bye-Basie	Jazz	222	0	0	1	0	0	0
+Time Out	Jazz	185	0	0	1	0	0	0
+Round Here	Rock	331	1	0	0	0	0	0
+Mr. Jones	Rock	272	1	0	0	0	0	0
+Daylight Fading	Rock	230	1	0	0	0	0	0
+Another Horsedreamers Blues	Rock	272	1	0	0	0	0	0
+Post	Rock	280	1	0	0	0	0	0
+Lawdy Mama	Rock	111	1	0	0	0	0	0
+Strange Brew	Rock	167	1	0	0	0	0	0
+White Room	Rock	297	1	0	0	0	0	0
+I Feel Free	Rock	172	1	0	0	0	0	0
+Badge	Rock	166	1	0	0	0	0	0
+Born on the Bayou	Rock	315	1	0	0	0	0	0
+Travelin Band	Rock	129	1	0	0	0	0	0
+Lodi	Rock	192	1	0	0	0	0	0
+Fortunate Son	Rock	141	1	0	0	0	0	0
+Ohio	Rock	185	1	0	0	0	0	0
+Find The Cost Of Freedom	Rock	121	1	0	0	0	0	0
+Macdaddy	Jazz	208	0	0	1	0	0	0
+Let You Down	Rock	247	1	0	0	0	0	0
+Cry Freedom	Rock	353	1	0	0	0	0	0
+The Key To You	Jazz	302	0	0	1	0	0	0
+Remembering What You Said	Jazz	273	0	0	1	0	0	0
+Cast Your Fate To The Wind	Jazz	194	0	0	1	0	0	0
+The Eyes Of My Beholder	Country	259	0	0	0	0	1	0
+My Aching Heart	Country	139	0	0	0	0	1	0
+Leavin Home	Country	247	0	0	0	0	1	0
+Evil	Rock	265	1	0	0	0	0	0
+Deed I Do	Jazz	211	0	0	1	0	0	0
+Runaway	Rock	152	1	0	0	0	0	0
+Never Good Enough	Rock	145	1	0	0	0	0	0
+One World	Rock	220	1	0	0	0	0	0
+Telegraph Road	Rock	862	1	0	0	0	0	0
+Cowboy Take Me Away	Country	291	0	0	0	0	1	0
+Goodbye Earl	Country	259	0	0	0	0	1	0
+Hello Mr. Heartache	Country	229	0	0	0	0	1	0
+Dont Waste Your Heart	Country	170	0	0	0	0	1	0
+Without You	Country	212	0	0	0	0	1	0
+(Blank Track)	Country	1	0	0	0	0	1	0
+Top Of The World	Country	361	0	0	0	0	1	0
+Its The Talk Of The Town	Jazz	415	0	0	1	0	0	0
+Mississippi Heavy Water Blues	Folk	175	0	0	0	1	0	0
+Carroll County Blues	Folk	178	0	0	0	1	0	0
+I Still Miss Someone	Country	217	0	0	0	0	1	0
+I Wonder Where You Are Tonight	Country	193	0	0	0	0	1	0
+The Grass Is Blue	Country	224	0	0	0	0	1	0
+I Am Ready	Country	164	0	0	0	0	1	0
+To Know Him Is To Love Him	Country	230	0	0	0	0	1	0
+Shotgun Boogie	Country	187	0	0	0	0	1	0
+Thats Why Im Walking (Angel On My Mind)	Country	228	0	0	0	0	1	0
+Cottontail	Jazz	255	0	0	1	0	0	0
+Take The A Train	Jazz	337	0	0	1	0	0	0
+All the Things You Are	Jazz	292	0	0	1	0	0	0
+Listen Here	Jazz	462	0	0	1	0	0	0
+Mi Guajirita	Latin	201	0	1	0	0	0	0
+Whatcha Gonna Do	Rock	182	1	0	0	0	0	0
+Shes Waiting	Rock	295	1	0	0	0	0	0
+Motherless Child	Rock	177	1	0	0	0	0	0
+Find Myself	Rock	315	1	0	0	0	0	0
+Superman Inside	Rock	307	1	0	0	0	0	0
+Lay Down Sally	Rock	236	1	0	0	0	0	0
+Were All the Way	Rock	153	1	0	0	0	0	0
+Peaches and Diesel	Rock	286	1	0	0	0	0	0
+Hello Old Friend	Rock	216	1	0	0	0	0	0
+Signe	Rock	193	1	0	0	0	0	0
+They Cant Take That Away From Me	Jazz	255	0	0	1	0	0	0
+Ive Got The World On A String	Jazz	242	0	0	1	0	0	0
+You Are My Sunshine	Jazz	209	0	0	1	0	0	0
+Back Home Again in Indiana	Jazz	155	0	0	1	0	0	0
+Songbird	Folk	223	0	0	0	1	0	0
+Knockin On Heavens Door (Live)	Rock	338	1	0	0	0	0	0
+Tell Me	Rock	165	1	0	0	0	0	0
+A Little Drink A Little Dance	Latin	252	0	1	0	0	0	0
+This Could Be The One	Latin	168	0	1	0	0	0	0
+Heartstrings	Jazz	300	0	0	1	0	0	0
+Little Maggie	Folk	184	0	0	0	1	0	0
+Ommie Let Your Bangs Hang Down	Folk	174	0	0	0	1	0	0
+Joao	Jazz	325	0	0	1	0	0	0
+Chairs And Children	Jazz	357	0	0	1	0	0	0
+Wasnt Always Easy	Jazz	308	0	0	1	0	0	0
+Quick And Running	Jazz	398	0	0	1	0	0	0
+Or Else	Jazz	287	0	0	1	0	0	0
+A Foggy Day	Jazz	161	0	0	1	0	0	0
+Hello Birdie	Jazz	241	0	0	1	0	0	0
+Eternally	Jazz	246	0	0	1	0	0	0
+If Not For You	Rock	213	1	0	0	0	0	0
+Behind That Locked Door	Rock	190	1	0	0	0	0	0
+I Live For You	Rock	217	1	0	0	0	0	0
+Isnt It A Pity (Version Two)	Rock	291	1	0	0	0	0	0
+Thanks For The Pepperoni	Rock	332	1	0	0	0	0	0
+Any Road	Rock	232	1	0	0	0	0	0
+Marwa Blues	Rock	221	1	0	0	0	0	0
+Wreck Of The Hesperus	Rock	213	1	0	0	0	0	0
+Sandy River Belle	Folk	79	0	0	0	1	0	0
+Glenn Miller Orchestra - In The Mood	Jazz	220	0	0	1	0	0	0
+Love The Poison	Rock	209	1	0	0	0	0	0
+GRP All-Star Big Band - Sister Sadie	Jazz	412	0	0	1	0	0	0
+Stompin at the Savoy	Jazz	271	0	0	1	0	0	0
+Sondras Blues	Jazz	328	0	0	1	0	0	0
+Stars Fell On Alabama	Jazz	292	0	0	1	0	0	0
+Loftys Roach Souffle	Jazz	323	0	0	1	0	0	0
+Heavenly	Jazz	123	0	0	1	0	0	0
+New York Minute	Jazz	515	0	0	1	0	0	0
+Only Wanna Be With You	Rock	226	1	0	0	0	0	0
+Ill Bid My Heart Be Still	Folk	171	0	0	0	1	0	0
+Old Blue	Folk	206	0	0	0	1	0	0
+Wheels on Fire	Folk	227	0	0	0	1	0	0
+Un Canadien Errant	Folk	179	0	0	0	1	0	0
+London Life	Folk	164	0	0	0	1	0	0
+Friends of Mine	Folk	219	0	0	0	1	0	0
+Every Time I Feel the Spirit	Folk	108	0	0	0	1	0	0
+Keep on the Sunny Side	Folk	160	0	0	0	1	0	0
+Tomorrow is a Long Time	Folk	198	0	0	0	1	0	0
+Changes	Folk	212	0	0	0	1	0	0
+Lonely Girls	Folk	161	0	0	0	1	0	0
+Catfish Blues	Folk	216	0	0	0	1	0	0
+January Morning	Folk	187	0	0	0	1	0	0
+Aquellos Ojos Verdes	Latin	294	0	1	0	0	0	0
+Secure Yourself	Rock	216	1	0	0	0	0	0
+Loves Recovery	Rock	264	1	0	0	0	0	0
+Welcome Me	Rock	277	1	0	0	0	0	0
+Watershed	Rock	345	1	0	0	0	0	0
+Hand Me Downs	Rock	221	1	0	0	0	0	0
+Ill Do Anything	Rock	272	1	0	0	0	0	0
+Take This Rain	Rock	290	1	0	0	0	0	0
+Shaky Town	Rock	218	1	0	0	0	0	0
+The Load-Out / Stay	Rock	540	1	0	0	0	0	0
+Lives In the Balance	Rock	218	1	0	0	0	0	0
+Intro - Take It Easy	Rock	80	1	0	0	0	0	0
+Fatuation	Blues	234	0	0	0	0	0	1
+Blues In My Sleep	Blues	424	0	0	0	0	0	1
+Blues For The Hook	Blues	369	0	0	0	0	0	1
+Gaia	Rock	331	1	0	0	0	0	0
+Jump Up Behind Me	Rock	210	1	0	0	0	0	0
+Meet Me In Heaven	Country	201	0	0	0	0	1	0
+Summertime	Rock	242	1	0	0	0	0	0
+Oklahoma Hills	Folk	259	0	0	0	1	0	0
+The Peacocks	Jazz	241	0	0	1	0	0	0
+Fungii Mama	Jazz	294	0	0	1	0	0	0
+Laura	Jazz	628	0	0	1	0	0	0
+Gracias a la Vida (Heres To Life) Ilego	Folk	216	0	0	0	1	0	0
+Giant Steps	Jazz	214	0	0	1	0	0	0
+Blues For Basie	Jazz	218	0	0	1	0	0	0
+D-Joe	Jazz	190	0	0	1	0	0	0
+Alone Together	Jazz	363	0	0	1	0	0	0
+Prelude to a Kiss	Jazz	334	0	0	1	0	0	0
+Special Rider Blues	Folk	183	0	0	0	1	0	0
+KnoXVIlle Blues	Folk	188	0	0	0	1	0	0
+On Doing An Evil Deed Blues	Folk	239	0	0	0	1	0	0
+In Christ There Is No East Or West	Folk	164	0	0	0	1	0	0
+Rain Forest	Folk	407	0	0	0	1	0	0
+The Sea Of Love	Folk	128	0	0	0	1	0	0
+Annual Waltz	Folk	234	0	0	0	1	0	0
+Love Wrote This Song	Folk	164	0	0	0	1	0	0
+Knockin at Your Door	Folk	222	0	0	0	1	0	0
+Ragtime Dream	Folk	261	0	0	0	1	0	0
+Highway	Blues	397	0	0	0	0	0	1
+Have You Ever Loved A Woman [Live]	Rock	403	1	0	0	0	0	0
+Cryin Time	Jazz	95	0	0	1	0	0	0
+Hurt	Country	218	0	0	0	0	1	0
+Delias Gone	Country	137	0	0	0	0	1	0
+Let The Train Blow The Whistle	Country	135	0	0	0	0	1	0
+The One Rose (Thats Left In My Heart)	Rock	146	1	0	0	0	0	0
+Waiting for a Train	Country	105	0	0	0	0	1	0
+Brown Eyed Handsome Man	Country	141	0	0	0	0	1	0
+Drive On (Alternate Lyrics)	Country	143	0	0	0	0	1	0
+He Stopped Loving Her Today	Country	156	0	0	0	0	1	0
+You Are My Sunshine	Country	196	0	0	0	0	1	0
+Let the Lower Lights Be Burning	Country	193	0	0	0	0	1	0
+Im Bound for the Promised Land	Country	134	0	0	0	0	1	0
+Just As I Am	Country	158	0	0	0	0	1	0
+Love Is Like A Cigarette	Country	285	0	0	0	0	1	0
+Outside Myself	Country	297	0	0	0	0	1	0
+Tears Of Loves Recall	Country	229	0	0	0	0	1	0
+Facing East	Jazz	844	0	0	1	0	0	0
+Step Back Cindy	Folk	130	0	0	0	1	0	0
+Fallen	Jazz	225	0	0	1	0	0	0
+Norwegian Wood	Jazz	353	0	0	1	0	0	0
+Rebecca	Folk	168	0	0	0	1	0	0
+Mora Roa	Folk	375	0	0	0	1	0	0
+Twice	Rock	250	1	0	0	0	0	0
+Hay Unos Ojos	Latin	167	0	1	0	0	0	0
+La Mariquita (Lady Bug)	Rock	181	1	0	0	0	0	0
+One Clear Moment	Rock	290	1	0	0	0	0	0
+A Apolitical Blues	Rock	208	1	0	0	0	0	0
+Solar Sex Panel	Rock	226	1	0	0	0	0	0
+When I Stop Dreaming	Country	151	0	0	0	0	1	0
+Skinny Legs	Country	163	0	0	0	0	1	0
+If I Had A Boat	Country	190	0	0	0	0	1	0
+Give Back My Heart	Country	182	0	0	0	0	1	0
+Black And Blue	Country	240	0	0	0	0	1	0
+Simple Song	Country	200	0	0	0	0	1	0
+Lungs	Country	138	0	0	0	0	1	0
+Step Inside This House	Country	329	0	0	0	0	1	0
+Lonely In Love	Country	165	0	0	0	0	1	0
+Dont Touch My Hat	Country	227	0	0	0	0	1	0
+La Ronde	Jazz	190	0	0	1	0	0	0
+Vendome	Jazz	195	0	0	1	0	0	0
+But Not For Me	Jazz	225	0	0	1	0	0	0
+One Bass Hit	Jazz	182	0	0	1	0	0	0
+Got To Get U	Jazz	428	0	0	1	0	0	0
+Four Brothers	Jazz	231	0	0	1	0	0	0
+Blee Blop Blues	Jazz	186	0	0	1	0	0	0
+Body And Soul	Jazz	266	0	0	1	0	0	0
+Trickle Trickle	Jazz	140	0	0	1	0	0	0
+Prelude to a Kiss	Jazz	185	0	0	1	0	0	0
+Black and Tan Fantasy	Jazz	231	0	0	1	0	0	0
+Someone To Watch Over Me	Jazz	182	0	0	1	0	0	0
+Gladiolus Rag	Jazz	238	0	0	1	0	0	0
+Solitude	Jazz	244	0	0	1	0	0	0
+The Truth Is Spoken Here	Jazz	304	0	0	1	0	0	0
+Country By Choice	Jazz	485	0	0	1	0	0	0
+Ive Got You Under My Skin	Jazz	211	0	0	1	0	0	0
+All Revved Up With No Place To Go	Rock	261	1	0	0	0	0	0
+Paradise By The Dashboard Light	Rock	509	1	0	0	0	0	0
+Home on the Range	Country	211	0	0	0	0	1	0
+Tennessee Stud	Country	203	0	0	0	0	1	0
+Lord Thomas and Fair Ellender	Folk	289	0	0	0	1	0	0
+Soon In The Morning Babe	Folk	84	0	0	0	1	0	0
+Flop Eared Mule	Folk	109	0	0	0	1	0	0
+Im Head Over Heels In Love	Folk	143	0	0	0	1	0	0
+Moon Dreams	Jazz	201	0	0	1	0	0	0
+Flamenco Sketches (Alternate Take)	Jazz	572	0	0	1	0	0	0
+Stella By Star Light	Jazz	293	0	0	1	0	0	0
+Splashdown	Jazz	483	0	0	1	0	0	0
+Straight No Chaser	Jazz	637	0	0	1	0	0	0
+Tadds Delight	Jazz	268	0	0	1	0	0	0
+Tadds Delight (Alternate Take)	Jazz	258	0	0	1	0	0	0
+Sweet Sue Just You (Alternate Take)	Jazz	212	0	0	1	0	0	0
+Stairway to the Stars	Jazz	212	0	0	1	0	0	0
+The Late Late Blues	Jazz	575	0	0	1	0	0	0
+The Night we Called it a Day	Jazz	262	0	0	1	0	0	0
+Stablemates	Jazz	345	0	0	1	0	0	0
+Softly As In A Morning Sunrise	Jazz	480	0	0	1	0	0	0
+The Cylinder	Jazz	331	0	0	1	0	0	0
+Really True Blues	Jazz	336	0	0	1	0	0	0
+The Cylinder	Jazz	338	0	0	1	0	0	0
+The Martyr	Jazz	533	0	0	1	0	0	0
+Sachas March	Jazz	475	0	0	1	0	0	0
+Nature Boy	Jazz	306	0	0	1	0	0	0
+La Cantatrice	Jazz	333	0	0	1	0	0	0
+Animal Dance	Jazz	244	0	0	1	0	0	0
+Novamo	Jazz	366	0	0	1	0	0	0
+The Trip	Jazz	228	0	0	1	0	0	0
+Jazz Ostinato	Jazz	382	0	0	1	0	0	0
+Skating in Central Park	Jazz	386	0	0	1	0	0	0
+That Slavic Smile	Jazz	483	0	0	1	0	0	0
+All The Young Dudes	Rock	210	1	0	0	0	0	0
+Ballad Of Mott	Rock	321	1	0	0	0	0	0
+The Ghost Inside of Me	Country	183	0	0	0	0	1	0
+Cotton	Country	162	0	0	0	0	1	0
+Roses On the 4th of July	Country	215	0	0	0	0	1	0
+Armstrong	Country	212	0	0	0	0	1	0
+Tecumseh Valley	Folk	269	0	0	0	1	0	0
+Two For The Road	Folk	179	0	0	0	1	0	0
+Im Not Driving These Wheels (Bring The Prose To The Wheel)	Folk	219	0	0	0	1	0	0
+White Freight Liner	Folk	277	0	0	0	1	0	0
+Two Old Friends	Rock	375	1	0	0	0	0	0
+Flying On The Ground Is Wrong (Demo-Version)	Rock	191	1	0	0	0	0	0
+Rockin In The Free World	Rock	219	1	0	0	0	0	0
+Falling from Above	Rock	444	1	0	0	0	0	0
+Bringin Down Dinner	Rock	191	1	0	0	0	0	0
+Old Man	Rock	204	1	0	0	0	0	0
+Natural Beauty	Rock	623	1	0	0	0	0	0
+Like A Hurricane	Rock	284	1	0	0	0	0	0
+Harvest Moon	Rock	320	1	0	0	0	0	0
+Look Out For My Love	Rock	357	1	0	0	0	0	0
+The Painter	Rock	274	1	0	0	0	0	0
+No Wonder	Rock	345	1	0	0	0	0	0
+Daddy Went Walkin	Rock	241	1	0	0	0	0	0
+Distant Camera	Rock	247	1	0	0	0	0	0
+Razor Love	Rock	391	1	0	0	0	0	0
+Days That Used To Be	Rock	222	1	0	0	0	0	0
+Dignity	Jazz	339	0	0	1	0	0	0
+Tight Like This	Jazz	427	0	0	1	0	0	0
+Interlude (St. James Infirmary)	Jazz	42	0	0	1	0	0	0
+Blues In The Night	Jazz	229	0	0	1	0	0	0
+West End Blues	Jazz	478	0	0	1	0	0	0
+Free Ride	Folk	186	0	0	0	1	0	0
+Territorial Pissings	Rock	142	1	0	0	0	0	0
+Lonestar	Country	213	0	0	0	0	1	0
+Veinte Años	Latin	283	0	1	0	0	0	0
+Laura	Jazz	211	0	0	1	0	0	0
+East Of The Sun (West Of The Moon)	Jazz	217	0	0	1	0	0	0
+Close Your Eyes	Jazz	325	0	0	1	0	0	0
+Moten Swing	Jazz	174	0	0	1	0	0	0
+Night and Day	Jazz	123	0	0	1	0	0	0
+Goodbye J.D.	Jazz	174	0	0	1	0	0	0
+La Bella Cubana	Latin	315	0	1	0	0	0	0
+Mariana	Latin	330	0	1	0	0	0	0
+Yesterdays Child	Rock	267	1	0	0	0	0	0
+Stumbling to Bethlehem	Rock	248	1	0	0	0	0	0
+Winter Wind	Folk	212	0	0	0	1	0	0
+Carry That Weight	Rock	185	1	0	0	0	0	0
+Here Today	Rock	148	1	0	0	0	0	0
+Heaven On A Sunday	Rock	266	1	0	0	0	0	0
+Used To Be Bad	Rock	252	1	0	0	0	0	0
+Run Devil Run	Rock	156	1	0	0	0	0	0
+What It Is	Rock	143	1	0	0	0	0	0
+Honey Hush	Rock	155	1	0	0	0	0	0
+The Boy In The Bubble	Rock	239	1	0	0	0	0	0
+You Can Call Me Al	Rock	280	1	0	0	0	0	0
+You Can Call Me Al	Rock	280	1	0	0	0	0	0
+Proof	Rock	279	1	0	0	0	0	0
+The Cool Cool River	Rock	272	1	0	0	0	0	0
+Sarau Para Ramadés	Latin	133	0	1	0	0	0	0
+America	Blues	260	0	0	0	0	0	1
+If I Was Your Girlfriend	Rock	303	1	0	0	0	0	0
+Manha De Carnaval (Morning Of The Carnival)	Jazz	177	0	0	1	0	0	0
+Chega De Saudade (No More Blues)	Jazz	339	0	0	1	0	0	0
+CALL ME MISTER TIBBS(MAIN TITLE)	Jazz	272	0	0	1	0	0	0
+MONEY RUNNER/MONEY IS (MEDLEY)	Jazz	155	0	0	1	0	0	0
+Is It Love That Were Missin	Jazz	233	0	0	1	0	0	0
+Aint No Sunshine	Jazz	149	0	0	1	0	0	0
+Midnight Blue ... Red Shift	Jazz	207	0	0	1	0	0	0
+Whats Wrong With You	Country	191	0	0	0	0	1	0
+How Come You Do Me?	Jazz	387	0	0	1	0	0	0
+Ive Just Destroyed the World Im Living In	Country	159	0	0	0	0	1	0
+Ill Keep On Lovin You	Country	134	0	0	0	0	1	0
+Juggin´around	Jazz	206	0	0	1	0	0	0
+MGB-GT	Rock	217	1	0	0	0	0	0
+Read About Love	Rock	214	1	0	0	0	0	0
+Ugly Man	Rock	260	1	0	0	0	0	0
+Little Mysteries	Rock	301	1	0	0	0	0	0
+Lap Dog	Rock	238	1	0	0	0	0	0
+Walk Softly On This Heart Of Mine: Dixie Chicks & Ricky Skaggs	Country	241	0	0	0	0	1	0
+My Little Georgia Rose: Travis Tritt	Country	199	0	0	0	0	1	0
+On The Old Kentucky Shore: Joan Osborne & Ricky Skaggs	Country	223	0	0	0	0	1	0
+Blue Night: Mary Chapin Carpenter	Country	238	0	0	0	0	1	0
+True Companion	Jazz	266	0	0	1	0	0	0
+Sahara	Jazz	301	0	0	1	0	0	0
+Porscha	Jazz	290	0	0	1	0	0	0
+These Foolish Things	Rock	228	1	0	0	0	0	0
+Daddy Roll Em Intro	Rock	38	1	0	0	0	0	0
+May The Road Rise	Rock	229	1	0	0	0	0	0
+Casino Boogie	Rock	214	1	0	0	0	0	0
+Torn & Frayed	Rock	258	1	0	0	0	0	0
+Ventilator Blues	Rock	204	1	0	0	0	0	0
+Short And Curlies	Rock	163	1	0	0	0	0	0
+Love In Vain	Rock	262	1	0	0	0	0	0
+Some Girls	Rock	277	1	0	0	0	0	0
+Respectable	Rock	187	1	0	0	0	0	0
+Dead Flowers	Rock	245	1	0	0	0	0	0
+Mislead Mother	Blues	195	0	0	0	0	0	1
+Pocketful Of Money	Blues	152	0	0	0	0	0	1
+Beautiful Pain	Country	170	0	0	0	0	1	0
+Ill Change For You	Country	230	0	0	0	0	1	0
+Rules Of Travel	Country	234	0	0	0	0	1	0
+September When It Comes	Country	220	0	0	0	0	1	0
+Hope Against Hope	Country	236	0	0	0	0	1	0
+Tumbao	Jazz	311	0	0	1	0	0	0
+Rally Round The Flag	Rock	219	1	0	0	0	0	0
+Stand By Me	Rock	224	1	0	0	0	0	0
+13 Question Method	Blues	219	0	0	0	0	0	1
+On A Monday	Rock	177	1	0	0	0	0	0
+Taxes On The Farmer Feeds Us All	Rock	236	1	0	0	0	0	0
+Secret Love	Latin	349	0	1	0	0	0	0
+Maria La O	Latin	259	0	1	0	0	0	0
+Gonna Be Alright	Jazz	275	0	0	1	0	0	0
+The Broome O The Cowdenknowes	Folk	255	0	0	0	1	0	0
+Original Rags	Jazz	184	0	0	1	0	0	0
+Positive Images (Mother Father)	Jazz	351	0	0	1	0	0	0
+The Pit  The Pendulum	Jazz	325	0	0	1	0	0	0
+Its So Easy	Rock	204	1	0	0	0	0	0
+The Only Living Boy In New York	Rock	242	1	0	0	0	0	0
+I Am a Rock	Rock	170	1	0	0	0	0	0
+The Big Bright Green Pleasure Machine	Rock	164	1	0	0	0	0	0
+Voices Of Old People	Rock	127	1	0	0	0	0	0
+Punkys Dilemma	Rock	137	1	0	0	0	0	0
+To Make Me Blue	Rock	213	1	0	0	0	0	0
+Where Angels Fear To Tread	Rock	242	1	0	0	0	0	0
+Deep in it	Jazz	436	0	0	1	0	0	0
+So Flute	Jazz	509	0	0	1	0	0	0
+La Goutte dOr	Jazz	377	0	0	1	0	0	0
+I Wont Dance	Jazz	277	0	0	1	0	0	0
+Isnt This A Lovely Day	Jazz	239	0	0	1	0	0	0
+I Guess Ill Have To Change My Plan	Jazz	157	0	0	1	0	0	0
+I Want To Be Happy	Jazz	457	0	0	1	0	0	0
+Eleanor Rigby	Jazz	421	0	0	1	0	0	0
+Gaslighting Abbie	Rock	353	1	0	0	0	0	0
+What A Shame	Rock	317	1	0	0	0	0	0
+Piece of Me	Rock	247	1	0	0	0	0	0
+Wounded World	Rock	192	1	0	0	0	0	0
+Acadienne	Rock	245	1	0	0	0	0	0
+Feed the People	Rock	262	1	0	0	0	0	0
+Baby Dont Scold Me (Demo-Version)	Rock	127	1	0	0	0	0	0
+Shooting Creek	Folk	145	0	0	0	1	0	0
+Buckdancers Choice/Needlecase	Folk	165	0	0	0	1	0	0
+Old Joe	Folk	107	0	0	0	1	0	0
+Pateroller	Folk	141	0	0	0	1	0	0
+Close To You	Blues	193	0	0	0	0	0	1
+(When Its) Darkness On The Delta	Jazz	308	0	0	1	0	0	0
+Bemsha Swing	Jazz	266	0	0	1	0	0	0
+Jackie-Ing	Jazz	302	0	0	1	0	0	0
+Four In One (Alternative Take)	Jazz	210	0	0	1	0	0	0
+Hornin In (Alternative Take)	Jazz	189	0	0	1	0	0	0
+Well You Neednt	Jazz	177	0	0	1	0	0	0
+Monks Mood	Jazz	188	0	0	1	0	0	0
+Honeysuckle Rose	Jazz	329	0	0	1	0	0	0
+Blue Monk	Jazz	391	0	0	1	0	0	0
+Run	Rock	200	1	0	0	0	0	0
+River	Folk	230	0	0	0	1	0	0
+No Me Hables Más	Latin	166	0	1	0	0	0	0
+On Broadway	Latin	486	0	1	0	0	0	0
+Dónde Estabas Tú	Latin	301	0	1	0	0	0	0
+Donna Lee	Latin	274	0	1	0	0	0	0
+Picadillo A Lo Puente	Latin	228	0	1	0	0	0	0
+Alluya	Latin	145	0	1	0	0	0	0
+John Browns Dream	Folk	209	0	0	0	1	0	0
+When Sorrows Encompass Me Round	Folk	252	0	0	0	1	0	0
+Cluck Old Hen	Folk	125	0	0	0	1	0	0
+John Hardy	Folk	237	0	0	0	1	0	0
+Yellow Rose Of Texas	Folk	159	0	0	0	1	0	0
+Soldiers Joy	Folk	85	0	0	0	1	0	0
+Wayfaring Stranger	Country	323	0	0	0	0	1	0
+Rattled	Rock	179	1	0	0	0	0	0
+End Of The Line	Rock	206	1	0	0	0	0	0
+New Kid In Town	Rock	308	1	0	0	0	0	0
+Come On In	Jazz	738	0	0	1	0	0	0
+Elevation	Rock	227	1	0	0	0	0	0
+Long Way From Home	Blues	195	0	0	0	0	0	1
+Telephone Song	Blues	208	0	0	0	0	0	1
+John Lovers Gone	Folk	72	0	0	0	1	0	0
+Mississippi Sawyer	Folk	54	0	0	0	1	0	0
+Old Folks	Jazz	398	0	0	1	0	0	0
+Falling In Love With Love	Jazz	376	0	0	1	0	0	0
+Sound Carrier	Jazz	417	0	0	1	0	0	0
+Mean To Me	Jazz	301	0	0	1	0	0	0
+Compulsion	Jazz	409	0	0	1	0	0	0
+Au Privave (tk 2)	Jazz	236	0	0	1	0	0	0
+Doujie	Jazz	277	0	0	1	0	0	0
+Groove Yard	Jazz	181	0	0	1	0	0	0
+Cotton Tail	Jazz	220	0	0	1	0	0	0
+Jingles (tk 9)	Jazz	413	0	0	1	0	0	0
+Sam Sack (tk 3)	Jazz	365	0	0	1	0	0	0
+Born To Be Blue (tk 1 - prev uniss)	Jazz	448	0	0	1	0	0	0
+Ive Grown Accustomed To Her Face	Jazz	209	0	0	1	0	0	0
+Canadian Sunset	Jazz	306	0	0	1	0	0	0
+Dreamsville	Jazz	228	0	0	1	0	0	0
+Doctor Jimmy	Rock	516	1	0	0	0	0	0
+Substitute [Rare US Single Version]	Rock	180	1	0	0	0	0	0
+I Can See For Miles	Rock	247	1	0	0	0	0	0
+Baba ORiley	Rock	300	1	0	0	0	0	0
+Bargain	Rock	335	1	0	0	0	0	0
+Eminence Front	Rock	337	1	0	0	0	0	0
+Dont Give Up	Country	419	0	0	0	0	1	0
+Undo The Right	Country	179	0	0	0	0	1	0
+Crazy	Country	239	0	0	0	0	1	0
+Black Night	Country	322	0	0	0	0	1	0
+Aint Nobodys Business	Country	308	0	0	0	0	1	0
+Texas Flood	Country	528	0	0	0	0	1	0
+Will the Circle Be Unbroken	Country	203	0	0	0	0	1	0
+The Harder They Come	Country	265	0	0	0	0	1	0
+And The Band Played On	Jazz	322	0	0	1	0	0	0
+Django	Jazz	293	0	0	1	0	0	0
+Presence That Lament Brings	Jazz	353	0	0	1	0	0	0
+Four In One	Jazz	353	0	0	1	0	0	0
+A Sleepin Bee	Jazz	195	0	0	1	0	0	0
+How Are Things In Glocca Morra	Jazz	177	0	0	1	0	0	0
+I Gotta Right To Sing The Blues	Jazz	300	0	0	1	0	0	0
+Scripture	Jazz	241	0	0	1	0	0	0
+Recessional	Jazz	633	0	0	1	0	0	0
+A Certain Girl	Rock	137	1	0	0	0	0	0
+I Aint Got You	Rock	120	1	0	0	0	0	0
+Think for Yourself	Rock	135	1	0	0	0	0	0
+Eleanor Rigby	Jazz	313	0	0	1	0	0	0
+Sleeping Bag	Rock	243	1	0	0	0	0	0

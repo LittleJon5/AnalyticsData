@@ -1,0 +1,10 @@
+Shelf Location	Brand	Sales
+Top	Test	203
+Top	Competitor 1	148
+Top	Competitor 2	325
+Middle	Test	263
+Middle	Competitor 1	132
+Middle	Competitor 2	278
+Bottom	Test	189
+Bottom	Competitor 1	165
+Bottom	Competitor 2	215

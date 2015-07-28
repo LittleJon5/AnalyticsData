@@ -1,0 +1,258 @@
+Country	Score	Grape Varietal	Price	Type	Log Price	Red Dummy	Red Dummy * Score
+Argentina	89	Syrah	30	Red	3.40119738	1	89
+Argentina	89	New world blend	17	Red	2.83321334	1	89
+Argentina	89	Syrah	36	Red	3.58351894	1	89
+Argentina	88	Syrah	27	Red	3.29583687	1	88
+Argentina	89	New world blend	15	Red	2.7080502	1	89
+Argentina	88	New world blend	25	Red	3.21887582	1	88
+Argentina	88	Syrah	13	Red	2.56494936	1	88
+Argentina	86	New world blend	16	Red	2.77258872	1	86
+Argentina	85	New world blend	11	Red	2.39789527	1	85
+Argentina	84	Syrah	9	Red	2.19722458	1	84
+Argentina	89	Chardonnay	20	White	2.99573227	0	0
+Argentina	88	Chardonnay	15	White	2.7080502	0	0
+Argentina	88	Chardonnay	12	White	2.48490665	0	0
+Argentina	88	Sauvignon Blan	12	White	2.48490665	0	0
+Argentina	87	Chardonnay	25	White	3.21887582	0	0
+Argentina	87	New world blend	50	White	3.91202301	0	0
+Argentina	86	Chardonnay	11	White	2.39789527	0	0
+Argentina	86	Chardonnay	15	White	2.7080502	0	0
+Argentina	86	Chardonnay	15	White	2.7080502	0	0
+Argentina	86	Sauvignon Blan	11	White	2.39789527	0	0
+Argentina	86	Chardonnay	13	White	2.56494936	0	0
+Argentina	85	New world blend	10	White	2.30258509	0	0
+Argentina	85	Sauvignon Blan	13	White	2.56494936	0	0
+Argentina	84	Chardonnay	9	White	2.19722458	0	0
+Argentina	84	Chardonnay	33	White	3.49650756	0	0
+Argentina	84	Sauvignon Blan	11	White	2.39789527	0	0
+Argentina	84	Chardonnay	11	White	2.39789527	0	0
+Argentina	82	Chardonnay	27	White	3.29583687	0	0
+Argentina	82	New world blend	11	White	2.39789527	0	0
+Australia	89	Syrah	20	Red	2.99573227	1	89
+Australia	88	New world blend	17	Red	2.83321334	1	88
+Australia	88	New world blend	16	Red	2.77258872	1	88
+Australia	88	Syrah	23	Red	3.13549422	1	88
+Australia	86	Sparkling	22	White	3.09104245	0	0
+Australia	85	Cabernet Sauvignon	19	White	2.94443898	0	0
+Australia	83	Sparkling	13	White	2.56494936	0	0
+Chile	92	Cabernet Sauvignon	55	Red	4.00733319	1	92
+Chile	91	New world blend	45	Red	3.80666249	1	91
+Chile	89	Cabernet Sauvignon	26	Red	3.25809654	1	89
+Chile	88	Cabernet Sauvignon	19	Red	2.94443898	1	88
+Chile	88	Carmenere	21	Red	3.04452244	1	88
+Chile	88	Cabernet Sauvignon	17	Red	2.83321334	1	88
+Chile	88	Cabernet Sauvignon	19	Red	2.94443898	1	88
+Chile	87	Cabernet Sauvignon	17	Red	2.83321334	1	87
+Chile	87	Cabernet Sauvignon	12	Red	2.48490665	1	87
+Chile	87	New world blend	18	Red	2.89037176	1	87
+Chile	86	Syrah	22	Red	3.09104245	1	86
+Chile	86	Syrah	19	Red	2.94443898	1	86
+Chile	85	New world blend	19	Red	2.94443898	1	85
+Chile	84	New world blend	15	Red	2.7080502	1	84
+France	94	Chardonnay	83	White	4.41884061	0	0
+France	93	Chardonnay	83	White	4.41884061	0	0
+France	92	Chardonnay	54	White	3.98898405	0	0
+France	92	Chardonnay	75	White	4.31748811	0	0
+France	92	Chardonnay	71	White	4.26267988	0	0
+France	91	Chardonnay	63	White	4.14313473	0	0
+France	91	Chardonnay	76	White	4.33073334	0	0
+France	91	Chardonnay	63	White	4.14313473	0	0
+France	91	Chardonnay	80	White	4.38202663	0	0
+France	90	Chardonnay	71	White	4.26267988	0	0
+France	90	Chardonnay	71	White	4.26267988	0	0
+France	90	Chardonnay	71	White	4.26267988	0	0
+France	90	Chardonnay	71	White	4.26267988	0	0
+France	89	Chardonnay	54	White	3.98898405	0	0
+France	89	Chardonnay	57	White	4.04305127	0	0
+France	88	Chardonnay	55	White	4.00733319	0	0
+France	88	Chardonnay	40	White	3.68887945	0	0
+France	94	Chardonnay	85	White	4.44265126	0	0
+France	94	Chardonnay	90	White	4.49980967	0	0
+France	93	Chardonnay	106	White	4.66343909	0	0
+France	93	Chardonnay	120	White	4.78749174	0	0
+France	92	Chardonnay	90	White	4.49980967	0	0
+France	92	Chardonnay	120	White	4.78749174	0	0
+France	92	Chardonnay	96	White	4.56434819	0	0
+France	92	Chardonnay	82	White	4.40671925	0	0
+France	92	Chardonnay	78	White	4.35670883	0	0
+France	92	Chardonnay	80	White	4.38202663	0	0
+France	92	Chardonnay	90	White	4.49980967	0	0
+France	92	Chardonnay	130	White	4.86753445	0	0
+France	92	Chardonnay	144	White	4.9698133	0	0
+France	91	Chardonnay	137	White	4.91998093	0	0
+France	91	Chardonnay	99	White	4.59511985	0	0
+France	91	Chardonnay	54	White	3.98898405	0	0
+France	90	Chardonnay	78	White	4.35670883	0	0
+France	90	Chardonnay	47	White	3.8501476	0	0
+France	90	Chardonnay	60	White	4.09434456	0	0
+France	90	Chardonnay	84	White	4.4308168	0	0
+France	90	Chardonnay	75	White	4.31748811	0	0
+France	90	Chardonnay	103	White	4.63472899	0	0
+France	90	Chardonnay	58	White	4.06044301	0	0
+France	90	Chardonnay	70	White	4.24849524	0	0
+France	90	Chardonnay	156	White	5.04985601	0	0
+France	90	Chardonnay	60	White	4.09434456	0	0
+France	90	Chardonnay	95	White	4.55387689	0	0
+France	89	Chardonnay	60	White	4.09434456	0	0
+France	89	Chardonnay	52	White	3.95124372	0	0
+France	88	Chardonnay	99	White	4.59511985	0	0
+France	88	Chardonnay	44	White	3.78418963	0	0
+France	88	Chardonnay	55	White	4.00733319	0	0
+France	87	Chardonnay	54	White	3.98898405	0	0
+France	87	Chardonnay	52	White	3.95124372	0	0
+France	88	Pinot Noir	19	Red	2.94443898	1	88
+France	88	Old world blend	20	Red	2.99573227	1	88
+France	88	Old world blend	16	Red	2.77258872	1	88
+France	87	Old world blend	40	Red	3.68887945	1	87
+France	87	Old world blend	15	Red	2.7080502	1	87
+France	86	Old world blend	15	Red	2.7080502	1	86
+France	86	Old world blend	15	Red	2.7080502	1	86
+France	85	Old world blend	12	Red	2.48490665	1	85
+France	85	Pinot Noir	14	Red	2.63905733	1	85
+France	85	Old world blend	12	Red	2.48490665	1	85
+France	84	Cabernet Sauvignon	9	Red	2.19722458	1	84
+France	84	Chardonnay	12	Red	2.48490665	1	84
+France	84	Pinot Noir	8	Red	2.07944154	1	84
+France	83	Old world blend	12	Red	2.48490665	1	83
+France	83	Old world blend	14	Red	2.63905733	1	83
+France	83	Old world blend	8	Red	2.07944154	1	83
+France	92	Old world blend	50	Red	3.91202301	1	92
+France	91	Old world blend	22	Red	3.09104245	1	91
+France	91	Old world blend	40	Red	3.68887945	1	91
+France	90	Old world blend	18	Red	2.89037176	1	90
+France	90	Old world blend	15	Red	2.7080502	1	90
+France	90	Old world blend	21	Red	3.04452244	1	90
+France	89	Old world blend	20	Red	2.99573227	1	89
+France	89	Old world blend	22	Red	3.09104245	1	89
+France	88	Old world blend	16	Red	2.77258872	1	88
+France	88	Old world blend	22	Red	3.09104245	1	88
+France	91	Old world blend	34	Red	3.52636052	1	91
+France	89	Old world blend	22	Red	3.09104245	1	89
+France	89	Old world blend	24	Red	3.17805383	1	89
+France	88	Old world blend	18	Red	2.89037176	1	88
+France	87	Old world blend	21	Red	3.04452244	1	87
+France	92	Syrah	58	Red	4.06044301	1	92
+France	91	Syrah	40	Red	3.68887945	1	91
+France	90	Syrah	35	Red	3.55534806	1	90
+France	90	Syrah	40	Red	3.68887945	1	90
+France	90	Syrah	36	Red	3.58351894	1	90
+France	89	Syrah	39	Red	3.66356165	1	89
+France	95	Old world blend	120	Red	4.78749174	1	95
+France	94	Old world blend	104	Red	4.6443909	1	94
+France	93	Old world blend	80	Red	4.38202663	1	93
+France	92	Old world blend	94	Red	4.54329478	1	92
+France	92	Old world blend	70	Red	4.24849524	1	92
+France	90	Syrah	23	Red	3.13549422	1	90
+France	89	Syrah	13	Red	2.56494936	1	89
+France	89	Syrah	22	Red	3.09104245	1	89
+France	88	Syrah	15	Red	2.7080502	1	88
+France	88	Syrah	16	Red	2.77258872	1	88
+France	87	Syrah	17	Red	2.83321334	1	87
+France	86	Syrah	14	Red	2.63905733	1	86
+France	86	Syrah	15	Red	2.7080502	1	86
+France	86	Syrah	13	Red	2.56494936	1	86
+France	85	Syrah	11	Red	2.39789527	1	85
+France	85	Syrah	11	Red	2.39789527	1	85
+France	84	Syrah	12	Red	2.48490665	1	84
+France	92	Syrah	32	Red	3.4657359	1	92
+France	91	Syrah	38	Red	3.63758616	1	91
+France	90	Syrah	28	Red	3.33220451	1	90
+France	90	Syrah	39	Red	3.66356165	1	90
+France	89	Syrah	30	Red	3.40119738	1	89
+France	92	Old world blend	170	Red	5.13579844	1	92
+France	92	Old world blend	125	Red	4.82831374	1	92
+France	91	Old world blend	96	Red	4.56434819	1	91
+France	89	Old world blend	19	Red	2.94443898	1	89
+France	89	Old world blend	20	Red	2.99573227	1	89
+France	88	Old world blend	15	Red	2.7080502	1	88
+France	88	Old world blend	12	Red	2.48490665	1	88
+France	87	Old world blend	17	Red	2.83321334	1	87
+Germany	95	Riesling	42	White	3.73766962	0	0
+Germany	93	Riesling	35	White	3.55534806	0	0
+Germany	92	Riesling	29	White	3.36729583	0	0
+Germany	92	Riesling	27	White	3.29583687	0	0
+Germany	92	Riesling	42	White	3.73766962	0	0
+Germany	91	Riesling	30	White	3.40119738	0	0
+Germany	91	Riesling	30	White	3.40119738	0	0
+Germany	90	Riesling	40	White	3.68887945	0	0
+Germany	90	Riesling	30	White	3.40119738	0	0
+Germany	90	Riesling	69	White	4.2341065	0	0
+Germany	90	Riesling	40	White	3.68887945	0	0
+Germany	88	Riesling	32	White	3.4657359	0	0
+Germany	90	Riesling	17	White	2.83321334	0	0
+Germany	90	Riesling	12	White	2.48490665	0	0
+Germany	90	Riesling	24	White	3.17805383	0	0
+Germany	89	Riesling	13	White	2.56494936	0	0
+Germany	89	Riesling	41	White	3.71357207	0	0
+Germany	88	Riesling	16	White	2.77258872	0	0
+Germany	88	Riesling	15	White	2.7080502	0	0
+Germany	87	Riesling	13	White	2.56494936	0	0
+Germany	87	Riesling	23	White	3.13549422	0	0
+Germany	86	Riesling	15	White	2.7080502	0	0
+Italy	93	Chardonnay	118	White	4.77068462	0	0
+Italy	91	Old world blend	18	Red	2.89037176	1	91
+Italy	91	Old world blend	50	Red	3.91202301	1	91
+Italy	91	Chardonnay	65	White	4.17438727	0	0
+Italy	90	Old world blend	70	Red	4.24849524	1	90
+Italy	90	Old world blend	64	Red	4.15888308	1	90
+Italy	89	Old world blend	35	Red	3.55534806	1	89
+Italy	88	Old world blend	45	Red	3.80666249	1	88
+Italy	88	Old world blend	60	Red	4.09434456	1	88
+Italy	88	Chardonnay	11	White	2.39789527	0	0
+Italy	87	Old world blend	24	Red	3.17805383	1	87
+Italy	87	Old world blend	35	Red	3.55534806	1	87
+Italy	87	Old world blend	46	Red	3.8286414	1	87
+Italy	87	Old world blend	41	Red	3.71357207	1	87
+Italy	86	Old world blend	26	Red	3.25809654	1	86
+South Africa	90	New world blend	38	White	3.63758616	0	0
+South Africa	89	Chardonnay	25	White	3.21887582	0	0
+South Africa	88	Chardonnay	15	White	2.7080502	0	0
+South Africa	88	New world blend	20	White	2.99573227	0	0
+South Africa	87	New world blend	14	White	2.63905733	0	0
+South Africa	87	Chardonnay	16	White	2.77258872	0	0
+South Africa	86	Sauvignon Blan	12	White	2.48490665	0	0
+South Africa	86	New world blend	10	White	2.30258509	0	0
+South Africa	85	Chardonnay	14	White	2.63905733	0	0
+South Africa	85	New world blend	12	White	2.48490665	0	0
+South Africa	85	Sauvignon Blan	15	White	2.7080502	0	0
+South Africa	84	Sauvignon Blan	9	White	2.19722458	0	0
+South Africa	83	New world blend	10	White	2.30258509	0	0
+South Africa	83	Chardonnay	11	White	2.39789527	0	0
+South Africa	81	Sauvignon Blan	10	White	2.30258509	0	0
+California	96	Pinot Noir	80	Red	4.38202663	1	96
+California	96	Pinot Noir	70	Red	4.24849524	1	96
+California	94	Pinot Noir	80	Red	4.38202663	1	94
+California	93	Pinot Noir	65	Red	4.17438727	1	93
+California	93	Pinot Noir	70	Red	4.24849524	1	93
+California	92	Pinot Noir	65	Red	4.17438727	1	92
+California	92	Pinot Noir	52	Red	3.95124372	1	92
+California	88	Pinot Noir	52	Red	3.95124372	1	88
+California	87	Pinot Noir	23	Red	3.13549422	1	87
+California	87	Pinot Noir	19	Red	2.94443898	1	87
+California	87	Pinot Noir	35	Red	3.55534806	1	87
+California	87	Pinot Noir	40	Red	3.68887945	1	87
+California	87	Pinot Noir	28	Red	3.33220451	1	87
+California	87	Pinot Noir	42	Red	3.73766962	1	87
+California	94	Chardonnay	80	White	4.38202663	0	0
+California	93	Chardonnay	90	White	4.49980967	0	0
+California	93	Chardonnay	80	White	4.38202663	0	0
+California	90	Chardonnay	52	White	3.95124372	0	0
+California	87	Chardonnay	22	White	3.09104245	0	0
+California	87	Chardonnay	32	White	3.4657359	0	0
+California	87	Chardonnay	15	White	2.7080502	0	0
+California	87	Chardonnay	14	White	2.63905733	0	0
+California	87	Chardonnay	45	White	3.80666249	0	0
+California	87	Chardonnay	34	White	3.52636052	0	0
+California	87	Chardonnay	15	White	2.7080502	0	0
+California	86	Chardonnay	15	White	2.7080502	0	0
+California	86	Chardonnay	20	White	2.99573227	0	0
+California	84	Chardonnay	18	White	2.89037176	0	0
+California	84	Chardonnay	13	White	2.56494936	0	0
+California	83	Chardonnay	19	White	2.94443898	0	0
+California	83	Chardonnay	8	White	2.07944154	0	0
+California	82	Chardonnay	15	White	2.7080502	0	0
+California	82	Chardonnay	13	White	2.56494936	0	0
+California	82	Chardonnay	14	White	2.63905733	0	0
+California	82	Chardonnay	9	White	2.19722458	0	0
+California	81	Chardonnay	19	White	2.94443898	0	0
+California	80	Chardonnay	10	White	2.30258509	0	0

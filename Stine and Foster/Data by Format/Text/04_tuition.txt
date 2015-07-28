@@ -1,0 +1,101 @@
+Out-of-state Tuition	College	State	In-State Tuition
+3400	Alabama Agri. & Mech. Univ.	AL	1700
+3000	Alabama State University	AL	1500
+2610	Jacksonville State University	AL	1740
+4960	University of Alabama at Huntsville	AL	2480
+3552	University of Arkansas at Monticello	AR	1536
+7434	Arizona State University Main campus	AZ	1828
+7434	University of Arizona	AZ	1828
+8990	California State Univ. at Fullerton	CA	1606
+7454	California State Univ. at Los Angeles	CA	1788
+8820	California State Univ. at Dominguez Hills	CA	1440
+5904	California Poly-Pomona	CA	
+9979	Humboldt State University	CA	1599
+8964	San Francisco State University	CA	1584
+11648	University of California at Berkeley	CA	3949
+5962	Western Connecticut State University	CT	1842
+4535	Albany State College	GA	1772
+4145	North Georgia College	GA	1382
+4617	Valdosta State University	GA	1770
+4460	University of Hawaii at Manoa	HI	1460
+2920	University of Hawaii at Hilo	HI	480
+7550	Iowa State University	IA	2291
+5544	Chicago State University	IL	1848
+4973	University of Southern Indiana	IN	2040
+5401	Emporia State University	KS	1729
+6994	University of Kansas	KS	1650
+4738	Murray State University	KY	1580
+5154	University of New Orleans	LA	2362
+3950	Southern University and A & M College	LA	2028
+9838	University of Massachusetts at Lowell	MA	4694
+5542	Bridgewater State College	MA	1408
+5542	Westfield State College	MA	1408
+5000	Coppin State College	MD	2600
+5130	Salisbury State University	MD	2328
+6800	St. Mary's College of Maryland	MD	4000
+	United States Naval Academy	MD	
+6600	University of Maine at Presque Isle	ME	2700
+6108	Grand Valley State University	MI	2422
+7162	Wayne State University	MI	3271
+4285	Southwest State University	MN	2285
+4620	Central Missouri State University	MO	2310
+3840	Missouri Southern State College	MO	1920
+3900	Missouri Western State College	MO	1998
+4856	Northeast Missouri State University	MO	2704
+9057	University of Missouri at Columbia	MO	3030
+4190	Jackson State University	MS	2230
+9866	Mississippi State University	MS	4946
+4916	University of Mississippi	MS	1996
+6311	University of Montana	MT	2251
+6806	Fayetteville State University	NC	740
+6360	Pembroke State University	NC	628
+6390	Western Carolina University	NC	718
+7558	University of North Carolina at Wilmington	NC	1492
+2670	Chadron State College	NE	1575
+5595	University of Nebraska at Lincoln	NE	2055
+2700	Wayne State College	NE	1500
+2875	Kean College of New Jersey	NJ	1965
+7410	Rutgers State University at Newark	NJ	3640
+5376	New Mexico Institute of Mining and Tech.	NM	1302
+6432	New Mexico State University	NM	1980
+6490	University of Nevada-Las Vegas	NV	1740
+6550	SUNY College at New Paltz	NY	2650
+6550	SUNY College at Oneonta	NY	2650
+5050	CUNY- Baruch College	NY	2450
+5750	SUNY College at Old Westbury	NY	2150
+6550	SUNY Empire State College	NY	2650
+7452	Bowling Green State University	OH	3070
+6462	Cleveland State University	OH	3231
+4128	Shawnee State University	OH	2262
+3274	Oklahoma Panhandle State University	OK	1212
+3225	Southwestern Oklahoma State Univ.	OK	1298
+2600	Eastern Oregon State College	OR	2600
+7770	Western Oregon State College	OR	2790
+7844	Bloomsburg Univ. of Pennsylvania	PA	3086
+8285	Kutztown University of Penn.	PA	3512
+7452	Mansfield University of Penn.	PA	3154
+7844	Millersville University of Penn.	PA	3086
+10786	University of Pittsburgh-Main Campus	PA	4962
+10645	Pennsylvania State Univ. Main Campus	PA	4966
+5800	University of South Carolina at Aiken	SC	2320
+5550	Austin Peay State University	TN	1616
+5908	University of Memphis	TN	1974
+4025	Tennessee Technological University	TN	1740
+5130	Sam Houston State University	TX	840
+4536	University of Texas at Dallas	TX	784
+4104	University of Texas at San Antonio	TX	672
+5130	Texas A&M Univ. at College Station	TX	840
+5148	Weber State University	UT	1377
+7860	Christopher Newport University	VA	2332
+7920	Longwood College	VA	2606
+7994	James Madison University	VA	3900
+6684	Radford University	VA	2924
+9020	Virginia Military Institute	VA	2980
+10260	Virginia Tech	VA	3926
+15516	University of Vermont	VT	6210
+7242	Central Washington University	WA	2053
+8200	Washington State University	WA	2907
+7142	Univ. of Wisconsin at Stevens Point	WI	2355
+6950	University of Wisconsin-Whitewater	WI	2300
+4498	Bluefield State College	WV	1856
+6370	West Virginia University	WV	2128

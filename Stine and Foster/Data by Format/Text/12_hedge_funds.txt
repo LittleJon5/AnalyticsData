@@ -1,0 +1,534 @@
+FUND_NAME	Return	Net Asset Value
+Brookville Credit Opportunities, LP (Class A)	0.002	1153.72991
+Barnet Partners	0.0033	975.374282
+Paulson Advantage LP	0.0075	1145.94549
+Overture Fund, L.P.	0.0125	24.2495935
+ReachCapital International Fund II, L.P.	0.0424	1529.86647
+Apis Offshore Capital, Ltd	0.012	1316.38501
+Verity Offshore Fund, LTD	0.0172	948.903723
+Chess River UK Equity Fund	0.0141	1095.77411
+Rivoli Equity Fund USD	0.044	1176.3605
+Black Diamond Arbitrage Partners, L.P.	0.0119	2112.57252
+Boldwater Capital Partners Fund Ltd.	0.0257	1149.56567
+Zacks Long Short Strategy	-0.0151	1113.25501
+Gemini Overseas Fund, Ltd.	0.0004	1019.38136
+Nextra Beta Hedge Fund	0.022	1170.1458
+Global Securities Market Neutral Fund, SP	0.00675	1338.71276
+TQA Event Arbitrage Fund L.P.	0.0147	1196.52751
+TQA Event Arbitrage Fund Ltd.	0	1039.99671
+Hovde Financial Institution Partners, Ltd.	0.0109	1168.9971
+Hovde Financial Institution Partners III, L.P.	0.0151	2431.70719
+Genie Global Credit Offshore LP Class A	0.0047	1847.18453
+New Castle Market Neutral Offshore, Ltd.	0.0196	2016.84399
+Leonidas Opportunity Offshore Fund Ltd	0.01	895.722093
+The Lucerne Capital Fund, L.P.	0.0343	2290.38248
+The Lucerne Capital Offshore Fund, Ltd.	0.0348	1885.68846
+The Lucerne Mid-Cap Offshore Fund, Ltd.	0.0353	1311.7362
+Corneille Fund, LP	0.0562	1306.99591
+ARA Behavioral Fund I, LLC	0.0024	949.874181
+Select Contrarian Value Partners, LP	0.022	4843.42221
+Paulson Advantage Plus Ltd	0.0129	909.992566
+Welch Technology Fund, LP	-0.0079	977.437741
+Argo Global Special Situations Fund SP	0.0085	1259.36522
+Nea Diversified Strategies Fund Limited	0.0348	1254.26833
+Snow Capital Investment Partners, LP	0.0277	2163.97383
+Pioneer Global Long/Short Equity (USD Class)	0.0292	1059.87349
+Aria Partners II LP	0.0293	1195.87278
+Arrow Partners, LP	0.03	1863.11369
+Pioneer Global Long/Short Equity (Euro Class)	0.029	1095.90974
+Hillsdale Canadian Performance	0.0542	6761.68387
+ILEX Credit Fund - Euro Class	0.0144	1495.23554
+Stillwater Asset Backed Fund, LP	0.0085	1218.47157
+Platinum Partners Value Arbitrage Fund (International) Limited	0.0234	1528.33544
+GFIPuMped Fund, Ltd.	-0.0042	1023.92303
+Boldwater Credit Opportunities Fund Ltd.	0.0143	1090.94138
+Catalyst Strategic Event Fund Offshore, Ltd.	0.014	1494.07216
+Genie Global Credit Offshore Class B	0.0031	1091.61458
+IBS Opportunity Fund (BVI), Ltd.	0.0587	11025.9544
+ReachCapital International Fund I, Ltd	0.0427	1553.87832
+Brookville Credit Opportunities, LP (Class B)	0.0026	1174.62598
+Brookville Credit Opportunities, Ltd. (Class A)	0.002	1184.50892
+Brookville Credit Opportunities, Ltd. (Class B)	0.0027	1092.36506
+Gemini Partners, L.P.	0.0004	1038.24257
+Stillwater Asset Backed Offshore Fund Ltd	0.0085	1126.95792
+QM Premier Fund (GBP)	-0.0002228	1175.848
+QM Premier Fund (EURO)	-0.0016526	1105.538
+Euclid Fixed Income Arbitrage Fund, L.P.	0.0058	1096.96474
+Avendis Enhanced Fixed Income Fund	0.0158	1603.97377
+Emerging Income Fund	0.207	1832.94626
+Intercept Capital	-0.023	995.090398
+Digital Century Conservative Growth L.P.	0.0187	1102.54139
+RAB European Loan Fund Class B (USD)	0.0121	894.538934
+Mohican VCA Master Fund, LTD	0.0073	1226.6445
+Thornhill Global Income Fund (EURO)	0.0105	1180.75275
+Palmyra Capital Offshore Fund, Ltd	0.0039	1121.88558
+Palmyra Capital Institutional Fund, LP	0.0062	1032.60858
+Royal Capital Value Fund	0.02	2129.12838
+Russian Century Fund	0.0492	1837.86028
+Lakefront Partners, LP	0.0166	1039.2967
+Hovde Financial Institution Partners, L.P.	0.012	1143.59317
+Kinetics Fund, Inc.	0.0229	2082.6344
+Deephaven Event Fund, Ltd.	0.0369	1234.53055
+Balestra Capital Partners, LP	0.0219	3305.63646
+Balestra Income Partners, LLC	0.0018	1264.41503
+The Leisure Fund, LP	0.008	5158.16033
+Dividend Plus Capital Partners, LP	0.0047	1475.57624
+Rivoli Equity Fund Euro	0.0421	1165.10433
+Rivoli Long Short Bond Fund	0.002	1278.31448
+Rodinia Partners, L.P.	0.0387	1205.59771
+Deephaven Event Fund LLC	0.0374	1239.29644
+Bear Stearns Systematic Equity Partners, Ltd.	-0.0104	1131.41944
+Black Diamond Convertible Partners, L.P.	0.0087	1118.92751
+Black Diamond Convertible Ltd.	0.0072	1096.0799
+Black Diamond Arbitrage Ltd.	0.0106	1462.3845
+Black Diamond Relative Value Ltd.	0.0129	1663.81958
+CAM Opportunity Fund I LLC	0.0028	1412.9544
+CAM Opportunity Fund I Ltd.	0.0027	1391.04188
+AAAsgard Fixed Income Fund Limited	0.0113	970.49089
+Nibius Fund Ltd	0.022	1452.36473
+Leeward Offshore Resource Fund	0.0722	1305.1975
+Boston Equity Fund	0.0154	1035.76461
+Boston Research Fund	0.0074	1152.38373
+Deephaven Long/Short Equity LLC	-0.003	1099.72024
+Caritas Royalty Fund LLC	0.0077	1357.29541
+Deephaven Global Convertibles Select Opportunities Fund, Ltd.	0.0218	1081.83734
+Deephaven Global Convertibles Select Opportunities Fund, LLC	0.0216	1121.38682
+Alkeon Growth Partners LP	-0.0008	1285.80077
+CMG Capital, L.P.	-0.0101	1413.77518
+CMG Capital, Ltd.	-0.0097	1811.17926
+Apis Capital, LP	0.0116	1301.5262
+SACC Partners, LP	0.0833	3004.4114
+LibertyView Fund LLC	0.0041	21573.5458
+Paragon Long/Short Fund	-0.0044	1016.93322
+LibertyView Leverage Plus Fund	0.0035	21181.9015
+CapitalWorks Partners, LP	0.0144	1198.15891
+Paulson Advantage Ltd.	0.0104	1134.50029
+Paulson Enhanced Ltd	0.0264	194.970436
+Paulson International Ltd.	0.0147	2925.07745
+Paulson Partners, LP	0.0144	514.364671
+Paulson Partners Enhanced LP	0.0269	1669.26333
+Symmetry Capital Partners, LP	-0.0096	1258.37087
+Beacon Rock Capital Fund, LP	0.00607	1535.02379
+Greenlight Capital, LP	0.009	10383.2238
+ThinkStrategy Capital Fund LP - A Shares	0.015	3531.74317
+LibertyView Global Volatility Fund	-0.0145	12127.3938
+LibertyView Income Fund	0.0028	1611.84779
+LibertyView Plus Fund	0.004	23473.4615
+LibertyView Special Opportunities Fund	0.0136	1370.5758
+Globalvest Octane Value Fund, Ltd	0.019	155.308514
+Mariner Fund USD Class 1	0.0091	2835.37728
+Weavering Fixed Income Fund Ltd.	0.0327	1307.00285
+Imagine Investment Partners, LP	0.0076	1362.83183
+Clarium LP	0.086	3.52401164
+Leeward Offshore Bull & Bear Fund	0.0472	1958.6097
+Leeward Offshore Bull & Bear Fund (US) 3C1	0.0472	1648.45289
+LibertyView Convertible Arbitrage Fund	-0.0088	1209.02628
+LibertyView Credit Opportunities Fund	0.0185	2460.95842
+Circle-T Energy Partners, LP	0.0287	564.852714
+Peconic Partners International Fund Ltd.	-0.025	481.095416
+Grenadier Fund	-0.0235	18803.2544
+Triumph Fund	-0.0194	5625.78076
+St. Albans Partners	0.0036	1831.72422
+Yield Strategies Fund I	0.0003	1826.02673
+Yield Strategies Fund II	0.0045	3343.63931
+Welch Entrepreneurial Fund (QP), LP	0.0106	4521.94867
+Parallax Fund, L.P.	-0.002	8224.97069
+Seabreeze Partners Short, LP	0.0062	1197.1185
+Khaner Capital, L.P.	-0.005	3454.66349
+Black Diamond Partners, L.P.	0.0116	2762.27943
+Ukraine Value Opportunites Fund- Class B	0.004	4292.20283
+EMF Fixed Income Fund, Ltd.	0.0475	20871.9778
+Paulson Advantage Plus LP	0.0139	892.117653
+Deephaven Long/Short Equity Ltd	-0.0049	1076.45758
+Baker Street Capital Partners LP	0.0081	1718.27771
+Avendis Alternative Fund Ltd.	0.019	1126.51379
+Genie Global Credit North America LP Class A	0.0031	1160.63455
+Emerging Value Opportunities Fund- Class A Series 1-5	0.1947	4213.25032
+Mariner Fund USD Class 2	0.009	1670.38466
+Mariner Fund EURO Class 1	0.0072	1049.99088
+Mariner Fund EURO Class 2	0.0072	1072.55538
+Mariner Fund GBP Class 1	0.0092	1120.35007
+Mariner Fund GBP Class 2	0.0092	1070.09264
+Platinum Partners Value Arbitrage Fund (USA) LP	0.0234	1524.88568
+Avendis Enhanced Fixed Income Fund Class CHF	0.0119	1133.96607
+CMG All Seasons, L.P.	0.0147	1090.87867
+Tact Japan Star Fund	0.0301	1787.81517
+Crestline Offshore Fund, Ltd.	0.0127	1267.29395
+Blackthorn Multi-Advisor Fund, L.P.	-0.0134	1041.4237
+Aurora Hedged Equity Offshore Fund Ltd.	0.0209	1143.83461
+Star Navigator, LP	0.0115	2892.02946
+Alumni Partners I, LP	0.0284	1443.16375
+Greenlight Masters Qualified, LP	0.018	165.03752
+Dexion Equity Alternative Limited GBP	0.0131	1137.98166
+FPA Multi-Advisor Fund, LP	0.0183	3555.81141
+Opus Credit Fund Ltd. Class A USD	0.0067	1115.77475
+ComVest Absolute Return Enhanced Fund LLC	0.0293	122.791868
+CornerStone Emerging Markets Fund	0.0361	178.840603
+Millbrook Partners	0.0087	1447.77237
+Admiral Fund of Funds Limited Class USD	0.0326	147.638224
+Admiral Fund of Funds Limited Class EURO	0.0308	149.1138
+AIJED Associates LLC	0.0093	228.75926
+Navigator Capital Partners	0.0174	2820.2209
+Sumnicht Money Masters Fund, LP, Class A	0.01	1500.44003
+Sumnicht Money Masters Fund II, LP	0.0026	1603.84044
+Warisan Global Equity Fund LP	0.03345	1195.59287
+Cardinal Fund of Funds Class A EURO	0.0292	157.63739
+Landmark Value Strategies Global, LLC	0.0267	1418.82561
+Dexion Trading Limited	0.0086	1050.13221
+Oria Market Neutral Fund Limited - Class D (JPY)	0.0301	1015.66527
+Oria Plus Fund Limited	0.0438	1203.4976
+Warisan Global Equity Fund Ltd	0.03456	1185.49476
+Altedge Diversified Fund SPC ?Balanced USD Share class	0.0139	1205.97076
+Altedge Diversified Fund SPC ?Balanced EUR Share class	0.0122	1120.06444
+Altedge Diversified Fund SPC ?4X Levered USD Share class	0.0399	1237.73907
+Altedge Diversified Fund SPC ?4X Levered EUR Share class	0.0379	1165.30832
+Sapphire Voyager Fund, L.P.	0.0173	1309.54255
+Sapphire Voyager Offshore Fund, Ltd.	0.0275	1262.97207
+Arrow Compass Fund Inc.- Class A	0.013	1069.11785
+Arrow Voyageur Fund Inc.	0.0217	1230.62362
+TS Multi-Strategy Fund LP	0.017	4523.81749
+OmniQuest I, LLC Option B	0.0241	1298.38483
+Opus Fixed Income Fund Ltd. A (USD)	0.0064	1169.83749
+Opus Fund Ltd. (Multi-Strategy) A (USD)	0.0204	1255.54966
+Ironwood Capital Partners L.P.	0.0189	1534.15908
+Ironwood/CMS Multi-Strategy Fund L.L.C.	0.0177	1350.63205
+Dexion Absolute Limited EURO Shares	0.0154	1062.11134
+Cornerstone Global Growth Fund	0.0267	147.549144
+Araca Hedged Equity LLC	0.0138	1288.5082
+Tact Technician Fund	0.0238	1519.4923
+Dexion Absolute Limited GBP Shares	0.0172	1332.56051
+Greenlight Masters, LP	0.018	156.363133
+Greenlight Masters Offshore, Ltd.	0.017	157.833415
+Cardinal Fund of Funds Class B GBP	0.0315	1209.31876
+Montier High Alpha Fund of Funds USD	0.033	1278.39891
+Montier High Alpha Fund of Funds EURO	0.0309	1257.88306
+Montier High Alpha Fund of Funds GBP	0.0333	1303.45244
+Vision Elite Segregated Portfolio	0.026	1386.6425
+Pinehurst Partners, L.P.	0.0252	1462.63662
+Pinehurst Plus, L.P.	0.0352	1295.53998
+Balestra Spectrum Partners, LLC	0.028	2498.60678
+Vision Asia Maximus Fund	0.0365	1632.87566
+Dexion Absolute Limited USD Shares	0.0172	1350.41269
+Cardinal Fund of Funds Class B EURO	0.0288	154.772791
+Ironwood Partners, L.P. / Ironwood International Ltd. (Class A & B)	0.0169	3053.15891
+Cardinal Fund of Funds Class A USD	0.0312	155.548891
+Cardinal Fund of Funds Class B USD	0.0313	152.997196
+CARE Market Neutral Fund	0.0111	1294.45091
+Lighthouse Diversified Fund, LP	0.0148	2754.06433
+Lighthouse Low Volatility Fund, LP Class C	0.0135	1983.1069
+Hanseatic US Equity SMID	0.005	9252.89745
+Hanseatic US Equity Large	0.0199	10025.6951
+CARE Market Neutral Sub-Trust Offshore	0.0114	1036.07613
+CARE Enhanced Sub-Trust Offshore	0.0172	1016.59286
+Eddington Triple Alpha Fund D1 Class	0.0236	1308.1071
+Rembrandt Partners Fund, L.P.- Class B	0.02	2814.34743
+Select Access (Institutional) LLC	0.0295	1474.51387
+Agile Safety Fund International (EURO)	0.0145	1107.02618
+Oria Market Neutral Fund Limited - Class A (USD)	0.0132	1112.63027
+Oria Market Neutral Fund Limited - Class B (EUR)	0.0146	1038.0401
+Overlook Performance Fund	0.023	6995.55209
+Three Rivers Equity Partners, L.P.	0.0075	3321.9514
+Select Access LLC	0.0086	1196.21399
+Three Rivers Investment Opportunity Fund, L.P.	0.0156	1184.39909
+Mezzacappa Long/Short Fund, LLC	0.0188	1174.0317
+Eddington Triple Alpha Fund C1 class	0.0216	1240.95288
+Aurora Relative Value Offshore Fund Ltd.	0.019	1251.66626
+Rivoli Conservative Fund	0.0078	1117.82828
+Optima Partners Global Fund LLC	0.0294	1174.34599
+Stillwater New Finance Fund Ltd	0.0095	1136.2056
+Sciens Leveraged Debt and Income Fund (Cayman)	0.01	1014.86959
+Dunbar Capital Management, LLC	0.0191	2484.89535
+Iron Equity Fund Ltd. (Offshore)	0.0093	1084.21964
+Mayer & Hoffman High Alpha Ltd.	0.023	1150.2027
+Mayer & Hoffman Low Beta, LP	0.011	1132.51717
+Mayer & Hoffman Corporate Financing Fund	0.007	1085.97854
+Lighthouse Credit Opportunites Fund, LP Class B	0.0114	1179.80591
+Lighthouse Global Long/Short Fund, LP	0.0292	1193.01941
+Ironwood Partners II, L.P. / Ironwood International Ltd. (Class C & D)	0.0154	1095.46978
+Crestline Event Arbitrage Offshore Fund, Ltd.	0.0107	1314.50205
+Crestline Plus Offshore Fund, Ltd.	0.0196	1104.36112
+Sciens Debt and Income Fund (Cayman)	0.0081	1047.7299
+Tomac1	-0.0087	1768.81347
+ITA Rates Medium	-0.003	843.438809
+Gain MAC - 2x	-0.0024	1343.49026
+Capital Fund Discus Program	-0.0165	1398.88536
+Kinkopf Capital Management, LLC	-0.004	3242.00488
+Hasenbichler Commodities Fund SP	0.0106	1098.60442
+Beacon Mgt (Enhanced Financials)	-0.0118	957.184707
+Qualia Financial Adaptive S&P II	0.0216	1172.66322
+Michael N. Trading (Financial Futures Trading Program)	-0.0386	943.894555
+ZeroVector BillionZ	0.0218	2748.90419
+Rivoli International Fund USD	0.0596	1133.44266
+Rivoli Managed Account Program USD	0.0857	1422.99857
+Potomac Portfolios Managed Account Program	-0.0452	1832.94825
+Tucson Asset Management Macro	-0.0384	1583.98905
+James Jones Seasonal Trading Program	-0.119	3782.21319
+AIS Futures MAAP (2x-4x) Composite	0.1164	5017.48062
+AIS Futures MAAP (3x-6x) Composite	0.1816	11011.7837
+Mulvaney Global Markets Fund	0.0835	2745.68831
+Trendoscil Fund NV	-0.1626	1880.41343
+Tomac2	-0.0232	1178.67901
+Michael N. Trading Bund/Bond Program	-0.0125	17450.1207
+Jaguar Commodity Fund Limited	-0.0341	826.275584
+John LoSordo Global Diversified Program	-0.0009	888.424568
+Pascal Methodology (P100)	0.0861	2007.69244
+Briarwood Fund1 L.P. (2XL Series)	0.0631	1302.13081
+Grinham Diversified Program	0.0122	4410.24536
+ITA Short Euro	-0.056	811.414679
+Gain MAC	-0.002	1284.13112
+ITA Balanced	0.001	1000.03065
+Quantitative Derivative Strategy QDS	0.022	1194.95622
+Rotella Standard Leverage Program	-0.0223	11821.9321
+TrendStrategy	0.015	927.04658
+Parrot Trading Partners, LLC	0.0747	2543.80986
+Rotella Polaris Fund LLC	-0.0228	2235.77592
+Rotella Polaris Fund, Ltd.	-0.0239	2218.44231
+SASCAM Global I	0.02199	942.648747
+Tactical Institutional Commodity Fund, L.P.	0.0542	1722.15524
+Beacon Mgt (Meka Partners LP)	-0.0099	6023.37105
+Emory Partners	0.011	19108.4344
+Rivoli International Fund EURO	0.0574	486.059477
+Grant Park Futures Fund Class B Units	-0.0162	941.350636
+Rivoli Managed Account Program Euro	0.0837	172.494137
+Rembrandt Partners Fund Ltd.	0.0206	1018.69473
+Princeton Leveraged Fund, Ltd.	0.0285	1021.08403
+Kawaller Fund	-0.0014	2993.01432
+Slayden Partners LLC (Aggressive Class B )	-0.0144	821.089109
+Quantitative Global Fund (3x)	0.0913	845.801504
+Meyer Global Select II	0.0785	1815.93077
+RG Niederhoffer Diversified Fund II, Ltd	-0.0118	959.982895
+Roy G. Niederhoffer Fund (Ireland) #1	-0.0423	1849.81153
+RG Niederhoffer Global Fund L.P., I	-0.0438	2175.43077
+RG Niederhoffer Negative Correlation Fund, Ltd.	-0.0186	949.81915
+RG Niederhoffer Optimal Alpha Fund, Ltd	-0.0007	962.945699
+Bermuda Fund, L.P.	0.0033	1021.80398
+Discus US Standard- Class B Shares	-0.013	1822.73578
+Discus US Double- Class C Shares	-0.0293	2615.13284
+Discus FCIMT (EURO)	-0.0191	17712.1
+Discus EURO Standard- Class D Shares	-0.0145	1841.39864
+Discus EURO Double- Class E Shares	-0.0325	2551.57333
+Grant Park Futures Fund Class A Units	-0.0155	1023.96098
+Princeton Leveraged Fund, L.P.- Class B	0.0309	3625.9043
+Princeton Leveraged Fund, L.P.- Class C	0.0311	3803.2033
+RAB European Loan Fund Class D (USD)	0.0133	906.067516
+RJL Partners Small Cap Fund	-0.008	1439.58432
+Pioneer Systematic Diversified	0.0009	1040.70178
+RJL Partners Large Cap Fund	0.005	1013.69074
+Jackson Financial Fund, LP	0.015	1135.23567
+Jackson Income Fund, LLC	0.016	1119.09851
+Aspect European Equity Fund Limited (Euro)	0.0039	959.345772
+Global Hedge Fund, L.P.	0.0154	617.487872
+Venus Acumen Asia Fund	0.0249	1181.42373
+MUUS Independence Fund	0.012	1457.99776
+Global Diversified Futures 1X	0.0501	1173.63356
+Global Diversified Futures 3X	0.1114	1604.34859
+TS Diversified Market Neutral Fund LP	0.016	2369.51624
+TS Diversified Market Neutral Fund Limited	0.016	2369.51624
+TS Multi-Strategy Fund Limited	0.012	4562.17796
+Gain MAC - 4x	-0.0031	831.006209
+Tranquility Fund, L.P.	0.0169	1738.2021
+Globalvest Value Discovery Fund, Ltd.	0.0139	580.709989
+Argent LowLev Convertible Arbitrage Fund II LLC (B)	-0.0037	1312.4161
+Argent LowLev Convertible Arbitrage Fund II LLC (C)	0.0071	1519.4563
+Fitrol Managed Futures Program	0.0001	1721.42898
+Avendis Enhanced Fixed Income Fund Class EUR	0.015	1120.76283
+RAB EMEA Fund (Class A EUR)	0.061	1367.17356
+RAB EMEA Fund (Class C EUR)	0.0646	1361.96714
+RAB EMEA Fund (Class D USD)	0.0648	1357.12434
+RAB EMEA Fund (Class P GBP)	0.061	1333.88172
+RAB EMEA Fund (Class Q GBP)	0.0646	1365.07358
+MVP Fund of Funds Ltd (USD A Class)	0.0097	1212.67402
+Deephaven Credit Opportunities Fund, Ltd.	0.0085	1101.26396
+Kinetics Institutional Partners LP	0.0155	1059.26605
+Brownstone Partners Catalyst Fund, LLC	0.0059	1154.29679
+Wilfrid Aubrey International	0.0008	1739.61159
+Aliquot Gold Bullion Inc. Class C	0.0319	1707.54957
+Aliquot Precious Metals Portfolio Class D	0.0209	1451.67352
+Hedged Equity Index Plus Class A	-0.0158	1197.96329
+Honeyguide Inc Class C	0.0274	2033.26996
+Pangolin Overseas Inc Class A	0.0079	1027.52036
+Sable Fixed Income Plus Inc. Class A	0.0094	1074.90812
+Honeyguide Inc Class A	-0.0023	995.256084
+PGS Flagship Fund	0.0321	1340.85197
+PGS Japan Edge	0.0749	1728.18704
+Alinpa Trading Ltd. EUR Class A	-0.0037	1044.30973
+Alinpa Trading Ltd. EUR Class B	-0.0108	1416.80729
+McOmber Energy Fund	0.0175	1204.23281
+Punch Micro Cap Partners, LLC	0.025	1072.01457
+Sequent Fundamental-FX	-0.0476	1125.16395
+788 Asset Allocation Fund	0.0402	1085.87732
+788 China Fund	0.0354	1023.43619
+Wimbledon E.V.R. Capital Ltd.	0.0467	1146.0383
+E.V.R. Capital LP	0.0459	1569.16921
+Discretionary Commodity Trading Program	0.1352	18089.0387
+UMJ Neutro Fund	0.023	1046.529
+McOmber Energy Fund Ltd.	0.01642	1109.58747
+Ancile Global Diversification Fund I, LLC	-0.0226	1182.32111
+Infinity Fund Ltd	0.0086	2860.58686
+Leeward Offshore Canadian Income Fund	0.0296	3324.4913
+Mad River Fund, LP	0.0542	1706.32888
+Third Avenue Special Situations Fund, L.P.	0.0119	2605.1625
+New Millennium Fundamental Hedged Equity, LP	0.0072	4644.00061
+Connective Capital I Offshore Fund, Ltd.	0.02488	992.185142
+Hillsdale US Performance Fund	-0.0077	5293.22605
+CC&L Canadian Q Market Neutral Strategy	0.0065	1121.2181
+Pygar Fund Class A (EUR)	0.074282	1552.70176
+Pygar Fund Class A (USD)	0.0759	1584.65443
+Pygar Fund Class B (EUR)	0.074	1548.59796
+Pygar Fund Class B (USD)	0.0759	1584.65443
+Hayden Harper Multi-Strategy Fund, LP	0.0054	1042.88925
+The New Russia Growth Fund	0.0401	1086.55074
+Old Greenwich Capital Partners, L.P.	0.0134	1120.72701
+J.W. Focused Growth Fund, L.P.	-0.0071	7414.30433
+Twinfields Global Fixed Income Fund, LP	0.0013	978.737143
+Vision Commodities Segregated Portfolio	0.0145	1101.5398
+Vision Global Elite Segregated Porfolio	0.0469	1125.07444
+Vision Shin Nihon Segregated Portfolio	0.0644	1064.4
+Worldwide Opportunity Fund Cayman Ltd, General Class C shares	0.0173	1349.01207
+FIVE Balanced Fund Cash-Plus 1.0 USD Shares	0.0134	1108.76417
+FIVE Balanced Fund Cash-Plus 1.0 EUR Shares	0.0117	1103.52074
+Dancrest Global Equity Fund - USD Class Shares	0.0417	1202.34952
+Dancrest Global Equity Fund - EUR Class Shares	0.0393	1214.02612
+Long-Invest (USD) Fund	0.0198	1817.79401
+Long-Invest (EUR) Fund	0.0185	1590.52616
+Long-Invest (CHF) Fund	0.0169	876.921289
+FIM Multi Strategy Fund- USD Class Shares	0.0216	1278.15714
+FIM Multi Strategy Fund- EUR Class Shares	0.0248	1382.04324
+EJF Crossover Fund, LP	0.0323	1062.6567
+BipItalia Cash Plus	0.0117	1029.02709
+Bipitalia Low Volatility	0.01483	1218.18746
+Bipitalia Low Volatility II	0.0118	1078.85476
+Bipitalia Multi Strategy	0.0259	1240.98792
+Bipitalia Basket Mix Fund	0.0157	1123.97177
+Global Energy Value Fund	0.0438	1158.86916
+A.R.T. B Arbitrage Portfolio USD	0.0126	1327.78959
+EJF Crossover Offshore Fund, Ltd	0.0373	1078.30093
+EJF Long/Short Equity Fund, LP	-0.0037	975.559554
+Absolute Return Bond Fund Class B1 USD	-0.0022	1036.88848
+G12 Macro Class C1 USD	0.0059	1129.47335
+Aida C Fund (USD)	0.0287	1524.2495
+Aida C Fund (EUR)	0.0269	1513.13963
+Aida C Fund (GBP)	0.0292	1264.06029
+Alcentra Avila Fund	-0.0015	1197.15521
+Alcentra Avila Fund Leveraged	-0.0015	1214.78364
+788 Japan Fund Ltd.	-0.002	998
+LibertyView Plus Fund EUR	0.0027	1448.97086
+Index Options Fund, Ltd	0.029	1375.52426
+Tocqueville Gold Offshore Fund, Ltd.	0.0833	1840.30442
+Winton Evolution Fund	-0.0495	606.580252
+Aspect Diversified Fund (LLC)	-0.0029	1078.17803
+Visium Balanced Fund, LP	0.039	1469.66304
+Visium Balanced Offshore Fund, LTD	0.036	1397.29629
+Visium Long Bias Offshore Fund, LTD	0.0416	1432.73571
+Crescent City Hedged Income Fund, L.P.	0.0048	1083.13616
+Taylor Insurance Series, L.P.	0.0285	1197.51211
+Grandway Multi-Strategy Fund Ltd (Class B)	0.0349	1375.59604
+GLL Investors II, L.P.	0.0153	1372.36247
+GLL Investors, Ltd. Class B	0.0118	1363.81399
+Sprott Strategic Offshore Gold Fund Ltd	0.1531	1042.34236
+GLL Investors, Ltd. Class A	0.0109	1083.75226
+Sprott Strategic Gold Fund LP	0.1517	1023.37832
+SCM Special Values Fund, LP	-0.0102	1716.14706
+The Players Fund, L.P.	0.0114	1085.52587
+Shearwater Fund	0.0283	1765.03607
+Opus Fund Ltd. (Multi-Strategy) Class B EUR	0.0172	1258.10951
+Opus Fund Ltd. (Multi-Strategy) Class E GBP	0.0191	1246.24302
+Opus Fixed Income Fund Ltd. B (EUR)	0.0064	1032.87637
+Opus Fixed Income Fund Ltd. E (GBP)	0.0085	1209.19122
+Advisory Research Controlled Volatility Value Fund, L.P.	0.0172	1110.98065
+DGHM ValueTech II LP	-0.031	844.518563
+Select Access III LLC	0.0169	1297.42899
+Post Distressed Fund, L.P.	0.019	2377.3766
+Index Condor	0.0661	1767.9475
+Post Distressed Fund, Ltd.	0.0197	1659.23649
+Post Total Return Fund, L.P.	0.0219	3495.33887
+Post Total Return Offshore Fund, Ltd.	0.0203	1185.13194
+MVP Fund of Funds Ltd (GBP B Class)	0.0099	1009.9
+Waterfall Vanilla Offshore Ltd.	0.007	1150.88328
+Belmont Diversified SPC (USD)	0.0267	1358.94444
+Belmont Diversified SPC (EUR)	0.0257	1223.92838
+Belmont Diversified SPC (CHF)	0.0248	1076.50425
+Belmont (Lux) Multi-Strategy (USD)	0.0168	1027.73442
+Belmont (Lux) Multi-Strategy (EUR)	0.0142	976.008283
+Belmont (Lux) Multi-Strategy (CHF)	0.0139	956.550356
+Belmont Long Short Equity Ltd. (Class B)	0.0467	1336.85029
+Belmont Market Neutral Ltd. (Class B)	0.0127	1151.67809
+Belmont Market Neutral Ltd. (Class C)	0.0108	1029.69946
+Belmont Fixed Income Ltd. (Class B)	0.0156	1237.01179
+Belmont Fixed Income Ltd. (Class C)	0.0139	1141.36324
+Belmont Fixed Income Ltd. (Class D)	0.013	1022.22183
+Belmont Global CTA Ltd. (Class B)	0.0036	1390.52987
+Belmont Global CTA Ltd. (Class C)	0.0017	1076.3273
+Belmont Natural Resources Ltd. (Class B)	0.0135	996.429193
+Belmont Natural Resources Ltd. (Class C)	0.0117	992.67111
+Belmont Natural Resources Ltd. (Class D)	0.0102	982.427898
+Belmont Europe Ltd. (Class B)	0.0271	1296.44418
+Belmont Europe Ltd. (Class D)	0.0261	1053.00605
+Belmont Asia Ltd. (Class B)	0.0467	1362.37606
+H&Q Global Hedge	0.0157	1155.88473
+H&Q Nordic Hedge	0.0201	1225.09293
+Watchmaker Diversified Fund	0.008	1127.91917
+Firsthand Market Neutral Fund, L.P.	0.0421	1824.68362
+Accipiter Life Sciences Fund, LP	0.044	3160.57116
+Accipiter Life Sciences Fund (Offshore), Ltd.	0.044	3018.88953
+Accipiter Life Sciences Fund II, LP	0.034	1143.09455
+Advocate Partners, L.P.	0.011	1139.87978
+Winton Evolution Fund (EUR)	-0.0511	894.787787
+Winton Evolution Fund (GBP)	-0.0501	801.266336
+Telligent Greater China Master Fund, LP	0.077	1148.17867
+Crossfields Fund I LP	-0.0162	1212.67315
+Triumph Fund II LP	-0.0203	1987.84134
+Outrigger Growth Fund	0.0545	1599.4755
+HEDGEnergy	0.0354	1438.01628
+Montier Multi-Strategy Closed End Fund of Funds Ltd.	0.0316	1056.15208
+LACM Split Strike Conversion Share Class A	0.0028	1438.04578
+LACM High Yield Share Class B	0.0022	2294.7488
+LACM Legacy Share Class C	0.0153	2420.53665
+LACM MSCI Enhanced Hedge Fund Index Share Class C	0.0303	2791.80181
+LACM Macro Discretionary Share Class F	0.0168	3194.89038
+LACM Long/Short Statistical Arbitrage Share Class K	0.001	21033.2643
+LACM Consumer Receivables Share Class L	0.005	1151.92393
+LACM Enhanced Multi-Strategy Share Class M	0.0209	4673.7671
+LACM Short Term Discretionary Futures Share Class N	0.0293	1929.09489
+Bravura 99 Fund, L.P.	0.0105	1991.80085
+Andante Fund, L.P.	0.0006	2003.77851
+Melody Fund, L.P.	0.0102	1142.8902
+Rhapsody Fund, L.P.	0.0014	2546.24229
+WM India Fund Limited (Class A)	0.0484	1162.2021
+WM India Fund Limited (Class B)	0.048	1155.14817
+Blue Star I, LLC	0.0489	1960.52128
+Cedar Ridge Investors I, LP	0.0274	1225.30589
+Artemis Market Neutral Fund LP	-0.011	1129.35494
+Denahi Asia Focus Fund, L.P	0.0056	1006.40476
+Guardian One L.P.	0.0064	1131.62574
+Guardian One Ltd	0.0064	1131.62574
+Giano Capital Ltd. (EUR)	0.0309	5906.08377
+EJF Long/Short Equity Fund, Ltd	0.0026	962.956013
+EJF Opportunity Fund, LP	-0.0195	947.960563
+EJF Opportunity Fund, Ltd	-0.0165	933.608149
+Cross Shore QP Partners, LP	0.0208	1264.4347
+Cross Shore Fund, Ltd	0.0146	1316.76497
+Cornerstone Real Commodity Analysis, LLC	0.0017	1188.79327
+Millburn Hedge Fund LP	-0.0057	3411.75466
+Altedge Diversified Fund SPC ?Directional USD Share class	0.0145	1128.87148
+Altedge Diversified Fund SPC ?Directional EUR Share class	0.0107	1043.91735
+Altedge Diversified Fund SPC ?Directional GBP Share class	0.0123	1031.02755
+Altedge Diversified Fund SPC ?Directional CHF Share class	0.0096	1009.6
+Mondiale Offshore Fund, Ltd.	-0.0034	817.856699
+Lafitte Fund I	0.0541	1337.03611
+Lafitte Fund I (QP)	0.0535	1283.34466
+The October Fund, LP	0.02972	2467.18841
+SM Investors, L.P.	0.0127	3325.94574
+SM Investors II, L.P.	0.0118	1286.04219
+SM Investors Offshore, Ltd.	0.0155	1204.68971
+SM  L/S, L.P.	0.0145	1274.87954
+Gabelli Associates Limited	0.0109	4271.12962
+Finch Opportunities Class B	0.0125	1048.31168
+Finch Opportunities Class C	0.0157	1020.25501
+OptAS Ltd Class B	0.0112	1052.42694
+Four Corners Absolute Return Fund, LP	0.0104	2715.8353
+Four Corners Absolute Return Fund, Ltd.	0.0114	2649.55421
+FBR Pegasus Fund, Ltd.	0.0106	1073.60521
+Absolute Return Bond Fund Class B2 EUR	-0.0035	1021.356
+G12 Macro Class C2 EUR	0.0046	1095.58856
+Rittenhouse Hedged Equity Portfolio LP	0.0062	1021.90252

@@ -1,0 +1,319 @@
+Name	Class	Vehicle Type	Transmission	Combined MPG	City MPG	Highway MPG	Weight (pounds)	Displacement (liters)	Horsepower	Air Aspiration	# Cylinders	Intake Valves Per Cyl	Exhaust Valves Per Cyl	# Gears	Drive System	THC	CO	CO2	NOx	PM	Energy Storage Device Desc	2Dr Pass Vol	2Dr Lugg Vol	4Dr Pass Vol	4Dr Lugg Vol	Htchbk Pass Vol	Htchbk Lugg Vol	Camless Valvetrain (Y or N)	Oil Viscosity	Test Veh Displ (L)	Air Aspir Method	Cyl Deact?	Var Valve Timing?
+Audi A3	Small Station Wagons	Car	Manual	24	21	30	3625	2	200	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0011	1.14	311	0.013					89	20			N	5W40	1.984	TC	N	Y
+Audi A4 QUATTRO	Compact Cars	Car	Manual	25	21	31	4000	2	211	Turbocharged	4	2	2	6	All Wheel Drive	0.1341	1.82	390	0.055					91	12			N	5W40	1.984	TC	N	Y
+Audi A4	Compact Cars	Car	Continuously Variable	25	22	30	3875	2	211	Turbocharged	4	2	2	1	2-Wheel Drive, Front	0.0112	3.59	327	0.01					91	12			N	5W40	1.984	TC	N	Y
+Audi A6	Midsize Cars	Both	Continuously Variable	28	25	33	4000	2	211	Turbocharged	4	2	2	1	2-Wheel Drive, Front	0.0185	1.08	309	0.024					97	14			N	5W40	1.984	TC	N	Y
+Audi Q7	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	18	16	22	6000	3	225	Supercharged	6	2	2	8	All Wheel Drive	0.0019	0	475	0.214	0.002								N	5W40	2.967	SC	N	Y
+Audi R8	Two Seaters	Car	Automated Manual	16	13	21	4250	4.2	430	Naturally Aspirated	8	2	2	6	All Wheel Drive	0.3428	1.43	633	0.038									N	5W30	4.163	NA	N	Y
+Audi R8	Two Seaters	Car	Manual	14	11	20	4250	4.2	430	Naturally Aspirated	8	2	2	6	All Wheel Drive	0.0992	1.88	737	0.024									N	5W30	4.163	NA	N	Y
+Audi R8	Two Seaters	Car	Manual	14	12	19	4000	5.2	525	Naturally Aspirated	10	2	2	6	All Wheel Drive	0.0639	0.49	647	0.025									N	10W60 VW 50101 / 50500	5.204	NA	N	Y
+Audi S4	Compact Cars	Car	Manual	21	18	27	4250	3	333	Supercharged	6	2	2	6	All Wheel Drive	0.0278	1.15	409	0.027					90	13			N	5W40	2.995	SC	N	Y
+Audi S5	Subcompact Cars	Car	Manual	17	14	22	4250	4.2	354	Naturally Aspirated	8	2	2	6	All Wheel Drive	0.0301	1.04	421	0.034			84	12							4.163	NA	N	Y
+Volkswagen TIGUAN	Special Purpose Vehicle, SUV 2WD	Car	Manual	21	18	26	3875	2	200	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.2842	4.16	421	0.024									N	5W40	1.984	TC	N	Y
+Audi TT COUPE QUATTRO	Subcompact Cars	Car	Semi-Automatic	26	23	31	3625	2	265	Turbocharged	4	2	2	6	All Wheel Drive	0.2841	2	378	0.043							74	13	N	5W40	1.984	TC	N	Y
+Aston Martin Lagonda Ltd DB9	Minicompact Cars	Car	Manual	13	11	17	4500	5.9	470	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.01817	0.1251	649.27	0.0211			78	5					N	0W40	5.9	NA	N	N
+Aston Martin Lagonda Ltd DB9	Minicompact Cars	Car	Semi-Automatic	15	13	20	4500	5.9	470	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.064	0.693	546.445	0.042			78	5					N	0W40	5.9	NA	N	N
+Aston Martin Lagonda Ltd DBS	Minicompact Cars	Car	Manual	13	11	17	4500	5.9	510	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.029	0.174	650.6	0.041			78	5					N	0W40	5.9	NA	N	N
+Aston Martin Lagonda Ltd DBS	Minicompact Cars	Car	Semi-Automatic	14	12	18	4500	5.9	510	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.041	0.393	612.598	0.023			78	5					N	0W40	5.9	NA	N	N
+Aston Martin Lagonda Ltd Rapide	Subcompact Cars	Car	Semi-Automatic	15	13	19	4750	5.9	470	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.0388	0.3366	564.225	0.0369					83	14			N	0W40	5.9	NA	N	N
+Aston Martin Lagonda Ltd V8 Vantage S	Two Seaters	Car	Automated Manual	16	14	21	4000	4.7	430	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.02898	0.64907	529.36	0.00786									N	10W60	4.7	NA	N	Y
+Aston Martin Lagonda Ltd V8 Vantage	Two Seaters	Car	Automated Manual	16	14	20	4000	4.7	420	Naturally Aspirated	8	2	2	6	2-Wheel Drive, Rear	0.0365	1.1208	516.0957	0.0071									N	10W60	4.7	NA	N	Y
+Aston Martin Lagonda Ltd V8 Vantage	Two Seaters	Car	Manual	15	13	19	4000	4.7	420	Naturally Aspirated	8	2	2	6	2-Wheel Drive, Rear	0.0358	0.7897	551.4037	0.0272									N	10W60	4.7	NA	N	Y
+Aston Martin Lagonda Ltd Virage	Minicompact Cars	Car	Semi-Automatic	15	13	18	4500	5.9	490	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.05218	0.46034	569.26	0.02382			78	5					N	0W40	5.9	NA	N	N
+Bentley Motors Ltd. Mulsanne	Midsize Cars	Car	Semi-Automatic	13	11	18	6000	6.8	505	Turbocharged	8	1	1	8	2-Wheel Drive, Rear	0.5966	4.4679	697	0.01					101	11			N	0W40 / VW50200/VW50500	6.8	TC	Y	Y
+BMW 128i	Subcompact Cars	Both	Manual	22	18	28	3500	3	230	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.02157	0.0853	355.17	0.011			86	10							3	NA	N	Y
+BMW 128i	Subcompact Cars	Car	Semi-Automatic	21	18	28	3625	3	230	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0027404	0.0828431	237.49	0.0001098			86	10							3	NA	N	Y
+BMW 135i Convertible	Subcompact Cars	Both	Manual	22	19	28	4000	3	300	Turbocharged	6	2	2	6	2-Wheel Drive, Rear	0.02448	0.3557	375.08	0.0124			78	8							3	TC	N	Y
+BMW 135i	Subcompact Cars	Both	Manual	23	20	28	3625	3	300	Turbocharged	6	2	2	6	2-Wheel Drive, Rear	0.0179	0.5941	222.83	0.0029			86	10							3	TC	N	Y
+BMW 550i	Midsize Cars	Car	Manual	17	15	22	4500	4.4	400	Turbocharged	8	2	2	6	2-Wheel Drive, Rear	0.0189	0.4591	488.43	0.0273					102	14			Y	0W30	4.4	TC	N	Y
+BMW 650i Convertible	Compact Cars	Car	Manual	17	15	22	4750	4.4	400	Turbocharged	8	2	2	6	2-Wheel Drive, Rear	0.02613	0.5388	502.31	0.0195			89	12					Y	0W30	4.4	TC	N	Y
+BMW 650i Coupe	Compact Cars	Car	Manual	17	15	22	4500	4.4	400	Turbocharged	8	2	2	6	2-Wheel Drive, Rear	0.02956	0.734	477.12	0.0172			87	16					Y	0W30	4.4	TC	N	Y
+BMW 740Li	Large Cars	Car	Semi-Automatic	20	17	25	4750	3	315	Turbocharged	6	2	2	6	2-Wheel Drive, Rear	0.02647	0.1229	434.49	0.0352					115	14					3	TC	N	Y
+BMW 750i	Large Cars	Car	Semi-Automatic	17	15	22	5000	4.4	400	Turbocharged	8	2	2	6	2-Wheel Drive, Rear	0.1280177	0.5211268	304.586091	0.0034047					106	14			Y	0W30	4.4	TC	N	Y
+BMW M3 Convertible	Subcompact Cars	Car	Manual	16	13	20	4500	4	414	Naturally Aspirated	8	2	2	6	2-Wheel Drive, Rear	0.04785	0.2852	497.13	0.04			84	9					Y	0W30	4	NA	N	Y
+Mini Mini Cooper Clubman	Subcompact Cars	Car	Manual	30	27	35	3000	1.6	122	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.02459	0.2494	242.85	0.0102							80	17	Y	0W30	1.6	NA	N	Y
+Mini Mini Cooper Convertible	Minicompact Cars	Car	Manual	30	27	35	3000	1.6	122	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.02187	0.3159	176.57	0.0006			74	6					Y	0W30	1.6	NA	N	Y
+Mini Mini Cooper Countryman	Compact Cars	Car	Manual	30	27	35	3250	1.6	122	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.01471	0.1353	194.28	0.0014							87	16	Y	0W30	1.6	NA	N	Y
+Mini Mini Cooper S Clubman	Subcompact Cars	Car	Manual	30	27	35	3125	1.6	180	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.00692	0.1467	255.98	0.0206							80	17	Y	0W30	1.6	TC	N	Y
+Mini Mini Cooper S Convertible	Minicompact Cars	Car	Manual	30	27	35	3125	1.6	180	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0098	0.1957	257.38	0.0208			74	6					Y	0W30	1.6	TC	N	Y
+Mini Mini Cooper S Countryman All4	Compact Cars	Car	Manual	28	25	31	3500	1.6	180	Turbocharged	4	2	2	6	All Wheel Drive	0.01521	0.1854	203.25	0.0048					87	16			Y	0W30	1.6	TC	N	Y
+Mini Mini Cooper S Countryman	Compact Cars	Car	Manual	29	26	32	3375	1.6	180	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.01739	0.1866	195.26	0.0424					87	16			Y	0W30	1.6	TC	N	Y
+Mini Mini Cooper S	Minicompact Cars	Car	Manual	30	27	35	3000	1.6	180	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.00735	0.3269	258.66	0.0122			76	6					Y	0W30	1.6	TC	N	Y
+Mini Mini Cooper	Minicompact Cars	Car	Manual	32	29	37	2875	1.6	122	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0229	0.1797	230	0.01			76	6					Y	0W30	1.6	NA	N	Y
+BMW X5 xDrive35i	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5250	3	300	Turbocharged	6	2	2	8	All Wheel Drive	0.0411927	1.1170785	274.576399	0.0040312											3	TC	N	Y
+BMW X5 xDriveM	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	14	12	17	5500	4.4	555	Turbocharged	8	2	2	6	All Wheel Drive	0.0309975	0.5927623	600.346183	0.0098886											4.4	TC	N	Y
+BMW X6 xDrive35i	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5000	3	300	Turbocharged	6	2	2	8	All Wheel Drive	0.11647	1.7355	262.19	0.0067											3	TC	N	Y
+BMW X6 xDriveM	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	14	12	17	5500	4.4	555	Turbocharged	8	2	2	6	All Wheel Drive	0.02527	0.354	553.27	0.0182											4.4	TC	N	Y
+Chrysler 200	Midsize Cars	Both	Automatic	24	21	30	3750	2.4	173	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.025901	0.354917	358.46755	0.013565					100	14			N	5W-20	2.4	NA	N	Y
+Chrysler 300 AWD	Large Cars	Car	Automatic	21	18	27	4500	3.6	292	Naturally Aspirated	6	2	2	8	All Wheel Drive	0.089918	0.796228	370.22318	0.012585					106	16			N	5W-30	3.6	NA	N	Y
+Chrysler 300 AWD	Large Cars	Car	Automatic	18	15	23	4750	5.7	359	Naturally Aspirated	8	1	1	5	All Wheel Drive	0.038666	0.485903	490.51335	0.013725					106	16			N	5W-20	5.7	NA	Y	Y
+FIAT 500	Minicompact Cars	Car	Automatic	30	27	34	2750	1.4	100	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front											76	7	N	5W-30	1.4	NA	N	Y
+FIAT 500	Minicompact Cars	Car	Manual	33	30	38	2750	1.4	100	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.0642324	0.57178	259.986259	0.0221828							76	7	N	5W-30	1.4	NA	N	Y
+Dodge Avenger	Midsize Cars	Both	Automatic	24	21	30	3750	2.4	283	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front									100	13			N	5W-20	2.4	NA	N	Y
+Dodge Avenger	Midsize Cars	Both	Automatic	22	19	29	3875	3.6	283	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.00286	0.066437	211.704	0.000816					100	13			N	10W-20	3.6	NA	N	Y
+Dodge Caliber	Small Station Wagons	Both	Continuously Variable	24	23	27	3375	2	172	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.023718	0.345222	301.656255	0.005468							96	16	N	5W-20	2	NA	N	Y
+Dodge Caliber	Small Station Wagons	Both	Continuously Variable	24	22	27	3500	2.4	172	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.00296	0.160691	230.965	0.00276							96	16	N	5W-20	2.4	NA	N	Y
+Dodge Caliber	Small Station Wagons	Both	Manual	27	24	32	3250	2	158	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.032481	0.350859	289.48641	0.007029							96	16	N	5W-20	2	NA	N	Y
+Dodge Challenger	Midsize Cars	Car	Manual	18	15	23	4500	5.7	370	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.055278	0.577011	474.54975	0.035081			94	16					N	0W-40	5.7	NA	N	Y
+Dodge Charger AWD	Large Cars	Car	Automatic	21	18	27	4500	3.6	292	Naturally Aspirated	6	2	2	8	All Wheel Drive	0.009747	0.093877	233.399	0.004041					105	16			N	5W-30	3.6	NA	N	Y
+Dodge Charger	Large Cars	Car	Automatic	21	18	27	4250	3.6	292	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Rear									105	16			N	5W30	3.6	NA	N	Y
+Jeep Patriot 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	23	21	26	3750	2.4	172	Naturally Aspirated	4	2	2	1	4-Wheel Drive	0.041534	0.778643	348.88845	0.019891									N	5W-20	2.4	NA	N	Y
+Dodge Ram 1500 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	16	14	20	5500	4.7	310	Naturally Aspirated	8	1	1	5	2-Wheel Drive, Rear	0.030971	0.790679	510.37403	0.025626									N	5W-20	4.7	NA	N	N
+Dodge Ram 1500 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	16	14	19	5500	4.7	310	Naturally Aspirated	8	1	1	5	2-Wheel Drive, Rear	0.016888	0.32505	364.65	0.00494									N	5W-20	4.7	NA	N	N
+Chrysler Town & Country	Special Purpose Vehicle, minivan 2WD	Both	Automatic	20	17	25	4750	3.6	283	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.02769	0.363774	410.56653	0.007393									N	10W-20	3.6	NA	N	Y
+Jeep Wrangler 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	17	21	4750	3.6	290	Naturally Aspirated	6	2	2	5	4-Wheel Drive	0.037716	0.57661	447.34155	0.007772									N	5W-30	3.6	NA	N	Y
+Jeep Wrangler 4WD	Special Purpose Vehicle, SUV 4WD	Car	Manual	18	17	21	4750	3.6	290	Naturally Aspirated	6	2	2	6	4-Wheel Drive	0.029053	0.876785	453.42397	0.033751									N	5W-30	3.6	NA	N	Y
+Mitsubishi Motors North America ECLIPSE SPYDER	Minicompact Cars	Car	Semi-Automatic	23	20	27	3875	2.4	162	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.02228	0.21196	347.36091	0.01284			76	5							2.378	NA	N	N
+Mitsubishi Motors North America ECLIPSE SPYDER	Minicompact Cars	Car	Semi-Automatic	19	16	24	4000	3.8	260	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Front	0.07256	1.01389	430.02114	0.00471			76	5							3.828	NA	N	N
+Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Manual	23	20	28	3625	2.4	162	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.02295	0.42309	346.76764	0.01087					82	16					2.378	NA	N	N
+Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Semi-Automatic	23	20	28	3750	2.4	162	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.0057	0.05844	225.74037	0.01797					82	16					2.378	NA	N	N
+Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Semi-Automatic	20	17	25	3875	3.8	263	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Front	0.04236	0.73785	419.53907	0.00066					82	16					3.828	NA	N	N
+Mitsubishi Motors North America GALANT	Midsize Cars	Car	Semi-Automatic	24	21	30	3625	2.4	160	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.03013	0.28682	332.14356	0.00696					101	13			N	5W20	2.378	NA	N	N
+Subaru FORESTER AWD	Special Purpose Vehicle, SUV 4WD	Both	Manual	23	21	27	3625	2.5	170	Naturally Aspirated	4	2	2	5	All Wheel Drive	0.0068	0.06	338	0.015					108	34			N	5W30 GF4	2.5	NA	N	Y
+Subaru FORESTER AWD	Special Purpose Vehicle, SUV 4WD	Both	Semi-Automatic	23	21	27	3750	2.5	224	Naturally Aspirated	4	2	2	4	All Wheel Drive	0.0272	0.4986	373.0975	0.0178					108	34			N	5W30 GF4	2.5	NA	N	Y
+Subaru IMPREZA AWD	Compact Cars	Both	Continuously Variable	30	27	36	3375	2	148	Naturally Aspirated	4	2	2	1	All Wheel Drive	0.0105	0.22	261	0.014					96	12			N	5W30 GF4	2	NA	N	Y
+Subaru IMPREZA AWD	Compact Cars	Both	Manual	28	25	34	3375	2	148	Naturally Aspirated	4	2	2	5	All Wheel Drive	0.0014	0.09	198	0.002					96	12			N	5W30 GF4	2	NA	N	Y
+Subaru IMPREZA AWD	Compact Cars	Both	Manual	21	19	25	3750	2.5	305	Turbocharged	4	2	2	5	All Wheel Drive	0.0360452	0.5181203	432.536456	0.019763					96	12			N	5W30 GF4	2.5	TC	N	Y
+Subaru IMPREZA WAGON/OUTBACK SPORT AWD	Small Station Wagons	Both	Continuously Variable	30	27	36	3375	2	148	Naturally Aspirated	4	2	2	1	All Wheel Drive	0.0173	0.27	262	0.021					97	22			N	5W30 GF4	2	NA	N	Y
+Subaru IMPREZA WAGON/OUTBACK SPORT AWD	Small Station Wagons	Both	Manual	28	25	33	3375	2	148	Naturally Aspirated	4	2	2	5	All Wheel Drive	0.0185	0.51	289	0.015					97	22			N	5W30 GF4	2	NA	N	Y
+Subaru TRIBECA AWD	Special Purpose Vehicle, SUV 4WD	Both	Semi-Automatic	18	16	21	4500	3.6	256	Naturally Aspirated	6	2	2	5	All Wheel Drive	0.0467	1.18	442	0.014					99	43			N	5W30 GF4	3.6	NA	N	Y
+Ford Division E350 VAN	Vans, Cargo Types	Truck	Automatic	12	10	14	6000	6.8	305	Naturally Aspirated	10	1	1	5	2-Wheel Drive, Rear													N	5W-20 GF5	6.8	NA	N	N
+Ford Division EDGE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	21	18	25	4750	3.5	305	Naturally Aspirated	6	2	2	6	All Wheel Drive													N	5W-20 GF-5	3.5	NA	N	Y
+Ford Division EDGE FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	24	21	30	4250	2	237	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.01278	0.44548	335.205	0.0405094									N	5W-30 GF-5	2	TC	N	Y
+Ford Division ESCAPE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	23	20	27	3750	2.5	171	Naturally Aspirated	4	2	2	6	All Wheel Drive													N	5W-20, GF-5	2.5	NA	N	Y
+Ford Division EXPLORER FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	23	20	28	4750	2	237	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0105201	0.383357	352.33	0.018644									N	5W-30 GF-5	2	TC	N	Y
+Ford Division EXPLORER FWD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	20	18	25	4750	3.5	287	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.025047	0.64062	398.458	0.0067214									N	5W-20 GF-5	3.5	NA	N	Y
+Lincoln Truck MKX AWD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	17	23	4750	3.7	305	Naturally Aspirated	6	2	2	6	All Wheel Drive													N	5W-20 GF-5	3.7	NA	N	Y
+Ford Division MUSTANG	Subcompact Cars	Car	Automatic	23	19	31	3750	3.7	300	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0529196	0.5176819	374.227886	0.0076257			83	13					N	5W20 GF-4	3.7	NA	N	Y
+Ford Division MUSTANG	Subcompact Cars	Car	Automatic	20	18	25	4000	5	400	Naturally Aspirated	8	2	1	6	2-Wheel Drive, Rear	0.0534647	0.647362	413.497	0.0165874			83	13					N	5W20 635A/ GF5	5	NA	N	Y
+Ford Division MUSTANG	Subcompact Cars	Car	Manual	22	19	29	3750	3.7	300	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0304099	0.443063	374.544	0.004259			83	13					N	5W20 GF-4	3.7	NA	N	Y
+Ford Division MUSTANG	Subcompact Cars	Car	Manual	20	17	26	4000	5	400	Naturally Aspirated	8	2	1	6	2-Wheel Drive, Rear	0.0357148	0.651763	412.805	0.0130859			83	13					N	5W20 635A/ GF5	5	NA	N	Y
+Ford Division MUSTANG	Subcompact Cars	Car	Manual	17	15	23	4000	5.4	550	Supercharged	8	2	2	6	2-Wheel Drive, Rear	0.0457575	0.559581	477.289	0.0341103			83	13					N	5W50 / 590A	5.4	SC	N	N
+Ford Division TAURUS FWD	Large Cars	Car	Automatic	22	18	28	4500	3.5	263	Naturally Aspirated	6	2	2	6	All Wheel Drive									102	20			N	5W-20 GF-5	3.5	NA	N	Y
+Saab 9-4X FWD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	20	18	25	4750	3	265	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.02521	0.24056	392.24	0.00513									N	5W30	3	NA	N	Y
+GMC C15 SIERRA 2WD XFE	Standard Pick-up Trucks 2WD	Truck	Automatic	18	15	22	5250	5.3	315	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.03489	0.54071	449.772	0.01874									N	5W30	5.3	NA	Y	Y
+Chevrolet C15 SILVERADO 2WD XFE	Standard Pick-up Trucks 2WD	Truck	Automatic	18	15	22	5250	5.3	315	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.03489	0.54071	449.772	0.01874									N	5W30	5.3	NA	Y	Y
+Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	17	15	20	5000	4.3	195	Naturally Aspirated	6	1	1	4	2-Wheel Drive, Rear	0.04284	1.01883	486.34	0.01194									N	5W30	4.3	NA	N	N
+Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	16	14	19	5000	4.8	295	Naturally Aspirated	8	1	1	4	2-Wheel Drive, Rear	0.00392	0.28274	335.352	0.00042									N	5W30	4.8	NA	N	Y
+Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.00415	0.06145	280.961	0.00054									N	5W30	5.3	NA	Y	Y
+Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	14	13	18	5500	6.2	403	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.0655586	2.32701	587.521	0.0166627									N	5W30	6.2	NA	N	Y
+Chevrolet C1500 TAHOE 2WD HYBRID	Special Purpose Vehicle, SUV 2WD	Truck	Continuously Variable	21	20	23	6000	6	332	Naturally Aspirated	8	1	1	1	2-Wheel Drive, Rear	0.0159604	0.0174896	395.916	0.0078628		Battery(s)							N	5W30	6	NA	Y	Y
+Chevrolet C1500 TAHOE 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.00415	0.06145	280.961	0.00054									N	5W30	5.3	NA	Y	Y
+Chevrolet C2500 SUBURBAN 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	12	10	16	6500	6	352	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.0848789	1.73506	695.174	0.0251621									N	5W30	6	NA	N	Y
+Chevrolet CAMARO	Compact Cars	Car	Manual	20	17	28	4000	3.6	304	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.02968	0.13092	422.989	0.01158			93	11					N	5W30	3.6	NA	N	Y
+Chevrolet CAMARO	Compact Cars	Car	Manual	19	16	24	4250	6.2	420	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.04987	0.95193	447.074	0.009			93	11					N	5W30	6.2	NA	N	N
+Chevrolet CAMARO	Compact Cars	Car	Semi-Automatic	22	18	29	4000	3.6	304	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.01945	0.12439	379.669	0.00905			93	11					N	5W30	3.6	NA	N	Y
+Chevrolet CAMARO	Compact Cars	Car	Semi-Automatic	18	15	24	4500	6.2	400	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.0493107	1.15571	494.671	0.0068121			93	11					N	5W30	6.2	NA	Y	Y
+Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	21	18	25	3750	2.9	190	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Rear	0.01816	0.42493	383.932	0.00462											2.9	NA	N	Y
+Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	19	17	23	3625	3.7	245	Naturally Aspirated	5	2	2	4	2-Wheel Drive, Rear	0.00921	0.2758	302.376	0.00062									N	5W30	3.7	NA	N	Y
+Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Manual	21	18	25	3875	2.9	190	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Rear	0.0118	0.38364	387.29	0.01255											2.9	NA	N	Y
+Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	20	17	23	4250	2.9	190	Naturally Aspirated	4	2	2	4	4-Wheel Drive	0.01816	0.42493	383.932	0.00462											2.9	NA	N	Y
+Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	19	17	23	3875	3.7	245	Naturally Aspirated	5	2	2	4	4-Wheel Drive	0.01939	0.4751	426.795	0.00231									N	5W30	3.7	NA	N	Y
+Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Manual	20	18	24	4000	2.9	190	Naturally Aspirated	4	2	2	5	4-Wheel Drive	0.0118	0.38364	387.29	0.01255											2.9	NA	N	Y
+Chevrolet COLORADO CREW CAB 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	16	14	20	4250	5.3	300	Naturally Aspirated	8	1	1	4	2-Wheel Drive, Rear	0.05319	1.37064	489.064	0.00318									N	5W30	5.3	NA	N	Y
+Chevrolet COLORADO CREW CAB 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	18	16	21	4500	3.7	245	Naturally Aspirated	5	2	2	4	4-Wheel Drive	0.02813	0.64693	456.314	0.00118									N	5W30	3.7	NA	N	Y
+Chevrolet COLORADO CREW CAB 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	16	14	19	4750	5.3	300	Naturally Aspirated	8	1	1	4	4-Wheel Drive	0.059	1.23	517	0.00657									N	5W30	5.3	NA	N	Y
+Chevrolet CORVETTE	Two Seaters	Car	Manual	19	16	26	3625	6.2	420	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.07473	1.2601	439.324	0.01861									N	5W30	6.2	NA	N	N
+Chevrolet CORVETTE	Two Seaters	Car	Manual	18	15	24	3500	7	505	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.08789	1.38283	479.719	0.02316									N	5W30	7	NA	N	N
+Chevrolet CORVETTE	Two Seaters	Car	Semi-Automatic	18	15	25	3625	6.2	420	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.06867	1.13745	488.007	0.01126									N	5W30	6.2	NA	N	N
+Chevrolet CRUZE ECO	Midsize Cars	Car	Automatic	31	26	39	3375	1.4	140	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0163552	0.133294	266.493	0.015717					94	16			N	10W30	1.4	TC	N	Y
+Chevrolet CRUZE	Midsize Cars	Car	Manual	30	26	38	3250	1.4	138	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0130223	0.138725	243.361	0.0048001					94	16			N	10W30	1.4	TC	N	Y
+Chevrolet CRUZE	Midsize Cars	Car	Manual	29	25	36	3375	1.8	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0186588	0.279803	277.32	0.0099017					94	16			N	10W30	1.8	NA	N	Y
+Chevrolet CRUZE	Midsize Cars	Car	Semi-Automatic	30	26	38	3375	1.4	140	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0163552	0.133294	266.493	0.015717					94	16			N	10W30	1.4	TC	N	Y
+Chevrolet CRUZE	Midsize Cars	Car	Semi-Automatic	27	22	35	3375	1.8	140	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0204081	0.37103	311.466212	0.005905					94	16			N	10W30	1.8	NA	N	Y
+Cadillac CTS AWD	Midsize Cars	Car	Semi-Automatic	21	18	26	4500	3	265	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.02006	0.20863	231.041	0.00394					97	14			N	5W30	3	NA	N	Y
+Cadillac CTS AWD	Midsize Cars	Car	Semi-Automatic	21	18	27	4500	3.6	304	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.03096	0.15397	399.586	0.02015					97	14			N	5W30	3.6	NA	N	Y
+Cadillac CTS WAGON	Small Station Wagons	Car	Semi-Automatic	21	18	26	4750	3.6	304	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.0113047	0.0732077	435.128	0.0040369					97	28			N	5W30	3.6	NA	N	Y
+Cadillac CTS	Midsize Cars	Car	Manual	19	16	26	4250	3	265	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.05104	0.55613	475.168	0.0317					99	15			N	5W30	3	NA	N	Y
+Cadillac CTS	Midsize Cars	Car	Manual	16	14	19	4500	6.2	550	Supercharged	8	1	1	6	2-Wheel Drive, Rear	0.06137	0.74302	509.072	0.03178					99	15			N	5W30	6.2	SC	N	N
+Cadillac CTS	Midsize Cars	Car	Semi-Automatic	22	18	27	4250	3	265	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.02006	0.20863	231.041	0.00394					99	15			N	5W30	3	NA	N	Y
+Cadillac CTS	Midsize Cars	Car	Semi-Automatic	14	12	18	4500	6.2	550	Supercharged	8	1	1	6	2-Wheel Drive, Rear	0.05524	1.0757	602.197	0.01123					99	15			N	5W30	6.2	SC	N	N
+Chevrolet EQUINOX AWD	Special Purpose Vehicle, SUV 4WD	Both	Automatic	23	20	29	4250	2.4	182	Naturally Aspirated	4	2	2	6	All Wheel Drive	0.02486	0.69817	338.502	0.00298									N	5W30	2.4	NA	N	Y
+Chevrolet EQUINOX AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	16	23	4500	3	264	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.0253	0.33554	417.038	0.00695									N	5W30	3	NA	N	Y
+Chevrolet EQUINOX FWD	Special Purpose Vehicle, SUV 2WD	Both	Automatic	26	22	32	4000	2.4	182	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.02121	0.6285	309.317	0.01503									N	5W30	2.4	NA	N	Y
+Cadillac ESCALADE 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	16	14	18	6000	6.2	403	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.00822	0.31623	325.94	0.00444									N	5W30	6.2	NA	Y	Y
+Cadillac ESCALADE 4WD HYBRID	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	21	20	23	6500	6	332	Naturally Aspirated	8	1	1	1	4-Wheel Drive	0.0339692	0.365158	350.466	0.0135889		Battery(s)							N	5W30	6	NA	Y	Y
+Cadillac ESCALADE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	15	13	18	6000	6.2	403	Naturally Aspirated	8	1	1	6	All Wheel Drive	0.00822	0.31623	325.94	0.00444									N	5W30	6.2	NA	Y	Y
+Chevrolet G1500 EXPRESS 2WD CARGO	Vans, Cargo Types	Truck	Automatic	15	13	18	5500	5.3	301	Naturally Aspirated	8	1	1	4	2-Wheel Drive, Rear	0.06005	1.43232	555.153	0.00749									N	5W30	5.3	NA	N	Y
+Chevrolet G2500 EXPRESS 2WD CARGO MDPV	Vans, Cargo Types	Truck	Automatic	12	10	15	7000	6	323	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.06354	1.06791	667.168	0.02195									N	5W30	6	NA	N	Y
+Chevrolet G3500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	Truck	Automatic	13	11	17	6500	4.8	280	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.0840353	1.37525	645.137	0.0350426									N	5W30	4.8	NA	N	Y
+Chevrolet G3500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	Truck	Automatic	12	11	16	6500	6	323	Naturally Aspirated	8	1	1	6	2-Wheel Drive, Rear	0.0430042	2.16998	404.868	0.0234576									N	5W30	6	NA	N	Y
+Chevrolet H1500 EXPRESS AWD CARGO	Vans, Cargo Types	Truck	Automatic	14	13	17	5500	5.3	301	Naturally Aspirated	8	1	1	4	All Wheel Drive	0.00666	0.1914	388.161	0.00468									N	5W30	5.3	NA	N	Y
+Chevrolet IMPALA	Large Cars	Both	Automatic	22	18	30	3875	3.6	280	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.0153155	0.0644535	396.86	0.0065005					105	19			N	5W30	3.6	NA	N	Y
+Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	15	14	18	5250	4.3	195	Naturally Aspirated	6	1	1	4	4-Wheel Drive	0.06576	1.28636	511.255	0.02714									N	5W30	4.3	NA	N	N
+Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	15	13	18	5500	4.8	295	Naturally Aspirated	8	1	1	4	4-Wheel Drive	0.00392	0.28274	335.352	0.00042									N	5W30	4.8	NA	N	Y
+Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	1	1	6	4-Wheel Drive	0.00415	0.06145	280.961	0.00054									N	5W30	5.3	NA	Y	Y
+Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	14	12	18	5500	6.2	403	Naturally Aspirated	8	1	1	6	4-Wheel Drive	0.0655586	2.32701	587.521	0.0166627									N	5W30	6.2	NA	N	Y
+Chevrolet K1500 TAHOE 4WD HYBRID	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	21	20	23	6000	6	332	Naturally Aspirated	8	1	1	1	4-Wheel Drive	0.0159604	0.0174896	395.916	0.0078628		Battery(s)							N	5W30	6	NA	Y	Y
+Chevrolet K1500 TAHOE 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	1	1	6	4-Wheel Drive	0.03145	0.52635	467.011	0.00711									N	5W30	5.3	NA	Y	Y
+GMC K1500 YUKON XL AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	14	13	18	6500	6.2	403	Naturally Aspirated	8	1	1	6	All Wheel Drive	0.0246719	0.761792	574.223	0.0044604									N	5W30	6.2	NA	Y	Y
+GMC K2500 YUKON XL 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	12	10	15	7000	6	352	Naturally Aspirated	8	1	1	6	4-Wheel Drive	0.0907323	2.03689	702.279	0.0280364									N	5W30	6	NA	N	Y
+Buick LACROSSE AWD	Midsize Cars	Both	Semi-Automatic	20	16	26	4500	3.6	280	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.01407	0.1678	396.391	0.0014					100	16			N	5W30	3.6	NA	N	Y
+Buick LACROSSE	Midsize Cars	Car	Semi-Automatic	29	25	36	4000	2.4	182	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0142447	0.788483	283.856	0.0105259		Battery(s)			100	16			N	5W30	2.4	NA	N	Y
+Buick LACROSSE	Midsize Cars	Both	Semi-Automatic	21	17	27	4250	3.6	280	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.01407	0.1678	396.391	0.0014					100	16			N	5W30	3.6	NA	N	Y
+Chevrolet MALIBU	Midsize Cars	Car	Semi-Automatic	26	22	33	3750	2.4	175	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.03189	0.87167	322.67	0.0058					95	16			N	5W30	2.4	NA	N	Y
+Chevrolet MALIBU	Midsize Cars	Car	Semi-Automatic	20	17	26	3875	3.6	250	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.04859	1.14621	404.116	0.00783					95	16			N	5W30	3.6	NA	N	Y
+Buick REGAL	Midsize Cars	Car	Manual	24	20	32	4000	2	270	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0291913	0.354056	376.847	0.0131168					98	13			N	5W30	2	TC	N	Y
+Buick REGAL	Midsize Cars	Car	Semi-Automatic	22	18	29	4000	2	220	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0405147	0.916488	392.239	0.0237192					98	13			N	5W30	2	TC	N	Y
+Buick REGAL	Midsize Cars	Both	Semi-Automatic	29	25	36	4000	2.4	182	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.01518	0.15776	338.398	0.00577		Battery(s)			98	13			N	5W30	2.4	NA	N	Y
+Chevrolet SONIC	Compact Cars	Car	Manual	29	26	35	3000	1.8	138	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.0107258	0.147484	263.58	0.0089257					91	12			N	10W30	1.8	NA	N	Y
+Chevrolet SONIC	Compact Cars	Car	Semi-Automatic	28	25	35	3125	1.8	140	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0169238	0.2449787	282.562262	0.0033621					91	12			N	10W30	1.8	NA	N	Y
+Cadillac SRX 2WD	Special Purpose Vehicle, SUV 2WD	Both	Semi-Automatic	19	17	24	4750	3.6	280	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.02812	0.50005	417.204	0.01349									N	5W30	3.6	NA	N	Y
+GMC TERRAIN FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	20	17	24	4250	3	264	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.0289141	0.442851	437.373	0.0026073									N	5W30	3	NA	N	Y
+Chevrolet TRAVERSE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	16	23	5250	3.6	288	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.00986	0.11171	287.172	0.00994									N	5W30	3.6	NA	N	Y
+Chevrolet VOLT	Compact Cars	Car	Continuously Variable	37	35	40	4000	1.4	85	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.011	1.789	233.936	0.008		Battery(s)					90	18	N	5W30	1.4	NA	N	Y
+Honda CIVIC HF	Compact Cars	Car	Automatic	33	29	41	3000	1.8	140	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.01415	0.058	232.98	0.0156					95	12					1.8	NA	N	Y
+Honda CIVIC HYBRID	Compact Cars	Car	Continuously Variable	44	44	44	3125	1.5	90	Naturally Aspirated	4	1	1	1	2-Wheel Drive, Front	0.0084639	0.1345908	157.075904	0.0094923		Battery(s)			95	11			N	0W-20	1.5	NA	Y	Y
+Honda FIT	Small Station Wagons	Car	Automatic	31	28	35	2875	1.5	117	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.02189	0.393	238.2	0.0068							91	21	N	0W-20	1.5	NA	N	Y
+Honda FIT	Small Station Wagons	Car	Manual	29	27	33	2750	1.5	117	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.00736	0.092	182.18	0.0025							91	21	N	0W-20	1.5	NA	N	Y
+Acura MDX 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	18	16	21	5000	3.7	300	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.02654	0.09	448.9	0.0158									N	5W-20	3.7	NA	N	Y
+Acura TL 2WD	Midsize Cars	Car	Semi-Automatic	23	20	29	4000	3.5	280	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.02027	0.128	353.07	0.0211					98	13					3.5	NA	N	Y
+Acura TL 4WD	Midsize Cars	Car	Manual	20	17	25	4250	3.7	305	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.00307	0.123	258.18	0.0141					98	13			N	0W-20	3.7	NA	N	Y
+Acura TL 4WD	Midsize Cars	Car	Semi-Automatic	21	18	26	4250	3.7	305	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.0107	0.118	385.06	0.0111					98	13			N	0W-20	3.7	NA	N	Y
+Acura TSX	Compact Cars	Car	Manual	24	21	29	3750	2.4	201	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.02154	0.108	334.64	0.0236					95	14					2.4	NA	N	Y
+Acura TSX	Compact Cars	Car	Semi-Automatic	26	22	31	3875	2.4	201	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.01485	0.118	322.49	0.024					95	14					2.4	NA	N	Y
+Acura TSX	Compact Cars	Car	Semi-Automatic	23	19	28	4000	3.5	280	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Front	0.01702	0.104	361.04	0.0327					95	14					3.5	NA	N	Y
+Acura ZDX 4WD	Special Purpose Vehicle, SUV 4WD	Car	Semi-Automatic	19	16	23	4750	3.7	300	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.0204946	0.1091843	431.315296	0.0114487											3.7	NA	N	Y
+HYUNDAI MOTOR COMPANY ACCENT	Compact Cars	Car	Automatic	33	30	40	2875	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0166122	0.1348821	240.089153	0.0195748					90	14	90	21			1.6	NA	N	Y
+HYUNDAI MOTOR COMPANY ACCENT	Compact Cars	Car	Manual	34	30	40	2750	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.013	0.2067	228.14	0.0105					90	14	90	21			1.6	NA	N	Y
+HYUNDAI MOTOR COMPANY ELANTRA TOURING	Small Station Wagons	Car	Automatic	26	23	30	3375	2	138	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.0253898	0.2798949	297.163404	0.0146494					101	28			N	5W20 GF4	2	NA	N	Y
+HYUNDAI MOTOR COMPANY ELANTRA TOURING	Small Station Wagons	Car	Manual	26	23	31	3375	2	138	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.0141	0.1321	303.86	0.0171					101	28			N	5W20 GF4	2	NA	N	Y
+HYUNDAI MOTOR COMPANY ELANTRA	Midsize Cars	Car	Automatic	33	29	40	3000	1.8	148	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0233	0.2051	233.33	0.0204					96	15					1.8	NA	N	Y
+HYUNDAI MOTOR COMPANY ELANTRA	Midsize Cars	Car	Manual	33	29	40	3000	1.8	148	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0185	0.436	231.66	0.0306					96	15					1.8	NA	N	Y
+HYUNDAI MOTOR COMPANY EQUUS	Large Cars	Car	Automatic	18	15	23	4750	5	429	Naturally Aspirated	8	2	2	8	2-Wheel Drive, Rear	0.0169	0.1889	455.2976	0.0147					111	17			N	5W-20 GF4	5	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Automatic	23	20	30	3750	2	210	Turbocharged	4	2	2	5	2-Wheel Drive, Rear	0.0267052	0.3048445	353.383051	0.0294512			89	10					N	5W30 ACEA A5	2	TC	N	Y
+HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Automatic	20	17	27	3750	3.8	306	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.015	0.3029	429.15	0.0071			89	10					N	5W-20 GF4	3.8	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Manual	24	21	30	3750	2	210	Turbocharged	4	2	2	6	2-Wheel Drive, Rear	0.0131	0.1954	340.12	0.017			89	10					N	5W30 ACEA A5	2	TC	N	Y
+HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Manual	20	17	26	3750	3.8	306	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0212	0.3092	408.98	0.0308			89	10					N	5W-20 GF4	3.8	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS R SPEC	Large Cars	Car	Automatic	19	16	25	4500	5	429	Naturally Aspirated	8	2	2	8	2-Wheel Drive, Rear	0.0325	0.1159	523.8	0.0001					109	16					5	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	22	19	29	4250	3.8	333	Naturally Aspirated	6	2	2	8	2-Wheel Drive, Rear	0.0013528	0.0045906	221.593741	0.0090429					109	16					3.8	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	20	17	26	4500	4.6	385	Naturally Aspirated	8	2	2	8	2-Wheel Drive, Rear	0.0117	0.0712	426.94	0.0041					109	16			N	5W20 GF4	4.6	NA	N	Y
+HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	20	17	26	4500	5	429	Naturally Aspirated	8	2	2	8	2-Wheel Drive, Rear	0.0209	0.247	418.6	0.0046					109	16					5	NA	N	Y
+HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Automatic	26	22	34	3750	2	274	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0243	0.2911	314.1978	0.0245					104	16			N	5W-30 ACEA	2	TC	N	Y
+HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Automatic	28	24	35	3500	2.4	190	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0045	0.2544	294.0213	0.005					104	16			N	5W-20 GF4	2.4	NA	N	Y
+HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Manual	28	24	35	3500	2.4	198	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0168	0.1927	295.9736	0.0118					104	16			N	5W-20 GF4	2.4	NA	N	Y
+HYUNDAI MOTOR COMPANY VELOSTER	Compact Cars	Car	Automated Manual	32	29	38	3000	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0083244	0.5711664	251.924992	0.0421808					90	16			N	5W-20 GF4	1.6	NA	N	Y
+HYUNDAI MOTOR COMPANY VELOSTER	Compact Cars	Car	Manual	32	28	40	3000	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0164	0.2539	247.48	0.0164					90	16			N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION FORTE ECO	Midsize Cars	Car	Automatic	30	27	37	3125	2	154	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0008603	0.0529299	178.802051	0.0014494					97	15			N	5W20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Automatic	29	25	34	3125	2	156	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.026	0.3539	272.82	0.0094			90	12					N	5W20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Automatic	26	23	31	3250	2.4	173	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0225	0.2474	305.11	0.0122			90	12					N	5W20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Manual	28	24	33	3125	2	156	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0173	0.2612	284.23	0.0234			90	12					N	5W20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Automatic	29	26	36	3125	2	154	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0033	0.2304	270.86	0.006					97	15	97	20	N	5W20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Automatic	26	23	32	3250	2.4	173	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0253	0.2117	302.01	0.0103					97	15	97	20	N	5W20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Manual	29	25	34	3125	2	156	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0191	0.2371	277.14	0.0228					97	15	97	20	N	5W20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Manual	26	22	32	3250	2.4	173	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0177	0.2957	312.12	0.0127					97	15	97	20	N	5W20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Automatic	26	22	34	3750	2	274	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0217	0.2349	312.0123	0.0157					102	15			N	5W-30 ACEA A5	2	TC	N	Y
+KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Automatic	28	24	35	3750	2.4	166	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0069775	0.1042448	190.193708	0.0036639	0.0018923				102	15			N	5W-20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Manual	28	24	35	3500	2.4	200	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0182	0.2693	294.1756	0.0094					102	15			N	5W-20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION RIO	Compact Cars	Car	Automatic	33	30	40	2875	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0203	0.1291	231.1048	0.0157							90	15	N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION RIO	Compact Cars	Car	Manual	34	30	40	2750	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0152	0.1995	225.7106	0.0103							90	15	N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION RONDO	Midsize Station Wagons	Car	Automatic	22	20	27	3750	2.4	175	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.0251	0.3211	359.31	0.0108							108	32	N	5W20 GF4	2.4	NA	N	Y
+KIA MOTORS CORPORATION RONDO	Midsize Station Wagons	Car	Automatic	21	18	26	4000	2.7	192	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Front	0.0169	0.4702	391.45	0.0147							108	32	N	5W20 GF4	2.7	NA	N	Y
+KIA MOTORS CORPORATION SEDONA	Special Purpose Vehicle, minivan 2WD	Truck	Automatic	21	18	25	4750	3.5	271	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.031	0.5314	391.634	0.0227											3.5	NA	N	Y
+KIA MOTORS CORPORATION SOUL ECO	Small Station Wagons	Car	Automatic	32	29	36	3000	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0271	0.2124	238.01	0.0201					102	24			N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION SOUL ECO	Small Station Wagons	Car	Automatic	30	27	35	3250	2	164	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.003009	0.1144813	179.742828	0.0037632					102	24			N	5W-20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Automatic	30	27	35	3000	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.01	0.455	180.12	0.008					102	24			N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Automatic	29	26	34	3250	2	164	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0052	0.1358	188.57	0.0035					102	24			N	5W-20 GF4	2	NA	N	Y
+KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Manual	30	27	35	3000	1.6	138	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0059	0.1691	179.56	0.0112					102	24			N	5W-20 GF4	1.6	NA	N	Y
+KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Manual	29	26	34	3125	2	164	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0251	0.2948	269.9	0.0182					102	24			N	5W-20 GF4	2	NA	N	Y
+MASERATI Granturismo Convertible	Subcompact Cars	Car	Automatic	15	13	20	4750	4.7	434	Naturally Aspirated	8	2	2	6	2-Wheel Drive, Rear	0.054	0.774	560.258	0.003			85	5					N	SAE 5W/40 API SL/CF	4.7	NA	N	Y
+MASERATI GRANTURISMO	Subcompact Cars	Car	Automatic	15	13	21	4500	4.7	434	Naturally Aspirated	8	2	2	6	2-Wheel Drive, Rear	0.016	0.479	560.136	0.003			86	6					N	SAE 5W/40 API SL/CF	4.7	NA	N	Y
+Mercedes-Benz C 250	Compact Cars	Car	Automatic	25	21	31	3750	1.8	201	Turbocharged	4	2	2	7	2-Wheel Drive, Rear	0.0206094	0.3861263	202.542449	0.0067666					88	12			N	5W30 / 225.10	1.796	TC	N	Y
+Mercedes-Benz C 300 4MATIC	Compact Cars	Both	Automatic	20	17	24	4000	3	228	Naturally Aspirated	6	2	2	7	4-Wheel Drive	0.00333	0.075	400.54	0.0072					88	12			N	5W30 / 225.10	2.996	NA	N	Y
+Mercedes-Benz C 350 (Coupe)	Subcompact Cars	Car	Automatic	22	19	28	4000	3.5	302	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.02012	0.2025	372.76	0.0105			81	12					N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz C 350	Compact Cars	Car	Automatic	23	20	29	4000	3.5	302	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.0095	0.1798	354.76	0.0076					88	12			N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz C 63 AMG	Compact Cars	Car	Automatic	15	13	19	4250	6.2	451	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.01432	0.2018	546.41	0.0068					88	12			N	0W40 / API-SF/CD	6.208	NA	N	Y
+Mercedes-Benz CL 550 4MATIC	Compact Cars	Car	Automatic	18	15	24	5000	4.7	429	Turbocharged	8	2	2	7	4-Wheel Drive	0.01835	0.1931	470.4	0.0246			91	14					N	5W/40	4.664	TC	N	Y
+Mercedes-Benz CL 600	Compact Cars	Car	Automatic	14	12	18	5250	5.5	510	Turbocharged	12	2	1	5	2-Wheel Drive, Rear	0.026004	0.4584817	616.292806	0.0321402			91	14					N	5W30 / 225.10	5.513	TC	N	Y
+Mercedes-Benz CL 63 AMG	Compact Cars	Car	Automatic	18	15	22	5250	5.5	536	Turbocharged	8	2	2	7	2-Wheel Drive, Rear	0.03331	0.4656	299.45	0.0145			91	14					N	5W/40	5.461	TC	N	Y
+Mercedes-Benz CL 65 AMG	Compact Cars	Car	Automatic	14	12	18	5250	6	621	Turbocharged	12	2	1	5	2-Wheel Drive, Rear	0.01593	0.44869	588.7	0.032			91	14					N	5W30 / 225.10	5.98	TC	N	Y
+Mercedes-Benz CLS 550 4MATIC	Compact Cars	Car	Automatic	19	16	25	4750	4.7	402	Turbocharged	8	2	2	7	4-Wheel Drive	0.02074	0.3886	432.75	0.02					92	11			N	5W/40	4.664	TC	N	Y
+Mercedes-Benz CLS 550	Compact Cars	Car	Automatic	20	17	25	4500	4.7	402	Turbocharged	8	2	2	7	2-Wheel Drive, Rear	0.08626	0.32477	535.49	0.00724					92	11			N	5W/40	4.664	TC	N	Y
+Mercedes-Benz CLS 63 AMG	Compact Cars	Car	Automatic	19	16	25	4500	5.5	518	Turbocharged	8	2	2	7	2-Wheel Drive, Rear	0.00959	0.179	488.77	0.00417					92	11			N	5W/40	5.461	TC	N	Y
+Mercedes-Benz E 350 (CONVERTIBLE)	Subcompact Cars	Car	Automatic	22	18	28	4250	3.5	302	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.01271	0.1881	383.52	0.013			80	6					N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz E 350 (coupe)	Subcompact Cars	Car	Automatic	22	19	28	4000	3.5	302	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.01497	0.1588	375.28	0.0117			81	11					N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz G 550	Special Purpose Vehicle, SUV 4WD	Both	Automatic	13	12	15	6000	5.5	382	Naturally Aspirated	8	2	2	7	4-Wheel Drive	0.02398	0.2054	628.88	0.0116									N	5W-30	5.461	NA	N	Y
+Mercedes-Benz GL 450 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	15	13	18	6000	4.7	335	Naturally Aspirated	8	2	2	7	4-Wheel Drive	0.02672	0.3645	566.12	0.0212									N	5W-30	4.664	NA	N	Y
+Mercedes-Benz GL 550 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	14	12	17	6000	5.5	382	Naturally Aspirated	8	2	2	7	4-Wheel Drive	0.01968	0.3172	579.22	0.02181									N	5W-30	5.461	NA	N	Y
+Mercedes-Benz GLK 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	18	16	21	4500	3.5	268	Naturally Aspirated	6	2	2	7	4-Wheel Drive	0.00676	0.0847	455.86	0.00805									N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz GLK 350	Special Purpose Vehicle, SUV 2WD	Both	Automatic	18	16	22	4500	3.5	268	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.1696	0.6845	505.32	0.0251									N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz ML 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	17	22	5000	3.5	302	Naturally Aspirated	6	2	2	7	4-Wheel Drive	0.0135922	0.2177733	419.922221	0.0387029									N	5W30 DC225.10	3.498	NA	N	Y
+Mercedes-Benz ML 350 BLUETEC 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	22	20	27	5500	3	240	Turbocharged	6	2	2	7	4-Wheel Drive	0.02619	0.0961	408.59	0.04003	0.00298								N	0W-30	2.987	TC	N	N
+Mercedes-Benz R 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	16	21	5500	3.5	302	Naturally Aspirated	6	2	2	7	4-Wheel Drive	0.01658	0.3	444.86	0.024									N	5W30 DC225.10	3.498	NA	N	Y
+Mercedes-Benz S 350 BLUETEC 4MATIC	Large Cars	Car	Automatic	25	21	31	5000	3	240	Turbocharged	6	2	2	7	4-Wheel Drive	0.03203	0.0774	383.94	0.0257	0.0013				109	16			N	0W-30	2.987	TC	N	N
+Mercedes-Benz S 550 4MATIC	Large Cars	Car	Automatic	18	15	24	5250	4.7	429	Turbocharged	8	2	2	7	4-Wheel Drive	0.05649	0.6653	600.14	0.02688					109	16			N	5W/40	4.664	TC	N	Y
+Mercedes-Benz S 550	Large Cars	Car	Automatic	19	15	25	5000	4.7	429	Turbocharged	8	2	2	7	2-Wheel Drive, Rear	0.02543	0.2264	454.01	0.0238					109	16			N	5W/40	4.664	TC	N	Y
+Mercedes-Benz S 600	Large Cars	Car	Automatic	14	12	19	5250	5.5	510	Turbocharged	12	2	1	5	2-Wheel Drive, Rear	0.03267	0.5826	605.76	0.03798					109	16			N	5W30 / 225.10	5.513	TC	N	Y
+Mercedes-Benz S 63 AMG	Large Cars	Car	Automatic	18	15	23	5250	5.5	536	Turbocharged	8	2	2	7	2-Wheel Drive, Rear	0.02494	0.2855	467.16	0.0272					109	16			N	5W/40	5.461	TC	N	Y
+Mercedes-Benz S 65 AMG	Large Cars	Car	Automatic	14	12	19	5500	6	621	Turbocharged	12	2	1	5	2-Wheel Drive, Rear	0.01609	0.47202	592.3	0.0018					109	16			N	5W30 / 225.10	5.98	TC	N	Y
+Mercedes-Benz SL 550	Two Seaters	Both	Automatic	17	14	22	4500	5.5	382	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.06144	0.2411	310.36	0.003									N	5W-30	5.461	NA	N	Y
+Mercedes-Benz SL 63 AMG	Two Seaters	Car	Automatic	14	12	19	4750	6.2	518	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.01046	0.14114	608.98	0.01159									N	0W40 / API-SF/CD	6.208	NA	N	Y
+Mercedes-Benz SLK 350	Two Seaters	Car	Automatic	23	20	29	3750	3.5	302	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.0183677	0.0760108	218.622158	0.0037886									N	5W30 / 225.10	3.498	NA	N	Y
+Mercedes-Benz SLS AMG	Two Seaters	Car	Automated Manual	16	14	20	4000	6.2	563	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.01699	0.2856	529.55	0.0156									N	0W40 / API-SF/CD	6.208	NA	N	Y
+Mitsubishi Motors Corporation OUTLANDER 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	22	19	26	4000	3	230	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.03588	0.40087	365.48664	0.00678									N	0W20	2.998	NA	N	N
+Mitsubishi Motors Corporation OUTLANDER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	21	19	25	4250	3	230	Naturally Aspirated	6	2	2	6	4-Wheel Drive	0.0473046	0.5426958	379.614376	0.0090227									N	0W20	2.998	NA	N	N
+Mitsubishi Motors Corporation OUTLANDER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Selectable Continuously Variable (e.g. CVT with paddles)	24	22	27	4000	2.4	168	Naturally Aspirated	4	2	2	6	4-Wheel Drive	0.02901	0.44004	320.3937	0.01387									N	0W20	2.359	NA	N	Y
+Porsche Cayenne S	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	16	22	5000	4.8	400	Naturally Aspirated	8	2	2	8	All Wheel Drive	0.02535	0.53407	456.4596	0.0149	0.00131								N	0W40	4.8	NA	N	Y
+Porsche Cayenne Turbo	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	17	15	22	5250	4.8	500	Turbocharged	8	2	2	8	All Wheel Drive	0.01892	0.23811	486.11613	0.01436	0.00214								N	0W40	4.8	TC	N	Y
+Porsche Cayenne	Special Purpose Vehicle, SUV 4WD	Truck	Manual	17	15	22	5000	3.6	300	Naturally Aspirated	6	2	2	6	All Wheel Drive	0.02109	0.29196	479.96155	0.01972	0								N	0W40	3.6	NA	N	Y
+Porsche Cayenne	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5000	3.6	300	Naturally Aspirated	6	2	2	8	All Wheel Drive	0.0225267	0.2130712	440.892674	0.0119883									N	0W40	3.6	NA	N	Y
+Porsche Cayman S	Two Seaters	Car	Automatic	23	20	29	3500	3.4	320	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.03797	0.1438	358.5128	0.0134									N	0W40	3.4	NA	N	Y
+Porsche Cayman S	Two Seaters	Car	Manual	22	19	26	3500	3.4	320	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.03684	0.1438	373.9125	0.0135									N	0W40	3.4	NA	N	Y
+Porsche Cayman	Two Seaters	Car	Automatic	24	20	29	3500	2.9	265	Naturally Aspirated	6	2	2	7	2-Wheel Drive, Rear	0.02584	0.1989	347.3957	0.04203									N	0W40	2.9	NA	N	Y
+Porsche Cayman	Two Seaters	Car	Manual	22	19	27	3375	2.9	265	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.04171	0.3949	377.22304	0.04019									N	0W40	2.9	NA	N	Y
+Porsche Panamera 4S	Large Cars	Car	Automatic	19	16	24	4500	4.8	400	Naturally Aspirated	8	2	2	7	2-Wheel Drive, Rear	0.0318	0.1418	437.9727	0.0205					98	25			N	0W40	4.8	NA	N	Y
+Porsche Panamera S Hybrid	Large Cars	Car	Automatic	25	22	30	4750	3	333	Supercharged	6	2	2	8	2-Wheel Drive, Rear	0.0148	0.15165	292.07	0.02728	0.0038	Battery(s)			98	25			N	0W40	3	SC	N	Y
+Porsche Panamera Turbo	Large Cars	Car	Automatic	18	15	23	4750	4.8	500	Turbocharged	8	2	2	7	All Wheel Drive	0.0209	0.342	478.3673	0.0202	0.004				98	25			N	0W40	4.8	TC	N	Y
+Porsche Panamera	Large Cars	Car	Automatic	21	18	27	4500	3.6	300	Naturally Aspirated	6	2	2	7	4-Wheel Drive	0.02131	0.174	400.01134	0.02126	0.00195				98	25			N	0W40	3.6	NA	N	Y
+Rolls-Royce Motor Cars Limited Phantom	Large Cars	Car	Semi-Automatic	14	11	18	6000	6.7	453	Naturally Aspirated	12	2	2	6	2-Wheel Drive, Rear	0.05607	0.7675	618.13	0.0078					113	14			N	0W30	6.7	NA	N	Y
+Saab 9-3 SEDAN AWD	Compact Cars	Car	Manual	24	20	30	3875	2	220	Turbocharged	4	2	2	6	All Wheel Drive	0.01735	0.27931	342.699	0.02282					90	15			N	5W30	2	TC	N	Y
+Saab 9-3 SEDAN AWD	Compact Cars	Car	Semi-Automatic	22	18	29	4000	2	220	Turbocharged	4	2	2	6	All Wheel Drive	0.0405147	0.916488	392.239	0.0237192					90	15			N	5W30	2	TC	N	Y
+Saab 9-3 SPORT SEDAN	Compact Cars	Car	Manual	25	20	33	3625	2	220	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.063	1.032	340.147	0.032					90	15			N	5W30	2	TC	N	Y
+Saab 9-3 SPORT SEDAN	Compact Cars	Car	Semi-Automatic	23	19	29	3750	2	220	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.025583	0.376023	363.014	0.009829					90	15			N	5W30	2	TC	N	Y
+Saab 9-5 SEDAN AWD	Midsize Cars	Car	Semi-Automatic	20	17	27	4500	2.8	300	Turbocharged	6	2	2	6	All Wheel Drive	0.05341	0.30157	417.538	0.02472					99	18			N	5W30	2.8	TC	N	Y
+Saab 9-5 SEDAN	Midsize Cars	Car	Manual	25	20	33	4000	2	220	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0757	0.486	319.258	0.031					99	18			N	5W30	2	TC	N	Y
+Saab 9-5 SEDAN	Midsize Cars	Car	Semi-Automatic	22	18	28	4250	2	220	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0405147	0.916488	392.239	0.0237192					99	18			N	5W30	2	TC	N	Y
+Suzuki GRAND VITARA 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	20	19	23	3875	2.4	166	Naturally Aspirated	4	2	2	4	4-Wheel Drive	0.0065721	0.0469141	424.3441	0.0133659									N	SAE 5W-30 / SL	2.393	NA	N	Y
+Suzuki GRAND VITARA	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	21	19	25	3750	2.4	166	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Rear	0.0191175	0.1258484	365.6643	0.0174484									N	SAE 5W-30 / SL	2.393	NA	N	Y
+Suzuki GRAND VITARA	Special Purpose Vehicle, SUV 2WD	Truck	Manual	22	19	26	3750	2.4	166	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Rear	0.0215326	0.2588069	365.2503	0.0214083									N	SAE 5W-30 / SL	2.393	NA	N	Y
+Suzuki KIZASHI AWD	Compact Cars	Car	Continuously Variable	25	22	29	3750	2.4	185	Naturally Aspirated	4	2	2	1	All Wheel Drive	0.0459983	0.3341165	314.8266	0.0123312					92	13			N	SAE 5W-30 / SL	2.393	NA	N	Y
+MAZDA MAZDA2	Compact Cars	Car	Automatic	30	28	34	2625	1.5	100	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front	0.021	0.34	243	0.016							87	13	N	GF-4 0W-20	1.5	NA	N	Y
+MAZDA MAZDA2	Compact Cars	Car	Manual	32	29	35	2625	1.5	100	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.00691	0.027	179.51	0.0056							87	13	N	GF-4 0W-20	1.5	NA	N	Y
+MAZDA MAZDA3	Compact Cars	Car	Manual	28	25	33	3125	2	148	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.020734	0.5261	269	0.00975					94	12	95	17	N	GF-4 0W-20	2	NA	N	Y
+MAZDA MAZDA3	Compact Cars	Car	Manual	23	20	28	3375	2.5	165	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.008492	0.652	344	0.0072					94	12	95	17	N	GF-4 0W-20	2.5	NA	N	Y
+MAZDA MAZDA3	Compact Cars	Car	Semi-Automatic	27	24	33	3250	2	148	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.018512	0.1722	289	0.00569					94	12	95	17	N	GF-4 0W-20	2	NA	N	Y
+MAZDA MAZDA6	Midsize Cars	Car	Manual	24	21	30	3625	2.5	170	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.01301	0.2	331.19	0.0157					102	17					2.5	NA	N	Y
+MAZDA MAZDA6	Midsize Cars	Car	Semi-Automatic	25	22	31	3625	2.5	168	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.00306	0.176	316.72	0.0104					102	17					2.5	NA	N	Y
+MAZDA MAZDASPEED3	Midsize Cars	Car	Manual	21	18	25	3625	2.3	263	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.018805	0.4382	388	0.02319							95	17	N	GF-4 5W-30	2.3	TC	N	Y
+MAZDA MX-5	Two Seaters	Car	Manual	25	22	28	2750	2	167	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Rear	0.022134	0.5588	306	0.01504									N	GF-4 0W-20	2	NA	N	Y
+LEXUS CT 200h	Compact Cars	Car	Continuously Variable	42	43	40	3500	1.8	98	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.0000933	0.0496514	153.69495	0.0018256		Battery(s)					86	14	N	0W-20	1.798	NA	N	Y
+TOYOTA FJ CRUISER 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	19	17	20	4500	4	260	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Rear	0.0043447	0.0686513	292.952708	0.0033139									N	0W-20	3.956	NA	N	Y
+TOYOTA FJ CRUISER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	17	20	4750	4	260	Naturally Aspirated	6	2	2	5	Part-time 4-Wheel Drive	0.0047079	0.099448	303.888043	0.0033921									N	0W-20	3.956	NA	N	Y
+TOYOTA FJ CRUISER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Manual	16	15	18	4750	4	260	Naturally Aspirated	6	2	2	6	4-Wheel Drive	0.0154187	2.2694264	516.268008	0.0061976									N	0W-20	3.956	NA	N	Y
+LEXUS GX 460	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	17	15	20	5500	4.6	301	Naturally Aspirated	8	2	2	6	4-Wheel Drive	0.0161274	0.14736	469.541342	0.0188077									N	0W-20	4.608	NA	N	Y
+TOYOTA HIGHLANDER HYBRID 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	28	28	28	5250	3.5	231	Naturally Aspirated	6	2	2	1	All Wheel Drive	0.0001287	0.0538821	233.175703	0.0018369		Battery(s)							N	0W-20	3.456	NA	N	Y
+SCION iQ	Minicompact Cars	Car	Continuously Variable	37	36	37	2375	1.3	94	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.2146811	0.8640599	229.216147	0.015274							74	4	N	OW-20	1.329	NA	N	Y
+LEXUS IS 250/IS 250C	Subcompact Cars	Car	Manual	22	19	28	4250	2.5	204	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0173059	0.0841182	391.467969	0.0188441			77	11	88	11			N	0W-20	2.5	NA	N	Y
+TOYOTA PRIUS v	Midsize Station Wagons	Car	Continuously Variable	42	44	40	3625	1.8	98	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.0036531	0.0923235	148.319973	0.000763		Battery(s)					97	34	N	0W-20	1.798	NA	N	Y
+TOYOTA PRIUS	Midsize Cars	Car	Continuously Variable	50	51	48	3375	1.8	98	Naturally Aspirated	4	2	2	1	2-Wheel Drive, Front	0.0039849	0.0358224	130.810064	0.0031105		Battery(s)					94	22	N	0W-20	1.798	NA	N	Y
+TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	21	19	24	4000	2.7	159	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Rear	0.0063338	0.2483116	388.976804	0.0050112									N	0W-20	2.694	NA	N	Y
+TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	19	17	21	4500	4	236	Naturally Aspirated	6	2	2	5	2-Wheel Drive, Rear	0.0198745	0.370548	428.300632	0.0144668									N	5W-30	3.956	NA	N	Y
+TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Manual	22	21	25	3875	2.7	159	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Rear	0.0024452	0.141913	384.408668	0.0043754									N	0W-20	2.694	NA	N	Y
+TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Manual	18	16	21	4250	4	236	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Rear	0.0231128	0.6446891	435.564014	0.0102454									N	5W-30	3.956	NA	N	Y
+TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	19	18	21	4250	2.7	159	Naturally Aspirated	4	2	2	4	Part-time 4-Wheel Drive	0.0055193	0.7112204	443.972934	0.0031709									N	0W-20	2.694	NA	N	Y
+TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	18	16	21	4500	4	236	Naturally Aspirated	6	2	2	5	Part-time 4-Wheel Drive	0.0316341	0.4317779	309.466781	0.00585									N	5W-30	3.956	NA	N	Y
+TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Manual	19	18	20	4250	2.7	159	Naturally Aspirated	4	2	2	5	Part-time 4-Wheel Drive	0.0023149	0.0282382	289.572888	0.002141									N	0W-20	2.694	NA	N	Y
+TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Manual	17	15	19	4500	4	236	Naturally Aspirated	6	2	2	6	Part-time 4-Wheel Drive	0.0057433	0.0765241	341.751656	0.004399									N	5W-30	3.956	NA	N	Y
+SCION tC	Compact Cars	Car	Manual	26	23	31	3375	2.5	180	Naturally Aspirated	4	2	2	6	2-Wheel Drive, Front	0.0200474	0.1766325	306.077641	0.0142818							90	15	N	0W-20	2.494	NA	N	Y
+TOYOTA YARIS	Compact Cars	Car	Automatic	32	30	35	2625	1.5	106	Naturally Aspirated	4	2	2	4	2-Wheel Drive, Front									87	13	85	15	N	5W-30	1.497	NA	N	Y
+TOYOTA YARIS	Compact Cars	Car	Manual	33	30	38	2625	1.5	106	Naturally Aspirated	4	2	2	5	2-Wheel Drive, Front	0.0193582	0.1997892	224.937349	0.0141279					87	13	85	15	N	5W-30	1.497	NA	N	Y
+Audi A8L	Large Cars	Car	Semi-Automatic	16	14	21	5000	6.3	500	Naturally Aspirated	12	2	2	8	All Wheel Drive	0.0008	0.28	313	0.005					109	13					6.299	NA	N	Y
+Volkswagen BEETLE	Subcompact Cars	Car	Semi-Automatic	25	22	29	3375	2.5	170	Naturally Aspirated	5	2	2	6	2-Wheel Drive, Front	0.0444	0.57	322	0.0218							85	12	N	10W40 / VW50200	2.48	NA	N	Y
+Volkswagen EOS	Subcompact Cars	Car	Semi-Automatic	25	22	30	3500	2	200	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0083	0.25	302	0.007	0.002		77	11							1.984	TC	N	Y
+Volkswagen GOLF	Compact Cars	Car	Manual	34	30	42	3500	2	140	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0863	0.184	262	0.0078	0.003						94	15	N	5W40	1.968	TC	N	N
+Volkswagen Jetta	Compact Cars	Car	Manual	28	24	34	3625	2	140	Naturally Aspirated	4	1	1	5	2-Wheel Drive, Front	0.13	0.6	262	0.004	0.003				94	16			N	5W40	1.968	NA	N	N
+Volkswagen Jetta	Compact Cars	Car	Manual	26	23	33	3500	2.5	170	Naturally Aspirated	5	2	2	5	2-Wheel Drive, Front	0.0012	0.18	207	0.0017					94	16			N	10W40 / VW50200	2.48	NA	N	Y
+Volkswagen Jetta	Compact Cars	Car	Semi-Automatic	27	24	32	3250	2	115	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.2057	2.22	357	0.0485					94	16			N	5W40 / VW50200	1.984	TC	N	Y
+Volkswagen Passat	Midsize Cars	Car	Manual	35	31	43	3750	2	140	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0192	0	292	0.017	0.001				102	16			N	5W40	1.968	TC	N	N
+Volkswagen Passat	Midsize Cars	Car	Semi-Automatic	34	30	40	3750	2	140	Turbocharged	4	2	2	6	2-Wheel Drive, Front	0.0079	0	299	0.007	0.001				102	16			N	5W40	1.968	TC	N	N
+Volkswagen Passat	Midsize Cars	Car	Semi-Automatic	23	20	28	3750	3.6	280	Naturally Aspirated	6	2	2	6	2-Wheel Drive, Front	0.0058	0	386	0.011					102	16			N	5W40 VW 50200	3.596	NA	N	Y

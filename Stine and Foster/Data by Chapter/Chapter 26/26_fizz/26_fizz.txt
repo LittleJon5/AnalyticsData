@@ -1,0 +1,17 @@
+Brand	Type	Height (in)	Group	D(Coke)	D(Diet)
+Coke	Diet	70	Diet Coke	1	1
+Coke	Diet	90	Diet Coke	1	1
+Coke	Diet	77	Diet Coke	1	1
+Coke	Diet	83	Diet Coke	1	1
+Coke	Regular	40	Regular Coke	1	0
+Coke	Regular	48	Regular Coke	1	0
+Coke	Regular	35	Regular Coke	1	0
+Coke	Regular	40	Regular Coke	1	0
+Pepsi	Diet	80	Diet Pepsi	0	1
+Pepsi	Diet	65	Diet Pepsi	0	1
+Pepsi	Diet	95	Diet Pepsi	0	1
+Pepsi	Diet	80	Diet Pepsi	0	1
+Pepsi	Regular	50	Regular Pepsi	0	0
+Pepsi	Regular	47	Regular Pepsi	0	0
+Pepsi	Regular	26	Regular Pepsi	0	0
+Pepsi	Regular	40	Regular Pepsi	0	0

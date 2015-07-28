@@ -1,0 +1,241 @@
+Improvement	Therapy
+0	Exercise
+1	Exercise
+0	Exercise
+14	Exercise
+-4	Exercise
+0	Exercise
+19	Exercise
+6	Exercise
+0	Exercise
+0	Exercise
+-4	Exercise
+6	Exercise
+4	Exercise
+-4	Exercise
+7	Exercise
+-1	Exercise
+3	Exercise
+1	Exercise
+-7	Exercise
+0	Exercise
+10	Exercise
+1	Exercise
+10	Exercise
+10	Exercise
+-6	Exercise
+9	Exercise
+6	Exercise
+10	Exercise
+2	Exercise
+6	Exercise
+10	Exercise
+0	Exercise
+1	Exercise
+16	Exercise
+10	Exercise
+8	Exercise
+7	Exercise
+5	Exercise
+-4	Exercise
+5	Exercise
+4	Exercise
+7	Exercise
+3	Exercise
+19	Exercise
+2	Exercise
+9	Exercise
+14	Exercise
+11	Exercise
+4	Exercise
+-1	Exercise
+1	Exercise
+2	Exercise
+3	Exercise
+13	Exercise
+-3	Exercise
+1	Exercise
+6	Exercise
+-4	Exercise
+12	Exercise
+4	Exercise
+1	Exercise
+9	Exercise
+-5	Exercise
+-3	Exercise
+9	Exercise
+9	Exercise
+5	Exercise
+7	Exercise
+11	Exercise
+7	Exercise
+0	Exercise
+10	Exercise
+-2	Exercise
+9	Exercise
+-1	Exercise
+-11	Exercise
+0	Exercise
+-2	Exercise
+3	Exercise
+7	Exercise
+5	Motor Control
+6	Motor Control
+5	Motor Control
+9	Motor Control
+1	Motor Control
+5	Motor Control
+20	Motor Control
+12	Motor Control
+2	Motor Control
+4	Motor Control
+5	Motor Control
+1	Motor Control
+-4	Motor Control
+4	Motor Control
+15	Motor Control
+-1	Motor Control
+17	Motor Control
+6	Motor Control
+10	Motor Control
+-8	Motor Control
+6	Motor Control
+21	Motor Control
+12	Motor Control
+7	Motor Control
+16	Motor Control
+4	Motor Control
+1	Motor Control
+14	Motor Control
+3	Motor Control
+6	Motor Control
+7	Motor Control
+0	Motor Control
+6	Motor Control
+12	Motor Control
+2	Motor Control
+14	Motor Control
+7	Motor Control
+8	Motor Control
+2	Motor Control
+12	Motor Control
+8	Motor Control
+9	Motor Control
+7	Motor Control
+13	Motor Control
+0	Motor Control
+5	Motor Control
+-1	Motor Control
+15	Motor Control
+2	Motor Control
+8	Motor Control
+5	Motor Control
+-5	Motor Control
+12	Motor Control
+7	Motor Control
+-1	Motor Control
+12	Motor Control
+19	Motor Control
+5	Motor Control
+4	Motor Control
+-1	Motor Control
+8	Motor Control
+6	Motor Control
+21	Motor Control
+-1	Motor Control
+13	Motor Control
+6	Motor Control
+6	Motor Control
+4	Motor Control
+8	Motor Control
+2	Motor Control
+16	Motor Control
+1	Motor Control
+11	Motor Control
+8	Motor Control
+6	Motor Control
+14	Motor Control
+14	Motor Control
+5	Motor Control
+5	Motor Control
+1	Motor Control
+11	Manipulation
+11	Manipulation
+14	Manipulation
+7	Manipulation
+15	Manipulation
+11	Manipulation
+-1	Manipulation
+5	Manipulation
+2	Manipulation
+5	Manipulation
+14	Manipulation
+-2	Manipulation
+-3	Manipulation
+-6	Manipulation
+10	Manipulation
+5	Manipulation
+1	Manipulation
+9	Manipulation
+4	Manipulation
+7	Manipulation
+8	Manipulation
+12	Manipulation
+1	Manipulation
+2	Manipulation
+15	Manipulation
+6	Manipulation
+6	Manipulation
+9	Manipulation
+14	Manipulation
+18	Manipulation
+0	Manipulation
+2	Manipulation
+-3	Manipulation
+20	Manipulation
+5	Manipulation
+13	Manipulation
+12	Manipulation
+-9	Manipulation
+1	Manipulation
+17	Manipulation
+4	Manipulation
+3	Manipulation
+6	Manipulation
+-2	Manipulation
+0	Manipulation
+13	Manipulation
+1	Manipulation
+4	Manipulation
+-2	Manipulation
+8	Manipulation
+7	Manipulation
+18	Manipulation
+0	Manipulation
+-1	Manipulation
+5	Manipulation
+6	Manipulation
+3	Manipulation
+2	Manipulation
+2	Manipulation
+11	Manipulation
+8	Manipulation
+8	Manipulation
+6	Manipulation
+1	Manipulation
+16	Manipulation
+11	Manipulation
+11	Manipulation
+6	Manipulation
+9	Manipulation
+6	Manipulation
+13	Manipulation
+4	Manipulation
+10	Manipulation
+10	Manipulation
+5	Manipulation
+19	Manipulation
+4	Manipulation
+5	Manipulation
+1	Manipulation
+5	Manipulation

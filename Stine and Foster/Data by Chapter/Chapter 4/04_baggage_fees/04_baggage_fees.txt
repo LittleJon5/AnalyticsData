@@ -1,0 +1,21 @@
+Airline	Fees
+Delta	952250
+American	580663
+US Airways	513623
+Continental	341585
+United	313207
+AirTran	152148
+Alaska	108997
+Spirit	81503
+Frontier	62115
+JetBlue	57019
+Allegiant	55325
+Hawaiian	54008
+Virgin America	36075
+Southwest	29787
+Republic	18082
+Horizon	17893
+Sun Country	12211
+Mesa	3245
+Continental Micronesia	2980
+USA 3000	2755

@@ -1,0 +1,121 @@
+Change in Daily Sales	Region	Price Partition	Combined Factors	D(West)	D(Midwest)	D(South)	D(Northeast)	D(Sm Parts)	D(Sm Labor)	D(Total)
+$346 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$419 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$218 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$475 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$253 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$269 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$413 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$375 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$414 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$481 	Midwest	Small Labor	Midwest-Small labor	0	1	0	0	0	1	0
+$675 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$467 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$563 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$836 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$601 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$856 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$599 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$514 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$798 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$559 	Midwest	Small Parts	Midwest-Small Parts	0	1	0	0	1	0	0
+$450 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$208 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$334 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$310 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$205 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$227 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$151 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$465 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$152 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$409 	Midwest	Total	Midwest-Total	0	1	0	0	0	0	1
+$729 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$356 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$398 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$705 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$626 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$62 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$186 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$291 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$370 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$199 	Northeast	Small Labor	Northeast-Small labor	0	0	0	1	0	1	0
+$133 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$203 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$472 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$51 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$24 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+($127)	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+($31)	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$168 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$184 	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+($14)	Northeast	Small Parts	Northeast-Small Parts	0	0	0	1	1	0	0
+$247 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$398 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+($86)	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$193 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$148 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$244 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$173 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$390 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$161 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$532 	Northeast	Total	Northeast-Total	0	0	0	1	0	0	1
+$717 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$568 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$487 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$874 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$609 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$948 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$491 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$898 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$743 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$321 	South	Small Labor	South-Small labor	0	0	1	0	0	1	0
+$450 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$107 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+($184)	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$46 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$24 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+($80)	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$287 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+($1)	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$226 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$248 	South	Small Parts	South-Small Parts	0	0	1	0	1	0	0
+$392 	South	Total	South-Total	0	0	1	0	0	0	1
+($53)	South	Total	South-Total	0	0	1	0	0	0	1
+$432 	South	Total	South-Total	0	0	1	0	0	0	1
+($10)	South	Total	South-Total	0	0	1	0	0	0	1
+$557 	South	Total	South-Total	0	0	1	0	0	0	1
+$124 	South	Total	South-Total	0	0	1	0	0	0	1
+$110 	South	Total	South-Total	0	0	1	0	0	0	1
+$287 	South	Total	South-Total	0	0	1	0	0	0	1
+$688 	South	Total	South-Total	0	0	1	0	0	0	1
+$439 	South	Total	South-Total	0	0	1	0	0	0	1
+$248 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$103 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$86 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$310 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$79 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$110 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$496 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$83 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$271 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$233 	West	Small Labor	West-Small labor	1	0	0	0	0	1	0
+$61 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$467 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$378 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$258 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$248 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$375 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$519 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$594 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$361 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$101 	West	Small Parts	West-Small Parts	1	0	0	0	1	0	0
+$634 	West	Total	West-Total	1	0	0	0	0	0	1
+$83 	West	Total	West-Total	1	0	0	0	0	0	1
+$637 	West	Total	West-Total	1	0	0	0	0	0	1
+$247 	West	Total	West-Total	1	0	0	0	0	0	1
+$272 	West	Total	West-Total	1	0	0	0	0	0	1
+$124 	West	Total	West-Total	1	0	0	0	0	0	1
+$557 	West	Total	West-Total	1	0	0	0	0	0	1
+$54 	West	Total	West-Total	1	0	0	0	0	0	1
+$138 	West	Total	West-Total	1	0	0	0	0	0	1
+$342 	West	Total	West-Total	1	0	0	0	0	0	1

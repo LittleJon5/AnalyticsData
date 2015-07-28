@@ -1,0 +1,194 @@
+﻿New Table( "01_used_bmw",
+	Add Rows( 34 ),
+	New Table Variable( "Notes",
+		"Data gather from on-line sources, mostly certified BMWs offered by dealers in March, 2011."
+	),
+	New Script(
+		"Source",
+		Data Table( "01_used_bmw_2011.jmp" ) <<
+		Subset(
+			Selected Rows( 0 ),
+			Rows(
+				[3, 6, 35, 36, 44, 64, 65, 94, 100, 103, 130, 142, 143, 145, 146,
+				147, 148, 149, 169, 181, 182, 199, 200, 201, 202, 203, 204, 220, 232,
+				233, 295, 296, 299]
+			)
+		)
+	),
+	New Script(
+		"Bivariate 2",
+		Bivariate(
+			Y( :Price ),
+			X( :Mileage ),
+			Where( :Model Year == 2007 ),
+			SendToReport(
+				Dispatch(
+					{},
+					"1",
+					ScaleBox,
+					{Min( 13809.5479300308 ), Max( 57746.4928167484 ), Inc( 10000 ),
+					Minor Ticks( 0 )}
+				),
+				Dispatch(
+					{},
+					"2",
+					ScaleBox,
+					{Min( 19099.0034237102 ), Max( 31442.3370957453 ), Inc( 2000 ),
+					Minor Ticks( 0 )}
+				)
+			)
+		)
+	),
+	New Script(
+		"Bivariate",
+		Bivariate(
+			Y( :Price ),
+			X( :Age ),
+			Fit Line( {Line Color( {208, 64, 86} )} ),
+			SendToReport(
+				Dispatch(
+					{},
+					"1",
+					ScaleBox,
+					{Min( -0.25 ), Max( 4.25 ), Inc( 1 ), Minor Ticks( 1 ),
+					Rotated Labels( "Horizontal" )}
+				),
+				Dispatch( {}, "Bivar Plot", FrameBox, {Frame Size( 260, 195 )} ),
+				Dispatch( {}, "Age", TextEditBox, {Set Text( "Age (years)" )} )
+			)
+		)
+	),
+	New Column( "Price",
+		Numeric,
+		Continuous,
+		Format( Currency( "USD" ), 12, 0 ),
+		Set Values(
+			[30989, 29989, 23987, 29995, 27995, 26995, 27995, 20399, 20990, 20995,
+			23958, 24461, 25979, 23769, 25495, 23779, 24658, 25286, 26677, 25991,
+			26992, 22988, 29998, 24998, 23998, 21998, 28998, 25884, 21468, 27995,
+			26980, 24620, 23980, .]
+		)
+	),
+	New Column( "Mileage",
+		Numeric,
+		Continuous,
+		Format( "Best", 12 ),
+		Set Values(
+			[15715, 23682, 49892, 31275, 23965, 40508, 37994, 55532, 43585, 42000,
+			48683, 41327, 35619, 52689, 29777, 38106, 52253, 44856, 39760, 42738,
+			29231, 46078, 24609, 29708, 30302, 35664, 39989, 36617, 54388, 32232,
+			50153, 36356, 45018, 47500]
+		)
+	),
+	New Column( "Designation",
+		Character( 3 ),
+		Nominal,
+		Set Values(
+			{"328", "328", "328", "328", "328", "328", "328", "328", "328", "328",
+			"328", "328", "328", "328", "328", "328", "328", "328", "328", "328",
+			"328", "328", "328", "328", "328", "328", "328", "328", "328", "328",
+			"328", "328", "328", ""}
+		)
+	),
+	New Column( "Type",
+		Character( 2 ),
+		Nominal,
+		Set Values(
+			{"xi", "xi", "i", "i", "xi", "xi", "xi", "xi", "xi", "i", "i", "xi",
+			"xi", "xi", "xi", "xi", "xi", "xi", "i", "i", "i", "xi", "xi", "i", "i",
+			"i", "xi", "xi", "xi", "i", "ci", "i", "i", ""}
+		)
+	),
+	New Column( "Location",
+		Character,
+		Nominal,
+		Set Selected,
+		Set Values(
+			{"Doylestown, PA", "Doylestown, PA", "Chicago", "Chicago", "Chicago",
+			"Devon,PA", "Devon,PA", "Feasterville", "Feasterville", "Philadelphia",
+			"West Springfield, MA", "West Springfield, MA", "West Springfield, MA",
+			"West Springfield, MA", "West Springfield, MA", "West Springfield, MA",
+			"West Springfield, MA", "West Springfield, MA", "Chapel Hill",
+			"Santa Clara, CA", "Santa Clara, CA", "Chicago", "Chicago", "Chicago",
+			"Chicago", "Chicago", "Chicago", "Philadelphia", "Philadelphia",
+			"Philadelphia", "Rogersville, AR", "Waynesville, MO", "Rogersville, AR",
+			""}
+		)
+	),
+	New Column( "Model Year",
+		Numeric,
+		Ordinal,
+		Format( "Best", 12 ),
+		Set Selected,
+		Set Values(
+			[2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007,
+			2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007,
+			2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, 2007, .]
+		)
+	),
+	New Column( "Include",
+		Character( 7 ),
+		Nominal,
+		Formula(
+			If( :Model Year > 2005 & :Designation == "328",
+				"Include",
+				"Out"
+			)
+		),
+		Set Selected,
+		Suppress Eval
+	),
+	New Column( "Predicted Price Where",
+		Numeric,
+		Continuous,
+		Format( "Best", 12 ),
+		Set Property( "Notes", "Bivariate Save Predicteds Linear Fit" ),
+		Formula(
+			If( :Model Year == 2007,
+				32937.5015477685 + -0.190490110700434 * :Mileage,
+				.
+			)
+		),
+		Suppress Eval
+	),
+	New Column( "Age",
+		Numeric,
+		Continuous,
+		Format( "Best", 12 ),
+		Formula( 2011 - :Model Year ),
+		Suppress Eval
+	),
+	New Column( "Predicted Price",
+		Numeric,
+		Continuous,
+		Format( "Best", 12 ),
+		Set Property( "Notes", "Bivariate Save Predicteds Linear Fit" ),
+		Formula( 32922.0114985516 + -0.191476363333469 * :Mileage ),
+		Set Property(
+			"Predicting",
+			{"Price", Creator( "Bivariate" ), Model Name( "Linear Fit" )}
+		)
+	),
+	Set Row States(
+		[192, 192, 192, 192, 192, 192, 192, 192, 192, 192, 192, 192, 192, 192, 192,
+		192, 192, 192, 192, 192, 193, 193, 193, 193, 192, 192, 192, 192, 192, 192,
+		192, 192, 192, 0]
+	)
+);
+Graph Builder(
+	Variables( X( :Mileage ), Y( :Price ) ),
+	Elements(
+		Line Of Fit(
+			X,
+			Y,
+			Legend( 11 ),
+			Confidence of Fit( 1 ),
+			Confidence of Prediction( 1 ),
+			Degree( "Linear" ),
+			Equation( 0 ),
+			Root Mean Square Error( 0 ),
+			R²( 1 )
+		),
+		Points( X, Y, Legend( 10 ), Jitter( 1 ) )
+	)
+);

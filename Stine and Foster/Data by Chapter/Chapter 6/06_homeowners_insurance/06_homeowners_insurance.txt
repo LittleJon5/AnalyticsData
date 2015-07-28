@@ -1,0 +1,52 @@
+State	Average Homeowners Premium	Median Home Value
+Alabama	$845 	$119,600 
+Alaska	$856 	$232,900 
+Arizona	$628 	$187,700 
+Arkansas	$788 	$102,900 
+California	$911 	$384,200 
+Colorado	$842 	$237,800 
+Connecticut	$980 	$291,200 
+Delaware	$535 	$249,400 
+District of Columbia	$926 	$443,700 
+Florida	$1,390 	$182,400 
+Georgia	$749 	$162,800 
+Hawaii	$862 	$517,600 
+Idaho	$387 	$171,700 
+Illinois	$628 	$202,200 
+Indiana	$658 	$123,100 
+Iowa	$612 	$122,000 
+Kansas	$916 	$125,500 
+Kentucky	$601 	$117,800 
+Louisiana	$1,155 	$135,400 
+Maine	$572 	$177,500 
+Maryland	$637 	$318,600 
+Massachusetts	$1,026 	$338,500 
+Michigan	$715 	$132,200 
+Minnesota	$845 	$200,400 
+Mississippi	$980 	$98,000 
+Missouri	$788 	$139,700 
+Montana	$721 	$176,300 
+Nebraska	$814 	$123,300 
+Nevada	$692 	$207,600 
+New Hampshire	$647 	$249,700 
+New Jersey	$691 	$348,300 
+New Mexico	$703 	$160,900 
+New York	$983 	$306,000 
+North Carolina	$683 	$155,500 
+North Dakota	$808 	$116,800 
+Ohio	$565 	$134,600 
+Oklahoma	$1,048 	$107,700 
+Oregon	$439 	$257,400 
+Pennsylvania	$586 	$164,700 
+Rhode Island	$897 	$267,100 
+South Carolina	$789 	$137,500 
+South Dakota	$609 	$126,200 
+Tennessee	$692 	$137,300 
+Texas	$1,460 	$125,800 
+Utah	$432 	$224,700 
+Vermont	$650 	$216,300 
+Virginia	$604 	$252,600 
+Washington	$471 	$287,200 
+West Virginia	$638 	$94,500 
+Wisconsin	$503 	$170,800 
+Wyoming	$676 	$184,000 

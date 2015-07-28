@@ -1,0 +1,30 @@
+Nation	GDP (per cap)	Trade Bal (%GDP)	Muni Waste (kg/person)
+Australia	30500	-2.9	690
+Austria	35800	4.8	560
+Belgium	33800	2.9	440
+Canada	30700	3.9	380
+Czech Republic	10500	-0.3	280
+Denmark	44700	5.1	670
+Finland	35600	5.6	450
+France	32900	0.3	540
+Germany	33200	4.9	640
+Greece	18600	-8.6	430
+Hungary	9900	-3	460
+Iceland	41800	-5.9	730
+Ireland	44700	15.6	760
+Italy	28800	0.8	520
+Japan	36500	1.6	410
+Korea	14100	4.4	390
+Mexico	6500	-1.6	320
+Netherlands	35500	5.4	600
+New Zealand	23700	0.2	400
+Norway	54500	14.2	700
+Poland	6300	-1.8	260
+Portugal	16000	-7.7	450
+Slovak Republic	7600	-2.7	300
+Spain	24400	-3.6	650
+Sweden	38500	8	470
+Switzerland	47900	7.1	660
+Turkey	4200	-5.8	360
+United Kingdom	35500	-3.3	610
+United States	39700	-4.5	740

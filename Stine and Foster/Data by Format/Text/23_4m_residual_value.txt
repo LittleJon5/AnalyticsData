@@ -1,0 +1,186 @@
+Price	Mileage	Designation	Type	Location	Model Year	Age
+$34,989 	14746	328	i	Doylestown, PA	2010	1
+$30,989 	15715	328	xi	Doylestown, PA	2007	4
+$34,989 	17736	328	xi	Doylestown, PA	2008	3
+$24,989 	23290	328	i	Doylestown, PA	2008	3
+$29,989 	23682	328	xi	Doylestown, PA	2007	4
+$30,989 	24664	328	xi	Doylestown, PA	2008	3
+$30,989 	25124	328	xi	Doylestown, PA	2008	3
+$25,989 	28481	328	xi	Doylestown, PA	2008	3
+$28,989 	29416	328	xi	Doylestown, PA	2008	3
+$27,989 	30185	328	xi	Doylestown, PA	2008	3
+$31,989 	35258	328	xi	Doylestown, PA	2008	3
+$24,989 	37889	328	i	Doylestown, PA	2008	3
+$24,989 	38869	328	i	Doylestown, PA	2008	3
+$35,989 	42058	328	i	Doylestown, PA	2008	3
+$28,989 	43113	328	i	Doylestown, PA	2008	3
+$29,989 	43278	328	xi	Doylestown, PA	2008	3
+$24,985 	36549	328	i	West Springfield, MA	2008	3
+$29,659 	18462	328	i	Chicago	2009	2
+$21,554 	43991	328	i	Chicago	2008	3
+$21,688 	49184	328	i	Chicago	2008	3
+$21,995 	59849	328	i	Chicago	2008	3
+$23,987 	49892	328	i	Chicago	2007	4
+$29,995 	31275	328	i	Chicago	2007	4
+$32,488 	19230	328	i	Chicago	2010	1
+$28,991 	35019	328	i	Chicago	2009	2
+$28,578 	26764	328	i	Chicago	2008	3
+$28,777 	36009	328	i	Chicago	2008	3
+$27,489 	28039	328	xi	Chicago	2008	3
+$27,491 	34929	328	xi	Chicago	2008	3
+$27,995 	23965	328	xi	Chicago	2007	4
+$31,895 	18052	328	i	Chicago	2009	2
+$31,900 	19186	328	i	Chicago	2009	2
+$24,995 	45281	328	i	Devon,PA	2008	3
+$24,995 	34946	328	i	Devon,PA	2008	3
+$35,995 	22743	328	i	Devon,PA	2008	3
+$36,995 	31205	328	i	Devon,PA	2008	3
+$36,995 	1255	328	i	Devon,PA	2008	3
+$26,995 	24753	328	xi	Devon,PA	2008	3
+$29,995 	26948	328	xi	Devon,PA	2008	3
+$29,995 	32126	328	xi	Devon,PA	2008	3
+$32,995 	22786	328	xi	Devon,PA	2008	3
+$32,995 	30397	328	xi	Devon,PA	2008	3
+$26,995 	40508	328	xi	Devon,PA	2007	4
+$27,995 	37994	328	xi	Devon,PA	2007	4
+$36,995 	13014	328	i	Devon,PA	2009	2
+$36,995 	14604	328	i	Devon,PA	2009	2
+$35,995 	8510	328	i	Devon,PA	2010	1
+$28,995 	8884	328	i	Devon,PA	2009	2
+$35,995 	7827	328	i	Devon,PA	2009	2
+$20,399 	55532	328	xi	Feasterville	2007	4
+$20,990 	43585	328	xi	Feasterville	2007	4
+$20,995 	42000	328	i	Philadelphia	2007	4
+$19,995 	80995	328	xi	Philadelphia	2007	4
+$25,995 	48870	328	xi	West Chester	2008	3
+$26,495 	51902	328	xi	West Chester	2008	3
+$27,795 	43912	328	xi	West Chester	2008	3
+$33,585 	14510	328	i	Cherry Hill	2008	3
+$33,995 	36415	328	i	Philadelphia	2008	3
+$23,900 	60244	328	xi	Philadelphia	2008	3
+$24,900 	58778	328	xi	Philadelphia	2008	3
+$23,958 	48683	328	i	West Springfield, MA	2007	4
+$36,306 	8091	328	i	West Springfield, MA	2011	0
+$34,857 	14388	328	i	West Springfield, MA	2010	1
+$35,944 	7448	328	i	West Springfield, MA	2010	1
+$30,910 	30858	328	i	West Springfield, MA	2009	2
+$31,999 	19595	328	i	West Springfield, MA	2009	2
+$28,994 	32136	328	i	West Springfield, MA	2009	2
+$28,543 	31616	328	i	West Springfield, MA	2009	2
+$28,532 	29068	328	xi	West Springfield, MA	2008	3
+$27,305 	42056	328	xi	West Springfield, MA	2008	3
+$27,424 	36939	328	xi	West Springfield, MA	2008	3
+$29,843 	42143	328	xi	West Springfield, MA	2008	3
+$24,461 	41327	328	xi	West Springfield, MA	2007	4
+$25,979 	35619	328	xi	West Springfield, MA	2007	4
+$18,997 	73377	328	xi	West Springfield, MA	2007	4
+$23,769 	52689	328	xi	West Springfield, MA	2007	4
+$25,495 	29777	328	xi	West Springfield, MA	2007	4
+$23,779 	38106	328	xi	West Springfield, MA	2007	4
+$24,658 	52253	328	xi	West Springfield, MA	2007	4
+$25,286 	44856	328	xi	West Springfield, MA	2007	4
+$24,985 	36549	328	i	West Springfield, MA	2008	3
+$34,619 	15892	328	i	Chapel Hill	2009	2
+$27,695 	30200	328	i	Chapel Hill	2008	3
+$31,888 	25497	328	i	Chapel Hill	2009	2
+$32,910 	20664	328	i	Chapel Hill	2009	2
+$35,898 	15095	328	i	Chapel Hill	2010	1
+$30,888 	35931	328	i	Chapel Hill	2008	3
+$29,988 	29265	328	i	Chapel Hill	2008	3
+$26,880 	40161	328	i	Chapel Hill	2008	3
+$30,877 	17046	328	i	Chapel Hill	2008	3
+$29,977 	27292	328	i	Chapel Hill	2009	2
+$26,677 	39760	328	i	Chapel Hill	2007	4
+$30,877 	25596	328	i	Chapel Hill	2009	2
+$28,377 	38089	328	i	Chapel Hill	2008	3
+$28,777 	36009	328	i	Chapel Hill	2008	3
+$33,992 	9597	328	i	Santa Clara, CA	2010	1
+$22,993 	45046	328	i	Santa Clara, CA	2008	3
+$27,994 	35962	328	i	Santa Clara, CA	2008	3
+$29,990 	20557	328	i	Santa Clara, CA	2008	3
+$21,994 	45200	328	i	Santa Clara, CA	2008	3
+$25,991 	42738	328	i	Santa Clara, CA	2007	4
+$26,992 	29231	328	i	Santa Clara, CA	2007	4
+$35,991 	9659	328	i	Santa Clara, CA	2010	1
+$24,991 	34459	328	i	Santa Clara, CA	2008	3
+$28,992 	18158	328	i	Santa Clara, CA	2008	3
+$26,992 	39886	328	i	Santa Clara, CA	2008	3
+$26,791 	35404	328	i	Santa Clara, CA	2008	3
+$37,990 	17304	328	i	Santa Clara, CA	2008	3
+$26,990 	32581	328	i	Santa Clara, CA	2008	3
+$23,994 	38534	328	xi	Santa Clara, CA	2008	3
+$22,988 	46078	328	xi	Chicago	2007	4
+$29,998 	24609	328	xi	Chicago	2007	4
+$24,998 	29708	328	i	Chicago	2007	4
+$23,998 	30302	328	i	Chicago	2007	4
+$21,998 	35664	328	i	Chicago	2007	4
+$28,998 	39989	328	xi	Chicago	2007	4
+$27,998 	26873	328	xi	Chicago	2008	3
+$28,998 	34445	328	xi	Chicago	2008	3
+$28,995 	27159	328	i	Schaumberg	2009	2
+$39,995 	9496	328	i	Schaumberg	2010	1
+$39,995 	15616	328	i	Schaumberg	2011	0
+$28,789 	37609	328	xi	Philadelphia	2008	3
+$25,884 	36617	328	xi	Philadelphia	2007	4
+$26,995 	40508	328	xi	Philadelphia	2007	4
+$36,995 	31202	328	i	Philadelphia	2008	3
+$36,995 	14600	328	i	Philadelphia	2009	2
+$36,995 	1255	328	i	Philadelphia	2008	3
+$28,841 	32523	328	xi	Philadelphia	2008	3
+$39,593 	22764	328	i	Philadelphia	2008	3
+$21,468 	54388	328	xi	Philadelphia	2007	4
+$27,995 	32232	328	i	Philadelphia	2007	4
+$39,995 	7177	328	i	Philadelphia	2010	1
+$30,995 	21563	328	i	Philadelphia	2008	3
+$25,995 	48870	328	i	Philadelphia	2008	3
+$26,995 	19809	328	i	Philadelphia	2008	3
+$33,871 	10510	328	i	Fort Washington, PA	2009	2
+$28,981 	14295	328	i	Fort Washington, PA	2009	2
+$33,798 	16348	328	i	Fort Washington, PA	2009	2
+$29,777 	9877	328	i	Fort Washington, PA	2009	2
+$29,777 	13129	328	i	Fort Washington, PA	2009	2
+$29,777 	10672	328	i	Fort Washington, PA	2009	2
+$26,584 	32220	328	i	Fort Washington, PA	2008	3
+$27,472 	40338	328	xi	Fort Washington, PA	2008	3
+$30,464 	27910	328	xi	Fort Washington, PA	2008	3
+$28,457 	41503	328	xi	Fort Washington, PA	2008	3
+$28,431 	35940	328	xi	Fort Washington, PA	2008	3
+$29,453 	32629	328	xi	Fort Washington, PA	2008	3
+$28,841 	32523	328	xi	Fort Washington, PA	2008	3
+$35,871 	10913	328	xi	Fort Washington, PA	2010	1
+$35,871 	10980	328	xi	Fort Washington, PA	2010	1
+$35,871 	11609	328	xi	Fort Washington, PA	2010	1
+$30,993 	39811	328	xi	Fort Washington, PA	2008	3
+$32,993 	35870	328	xi	Fort Washington, PA	2008	3
+$29,993 	25587	328	xi	Fort Washington, PA	2008	3
+$35,989 	42058	328	i	Philadelphia	2008	3
+$24,989 	37889	328	i	Philadelphia	2008	3
+$24,989 	38869	328	i	Philadelphia	2008	3
+$24,989 	23290	328	i	Philadelphia	2008	3
+$28,989 	43113	328	i	Philadelphia	2008	3
+$34,989 	14746	328	i	Philadelphia	2010	1
+$30,989 	25124	328	xi	Philadelphia	2008	3
+$38,900 	17171	328	i	Mt. Laurel NJ	2008	3
+$25,900 	40457	328	i	Mt. Laurel NJ	2008	3
+$29,900 	16683	328	i	Mt. Laurel NJ	2008	3
+$29,900 	16683	328	i	Mt. Laurel NJ	2008	3
+$29,900 	27184	328	i	Mt. Laurel NJ	2008	3
+$27,900 	43290	328	i	Mt. Laurel NJ	2008	3
+$28,995 	8884	328	i	King of Prussia, PA	2009	2
+$24,995 	45281	328	i	King of Prussia, PA	2008	3
+$24,995 	34946	328	i	King of Prussia, PA	2008	3
+$35,995 	22743	328	i	King of Prussia, PA	2008	3
+$36,995 	31205	328	i	King of Prussia, PA	2008	3
+$24,753 	26995	328	i	King of Prussia, PA	2009	2
+$32,771 	17243	328	xi	Springfield, MO	2010	1
+$36,611 	14746	328	xi	Springfield, MO	2010	1
+$38,998 	17135	328	xi	Springfield, MO	2010	1
+$30,974 	12398	328	i	Springfield, MO	2009	2
+$25,395 	39502	328	i	Springfield, MO	2008	3
+$36,560 	16874	328	xi	Springfield, MO	2009	2
+$34,971 	14421	328	xi	Springfield, MO	2010	1
+$32,980 	26398	328	ci	Rogersville, AR	2008	3
+$26,980 	50153	328	ci	Rogersville, AR	2007	4
+$24,620 	36356	328	i	Waynesville, MO	2007	4
+$25,962 	38300	328	i	Bentonville, AR	2008	3
+$23,980 	45018	328	i	Rogersville, AR	2007	4

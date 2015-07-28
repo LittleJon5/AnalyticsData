@@ -1,0 +1,319 @@
+Make	Model	Name	Class	Vehicle Type	Transmission	Combined MPG	City MPG	Highway MPG	Weight (pounds)	Displacement (liters)	Horsepower	Air Aspiration	# Cylinders	log10(HP)	log10(displacement)
+AUDI	A3	Audi A3	Small Station Wagons	Car	Manual	24	21	30	3625	2	200	Turbocharged	4	2.301029996	0.301029996
+AUDI	A4 QUATTRO	Audi A4 QUATTRO	Compact Cars	Car	Manual	25	21	31	4000	2	211	Turbocharged	4	2.324282455	0.301029996
+AUDI	A4	Audi A4	Compact Cars	Car	Continuously Variable	25	22	30	3875	2	211	Turbocharged	4	2.324282455	0.301029996
+AUDI	A6	Audi A6	Midsize Cars	Both	Continuously Variable	28	25	33	4000	2	211	Turbocharged	4	2.324282455	0.301029996
+AUDI	Q7	Audi Q7	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	18	16	22	6000	3	225	Supercharged	6	2.352182518	0.477121255
+AUDI	R8	Audi R8	Two Seaters	Car	Automated Manual	16	13	21	4250	4.2	430	Naturally Aspirated	8	2.633468456	0.62324929
+AUDI	R8	Audi R8	Two Seaters	Car	Manual	14	11	20	4250	4.2	430	Naturally Aspirated	8	2.633468456	0.62324929
+AUDI	R8	Audi R8	Two Seaters	Car	Manual	14	12	19	4000	5.2	525	Naturally Aspirated	10	2.720159303	0.716003344
+AUDI	S4	Audi S4	Compact Cars	Car	Manual	21	18	27	4250	3	333	Supercharged	6	2.522444234	0.477121255
+AUDI	S5	Audi S5	Subcompact Cars	Car	Manual	17	14	22	4250	4.2	354	Naturally Aspirated	8	2.549003262	0.62324929
+VOLKSWAGEN	TIGUAN	Volkswagen TIGUAN	Special Purpose Vehicle, SUV 2WD	Car	Manual	21	18	26	3875	2	200	Turbocharged	4	2.301029996	0.301029996
+AUDI	TT COUPE QUATTRO	Audi TT COUPE QUATTRO	Subcompact Cars	Car	Semi-Automatic	26	23	31	3625	2	265	Turbocharged	4	2.423245874	0.301029996
+Aston Martin	DB9	Aston Martin Lagonda Ltd DB9	Minicompact Cars	Car	Manual	13	11	17	4500	5.9	470	Naturally Aspirated	12	2.672097858	0.770852012
+Aston Martin	DB9	Aston Martin Lagonda Ltd DB9	Minicompact Cars	Car	Semi-Automatic	15	13	20	4500	5.9	470	Naturally Aspirated	12	2.672097858	0.770852012
+Aston Martin	DBS	Aston Martin Lagonda Ltd DBS	Minicompact Cars	Car	Manual	13	11	17	4500	5.9	510	Naturally Aspirated	12	2.707570176	0.770852012
+Aston Martin	DBS	Aston Martin Lagonda Ltd DBS	Minicompact Cars	Car	Semi-Automatic	14	12	18	4500	5.9	510	Naturally Aspirated	12	2.707570176	0.770852012
+Aston Martin	Rapide	Aston Martin Lagonda Ltd Rapide	Subcompact Cars	Car	Semi-Automatic	15	13	19	4750	5.9	470	Naturally Aspirated	12	2.672097858	0.770852012
+Aston Martin	V8 VANTAGE S	Aston Martin Lagonda Ltd V8 Vantage S	Two Seaters	Car	Automated Manual	16	14	21	4000	4.7	430	Naturally Aspirated	8	2.633468456	0.672097858
+Aston Martin	V8 VANTAGE	Aston Martin Lagonda Ltd V8 Vantage	Two Seaters	Car	Automated Manual	16	14	20	4000	4.7	420	Naturally Aspirated	8	2.62324929	0.672097858
+Aston Martin	V8 VANTAGE	Aston Martin Lagonda Ltd V8 Vantage	Two Seaters	Car	Manual	15	13	19	4000	4.7	420	Naturally Aspirated	8	2.62324929	0.672097858
+Aston Martin	Virage	Aston Martin Lagonda Ltd Virage	Minicompact Cars	Car	Semi-Automatic	15	13	18	4500	5.9	490	Naturally Aspirated	12	2.69019608	0.770852012
+Bentley	Mulsanne	Bentley Motors Ltd. Mulsanne	Midsize Cars	Car	Semi-Automatic	13	11	18	6000	6.8	505	Turbocharged	8	2.703291378	0.832508913
+BMW	128i	BMW 128i	Subcompact Cars	Both	Manual	22	18	28	3500	3	230	Naturally Aspirated	6	2.361727836	0.477121255
+BMW	128i	BMW 128i	Subcompact Cars	Car	Semi-Automatic	21	18	28	3625	3	230	Naturally Aspirated	6	2.361727836	0.477121255
+BMW	135i Convertible	BMW 135i Convertible	Subcompact Cars	Both	Manual	22	19	28	4000	3	300	Turbocharged	6	2.477121255	0.477121255
+BMW	135i	BMW 135i	Subcompact Cars	Both	Manual	23	20	28	3625	3	300	Turbocharged	6	2.477121255	0.477121255
+BMW	550i	BMW 550i	Midsize Cars	Car	Manual	17	15	22	4500	4.4	400	Turbocharged	8	2.602059991	0.643452677
+BMW	650i Convertible	BMW 650i Convertible	Compact Cars	Car	Manual	17	15	22	4750	4.4	400	Turbocharged	8	2.602059991	0.643452677
+BMW	650i Coupe	BMW 650i Coupe	Compact Cars	Car	Manual	17	15	22	4500	4.4	400	Turbocharged	8	2.602059991	0.643452677
+BMW	740Li	BMW 740Li	Large Cars	Car	Semi-Automatic	20	17	25	4750	3	315	Turbocharged	6	2.498310554	0.477121255
+BMW	750i	BMW 750i	Large Cars	Car	Semi-Automatic	17	15	22	5000	4.4	400	Turbocharged	8	2.602059991	0.643452677
+BMW	M3 Convertible	BMW M3 Convertible	Subcompact Cars	Car	Manual	16	13	20	4500	4	414	Naturally Aspirated	8	2.617000341	0.602059991
+Mini	Mini Cooper Clubman	Mini Mini Cooper Clubman	Subcompact Cars	Car	Manual	30	27	35	3000	1.6	122	Naturally Aspirated	4	2.086359831	0.204119983
+Mini	Mini Cooper Convertible	Mini Mini Cooper Convertible	Minicompact Cars	Car	Manual	30	27	35	3000	1.6	122	Naturally Aspirated	4	2.086359831	0.204119983
+Mini	Mini Cooper Countryman	Mini Mini Cooper Countryman	Compact Cars	Car	Manual	30	27	35	3250	1.6	122	Naturally Aspirated	4	2.086359831	0.204119983
+Mini	Mini Cooper S Clubman	Mini Mini Cooper S Clubman	Subcompact Cars	Car	Manual	30	27	35	3125	1.6	180	Turbocharged	4	2.255272505	0.204119983
+Mini	Mini Cooper S Convertible	Mini Mini Cooper S Convertible	Minicompact Cars	Car	Manual	30	27	35	3125	1.6	180	Turbocharged	4	2.255272505	0.204119983
+Mini	Mini Cooper S Countryman All4	Mini Mini Cooper S Countryman All4	Compact Cars	Car	Manual	28	25	31	3500	1.6	180	Turbocharged	4	2.255272505	0.204119983
+Mini	Mini Cooper S Countryman	Mini Mini Cooper S Countryman	Compact Cars	Car	Manual	29	26	32	3375	1.6	180	Turbocharged	4	2.255272505	0.204119983
+Mini	Mini Cooper S	Mini Mini Cooper S	Minicompact Cars	Car	Manual	30	27	35	3000	1.6	180	Turbocharged	4	2.255272505	0.204119983
+Mini	Mini Cooper	Mini Mini Cooper	Minicompact Cars	Car	Manual	32	29	37	2875	1.6	122	Naturally Aspirated	4	2.086359831	0.204119983
+BMW	X5 xDrive35i	BMW X5 xDrive35i	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5250	3	300	Turbocharged	6	2.477121255	0.477121255
+BMW	X5 xDriveM	BMW X5 xDriveM	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	14	12	17	5500	4.4	555	Turbocharged	8	2.744292983	0.643452677
+BMW	X6 xDrive35i	BMW X6 xDrive35i	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5000	3	300	Turbocharged	6	2.477121255	0.477121255
+BMW	X6 xDriveM	BMW X6 xDriveM	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	14	12	17	5500	4.4	555	Turbocharged	8	2.744292983	0.643452677
+Chrysler	200	Chrysler 200	Midsize Cars	Both	Automatic	24	21	30	3750	2.4	173	Naturally Aspirated	4	2.238046103	0.380211242
+Chrysler	300 AWD	Chrysler 300 AWD	Large Cars	Car	Automatic	21	18	27	4500	3.6	292	Naturally Aspirated	6	2.465382851	0.556302501
+Chrysler	300 Awd	Chrysler 300 AWD	Large Cars	Car	Automatic	18	15	23	4750	5.7	359	Naturally Aspirated	8	2.555094449	0.755874856
+Fiat	500	FIAT 500	Minicompact Cars	Car	Automatic	30	27	34	2750	1.4	100	Naturally Aspirated	4	2	0.146128036
+Fiat	500	FIAT 500	Minicompact Cars	Car	Manual	33	30	38	2750	1.4	100	Naturally Aspirated	4	2	0.146128036
+Dodge	Avenger	Dodge Avenger	Midsize Cars	Both	Automatic	24	21	30	3750	2.4	283	Naturally Aspirated	4	2.451786436	0.380211242
+Dodge	Avenger	Dodge Avenger	Midsize Cars	Both	Automatic	22	19	29	3875	3.6	283	Naturally Aspirated	6	2.451786436	0.556302501
+Dodge	CALIBER	Dodge Caliber	Small Station Wagons	Both	Continuously Variable	24	23	27	3375	2	172	Naturally Aspirated	4	2.235528447	0.301029996
+Dodge	Caliber	Dodge Caliber	Small Station Wagons	Both	Continuously Variable	24	22	27	3500	2.4	172	Naturally Aspirated	4	2.235528447	0.380211242
+Dodge	Caliber	Dodge Caliber	Small Station Wagons	Both	Manual	27	24	32	3250	2	158	Naturally Aspirated	4	2.198657087	0.301029996
+Dodge	Challenger	Dodge Challenger	Midsize Cars	Car	Manual	18	15	23	4500	5.7	370	Naturally Aspirated	8	2.568201724	0.755874856
+Dodge	Charger AWD	Dodge Charger AWD	Large Cars	Car	Automatic	21	18	27	4500	3.6	292	Naturally Aspirated	6	2.465382851	0.556302501
+Dodge	Charger	Dodge Charger	Large Cars	Car	Automatic	21	18	27	4250	3.6	292	Naturally Aspirated	6	2.465382851	0.556302501
+Jeep	Patriot 4wd	Jeep Patriot 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	23	21	26	3750	2.4	172	Naturally Aspirated	4	2.235528447	0.380211242
+Dodge	Ram 1500 2WD	Dodge Ram 1500 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	16	14	20	5500	4.7	310	Naturally Aspirated	8	2.491361694	0.672097858
+Dodge	Ram 1500 4WD	Dodge Ram 1500 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	16	14	19	5500	4.7	310	Naturally Aspirated	8	2.491361694	0.672097858
+Chrysler	Town & Country	Chrysler Town & Country	Special Purpose Vehicle, minivan 2WD	Both	Automatic	20	17	25	4750	3.6	283	Naturally Aspirated	6	2.451786436	0.556302501
+Jeep	Wrangler 4WD	Jeep Wrangler 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	17	21	4750	3.6	290	Naturally Aspirated	6	2.462397998	0.556302501
+Jeep	Wrangler 4WD	Jeep Wrangler 4WD	Special Purpose Vehicle, SUV 4WD	Car	Manual	18	17	21	4750	3.6	290	Naturally Aspirated	6	2.462397998	0.556302501
+MITSUBISHI	ECLIPSE SPYDER	Mitsubishi Motors North America ECLIPSE SPYDER	Minicompact Cars	Car	Semi-Automatic	23	20	27	3875	2.4	162	Naturally Aspirated	4	2.209515015	0.380211242
+MITSUBISHI	ECLIPSE SPYDER	Mitsubishi Motors North America ECLIPSE SPYDER	Minicompact Cars	Car	Semi-Automatic	19	16	24	4000	3.8	260	Naturally Aspirated	6	2.414973348	0.579783597
+MITSUBISHI	ECLIPSE	Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Manual	23	20	28	3625	2.4	162	Naturally Aspirated	4	2.209515015	0.380211242
+MITSUBISHI	ECLIPSE	Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Semi-Automatic	23	20	28	3750	2.4	162	Naturally Aspirated	4	2.209515015	0.380211242
+MITSUBISHI	ECLIPSE	Mitsubishi Motors North America ECLIPSE	Subcompact Cars	Car	Semi-Automatic	20	17	25	3875	3.8	263	Naturally Aspirated	6	2.419955749	0.579783597
+MITSUBISHI	GALANT	Mitsubishi Motors North America GALANT	Midsize Cars	Car	Semi-Automatic	24	21	30	3625	2.4	160	Naturally Aspirated	4	2.204119983	0.380211242
+SUBARU	FORESTER AWD	Subaru FORESTER AWD	Special Purpose Vehicle, SUV 4WD	Both	Manual	23	21	27	3625	2.5	170	Naturally Aspirated	4	2.230448921	0.397940009
+SUBARU	FORESTER AWD	Subaru FORESTER AWD	Special Purpose Vehicle, SUV 4WD	Both	Semi-Automatic	23	21	27	3750	2.5	224	Naturally Aspirated	4	2.350248018	0.397940009
+SUBARU	IMPREZA AWD	Subaru IMPREZA AWD	Compact Cars	Both	Continuously Variable	30	27	36	3375	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+SUBARU	IMPREZA AWD	Subaru IMPREZA AWD	Compact Cars	Both	Manual	28	25	34	3375	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+SUBARU	IMPREZA AWD	Subaru IMPREZA AWD	Compact Cars	Both	Manual	21	19	25	3750	2.5	305	Turbocharged	4	2.484299839	0.397940009
+SUBARU	IMPREZA WAGON/OUTBACK SPORT AWD	Subaru IMPREZA WAGON/OUTBACK SPORT AWD	Small Station Wagons	Both	Continuously Variable	30	27	36	3375	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+SUBARU	IMPREZA WAGON/OUTBACK SPORT AWD	Subaru IMPREZA WAGON/OUTBACK SPORT AWD	Small Station Wagons	Both	Manual	28	25	33	3375	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+SUBARU	TRIBECA AWD	Subaru TRIBECA AWD	Special Purpose Vehicle, SUV 4WD	Both	Semi-Automatic	18	16	21	4500	3.6	256	Naturally Aspirated	6	2.408239965	0.556302501
+FORD	E350 VAN	Ford Division E350 VAN	Vans, Cargo Types	Truck	Automatic	12	10	14	6000	6.8	305	Naturally Aspirated	10	2.484299839	0.832508913
+Ford	EDGE AWD	Ford Division EDGE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	21	18	25	4750	3.5	305	Naturally Aspirated	6	2.484299839	0.544068044
+Ford	Edge FWD	Ford Division EDGE FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	24	21	30	4250	2	237	Turbocharged	4	2.374748346	0.301029996
+Ford	Escape AWD	Ford Division ESCAPE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	23	20	27	3750	2.5	171	Naturally Aspirated	4	2.23299611	0.397940009
+Ford	Explorer FWD	Ford Division EXPLORER FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	23	20	28	4750	2	237	Turbocharged	4	2.374748346	0.301029996
+Ford	EXPLORER FWD	Ford Division EXPLORER FWD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	20	18	25	4750	3.5	287	Naturally Aspirated	6	2.457881897	0.544068044
+Ford	MKX AWD	Lincoln Truck MKX AWD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	17	23	4750	3.7	305	Naturally Aspirated	6	2.484299839	0.568201724
+Ford	Mustang	Ford Division MUSTANG	Subcompact Cars	Car	Automatic	23	19	31	3750	3.7	300	Naturally Aspirated	6	2.477121255	0.568201724
+Ford	MUSTANG	Ford Division MUSTANG	Subcompact Cars	Car	Automatic	20	18	25	4000	5	400	Naturally Aspirated	8	2.602059991	0.698970004
+Ford	Mustang	Ford Division MUSTANG	Subcompact Cars	Car	Manual	22	19	29	3750	3.7	300	Naturally Aspirated	6	2.477121255	0.568201724
+Ford	MUSTANG	Ford Division MUSTANG	Subcompact Cars	Car	Manual	20	17	26	4000	5	400	Naturally Aspirated	8	2.602059991	0.698970004
+FORD	MUSTANG	Ford Division MUSTANG	Subcompact Cars	Car	Manual	17	15	23	4000	5.4	550	Supercharged	8	2.74036269	0.73239376
+Ford	Taurus FWD	Ford Division TAURUS FWD	Large Cars	Car	Automatic	22	18	28	4500	3.5	263	Naturally Aspirated	6	2.419955749	0.544068044
+SAAB	9-4X FWD	Saab 9-4X FWD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	20	18	25	4750	3	265	Naturally Aspirated	6	2.423245874	0.477121255
+GMC	C15 SIERRA 2WD XFE	GMC C15 SIERRA 2WD XFE	Standard Pick-up Trucks 2WD	Truck	Automatic	18	15	22	5250	5.3	315	Naturally Aspirated	8	2.498310554	0.72427587
+CHEVROLET	C15 SILVERADO 2WD XFE	Chevrolet C15 SILVERADO 2WD XFE	Standard Pick-up Trucks 2WD	Truck	Automatic	18	15	22	5250	5.3	315	Naturally Aspirated	8	2.498310554	0.72427587
+CHEVROLET	C15 SILVERADO 2WD	Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	17	15	20	5000	4.3	195	Naturally Aspirated	6	2.290034611	0.633468456
+CHEVROLET	C15 SILVERADO 2WD	Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	16	14	19	5000	4.8	295	Naturally Aspirated	8	2.469822016	0.681241237
+CHEVROLET	C15 SILVERADO 2WD	Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	2.505149978	0.72427587
+CHEVROLET	C15 SILVERADO 2WD	Chevrolet C15 SILVERADO 2WD	Standard Pick-up Trucks 2WD	Truck	Automatic	14	13	18	5500	6.2	403	Naturally Aspirated	8	2.605305046	0.79239169
+CHEVROLET	C1500 TAHOE 2WD HYBRID	Chevrolet C1500 TAHOE 2WD HYBRID	Special Purpose Vehicle, SUV 2WD	Truck	Continuously Variable	21	20	23	6000	6	332	Naturally Aspirated	8	2.521138084	0.77815125
+CHEVROLET	C1500 TAHOE 2WD	Chevrolet C1500 TAHOE 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	2.505149978	0.72427587
+CHEVROLET	C2500 SUBURBAN 2WD	Chevrolet C2500 SUBURBAN 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	12	10	16	6500	6	352	Naturally Aspirated	8	2.546542664	0.77815125
+CHEVROLET	CAMARO	Chevrolet CAMARO	Compact Cars	Car	Manual	20	17	28	4000	3.6	304	Naturally Aspirated	6	2.482873584	0.556302501
+CHEVROLET	CAMARO	Chevrolet CAMARO	Compact Cars	Car	Manual	19	16	24	4250	6.2	420	Naturally Aspirated	8	2.62324929	0.79239169
+CHEVROLET	CAMARO	Chevrolet CAMARO	Compact Cars	Car	Semi-Automatic	22	18	29	4000	3.6	304	Naturally Aspirated	6	2.482873584	0.556302501
+CHEVROLET	CAMARO	Chevrolet CAMARO	Compact Cars	Car	Semi-Automatic	18	15	24	4500	6.2	400	Naturally Aspirated	8	2.602059991	0.79239169
+CHEVROLET	COLORADO 2WD	Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	21	18	25	3750	2.9	190	Naturally Aspirated	4	2.278753601	0.462397998
+CHEVROLET	COLORADO 2WD	Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	19	17	23	3625	3.7	245	Naturally Aspirated	5	2.389166084	0.568201724
+CHEVROLET	COLORADO 2WD	Chevrolet COLORADO 2WD	Small Pick-up Trucks 2WD	Truck	Manual	21	18	25	3875	2.9	190	Naturally Aspirated	4	2.278753601	0.462397998
+CHEVROLET	COLORADO 4WD	Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	20	17	23	4250	2.9	190	Naturally Aspirated	4	2.278753601	0.462397998
+CHEVROLET	COLORADO 4WD	Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	19	17	23	3875	3.7	245	Naturally Aspirated	5	2.389166084	0.568201724
+CHEVROLET	COLORADO 4WD	Chevrolet COLORADO 4WD	Small Pick-up Trucks 4WD	Truck	Manual	20	18	24	4000	2.9	190	Naturally Aspirated	4	2.278753601	0.462397998
+CHEVROLET	COLORADO CREW CAB 2WD	Chevrolet COLORADO CREW CAB 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	16	14	20	4250	5.3	300	Naturally Aspirated	8	2.477121255	0.72427587
+CHEVROLET	COLORADO CREW CAB 4WD	Chevrolet COLORADO CREW CAB 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	18	16	21	4500	3.7	245	Naturally Aspirated	5	2.389166084	0.568201724
+CHEVROLET	COLORADO CREW CAB 4WD	Chevrolet COLORADO CREW CAB 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	16	14	19	4750	5.3	300	Naturally Aspirated	8	2.477121255	0.72427587
+CHEVROLET	CORVETTE	Chevrolet CORVETTE	Two Seaters	Car	Manual	19	16	26	3625	6.2	420	Naturally Aspirated	8	2.62324929	0.79239169
+CHEVROLET	CORVETTE	Chevrolet CORVETTE	Two Seaters	Car	Manual	18	15	24	3500	7	505	Naturally Aspirated	8	2.703291378	0.84509804
+CHEVROLET	CORVETTE	Chevrolet CORVETTE	Two Seaters	Car	Semi-Automatic	18	15	25	3625	6.2	420	Naturally Aspirated	8	2.62324929	0.79239169
+CHEVROLET	CRUZE ECO	Chevrolet CRUZE ECO	Midsize Cars	Car	Automatic	31	26	39	3375	1.4	140	Turbocharged	4	2.146128036	0.146128036
+CHEVROLET	CRUZE	Chevrolet CRUZE	Midsize Cars	Car	Manual	30	26	38	3250	1.4	138	Turbocharged	4	2.139879086	0.146128036
+CHEVROLET	CRUZE	Chevrolet CRUZE	Midsize Cars	Car	Manual	29	25	36	3375	1.8	138	Naturally Aspirated	4	2.139879086	0.255272505
+CHEVROLET	CRUZE	Chevrolet CRUZE	Midsize Cars	Car	Semi-Automatic	30	26	38	3375	1.4	140	Turbocharged	4	2.146128036	0.146128036
+CHEVROLET	CRUZE	Chevrolet CRUZE	Midsize Cars	Car	Semi-Automatic	27	22	35	3375	1.8	140	Naturally Aspirated	4	2.146128036	0.255272505
+CADILLAC	CTS AWD	Cadillac CTS AWD	Midsize Cars	Car	Semi-Automatic	21	18	26	4500	3	265	Naturally Aspirated	6	2.423245874	0.477121255
+CADILLAC	CTS AWD	Cadillac CTS AWD	Midsize Cars	Car	Semi-Automatic	21	18	27	4500	3.6	304	Naturally Aspirated	6	2.482873584	0.556302501
+CADILLAC	CTS WAGON	Cadillac CTS WAGON	Small Station Wagons	Car	Semi-Automatic	21	18	26	4750	3.6	304	Naturally Aspirated	6	2.482873584	0.556302501
+CADILLAC	CTS	Cadillac CTS	Midsize Cars	Car	Manual	19	16	26	4250	3	265	Naturally Aspirated	6	2.423245874	0.477121255
+CADILLAC	CTS	Cadillac CTS	Midsize Cars	Car	Manual	16	14	19	4500	6.2	550	Supercharged	8	2.74036269	0.79239169
+CADILLAC	CTS	Cadillac CTS	Midsize Cars	Car	Semi-Automatic	22	18	27	4250	3	265	Naturally Aspirated	6	2.423245874	0.477121255
+CADILLAC	CTS	Cadillac CTS	Midsize Cars	Car	Semi-Automatic	14	12	18	4500	6.2	550	Supercharged	8	2.74036269	0.79239169
+CHEVROLET	EQUINOX AWD	Chevrolet EQUINOX AWD	Special Purpose Vehicle, SUV 4WD	Both	Automatic	23	20	29	4250	2.4	182	Naturally Aspirated	4	2.260071388	0.380211242
+CHEVROLET	EQUINOX AWD	Chevrolet EQUINOX AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	16	23	4500	3	264	Naturally Aspirated	6	2.421603927	0.477121255
+CHEVROLET	EQUINOX FWD	Chevrolet EQUINOX FWD	Special Purpose Vehicle, SUV 2WD	Both	Automatic	26	22	32	4000	2.4	182	Naturally Aspirated	4	2.260071388	0.380211242
+CADILLAC	ESCALADE 2WD	Cadillac ESCALADE 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	16	14	18	6000	6.2	403	Naturally Aspirated	8	2.605305046	0.79239169
+CADILLAC	ESCALADE 4WD HYBRID	Cadillac ESCALADE 4WD HYBRID	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	21	20	23	6500	6	332	Naturally Aspirated	8	2.521138084	0.77815125
+CADILLAC	ESCALADE AWD	Cadillac ESCALADE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	15	13	18	6000	6.2	403	Naturally Aspirated	8	2.605305046	0.79239169
+CHEVROLET	G1500 EXPRESS 2WD CARGO	Chevrolet G1500 EXPRESS 2WD CARGO	Vans, Cargo Types	Truck	Automatic	15	13	18	5500	5.3	301	Naturally Aspirated	8	2.478566496	0.72427587
+CHEVROLET	G2500 EXPRESS 2WD CARGO MDPV	Chevrolet G2500 EXPRESS 2WD CARGO MDPV	Vans, Cargo Types	Truck	Automatic	12	10	15	7000	6	323	Naturally Aspirated	8	2.509202522	0.77815125
+CHEVROLET	G3500 EXPRESS 2WD PASS MDPV	Chevrolet G3500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	Truck	Automatic	13	11	17	6500	4.8	280	Naturally Aspirated	8	2.447158031	0.681241237
+CHEVROLET	G3500 EXPRESS 2WD PASS MDPV	Chevrolet G3500 EXPRESS 2WD PASS MDPV	Vans, Passenger Type	Truck	Automatic	12	11	16	6500	6	323	Naturally Aspirated	8	2.509202522	0.77815125
+CHEVROLET	H1500 EXPRESS AWD CARGO	Chevrolet H1500 EXPRESS AWD CARGO	Vans, Cargo Types	Truck	Automatic	14	13	17	5500	5.3	301	Naturally Aspirated	8	2.478566496	0.72427587
+CHEVROLET	IMPALA	Chevrolet IMPALA	Large Cars	Both	Automatic	22	18	30	3875	3.6	280	Naturally Aspirated	6	2.447158031	0.556302501
+CHEVROLET	K15 SILVERADO 4WD	Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	15	14	18	5250	4.3	195	Naturally Aspirated	6	2.290034611	0.633468456
+CHEVROLET	K15 SILVERADO 4WD	Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	15	13	18	5500	4.8	295	Naturally Aspirated	8	2.469822016	0.681241237
+CHEVROLET	K15 SILVERADO 4WD	Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	2.505149978	0.72427587
+CHEVROLET	K15 SILVERADO 4WD	Chevrolet K15 SILVERADO 4WD	Standard Pick-up Trucks 4WD	Truck	Automatic	14	12	18	5500	6.2	403	Naturally Aspirated	8	2.605305046	0.79239169
+CHEVROLET	K1500 TAHOE 4WD HYBRID	Chevrolet K1500 TAHOE 4WD HYBRID	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	21	20	23	6000	6	332	Naturally Aspirated	8	2.521138084	0.77815125
+CHEVROLET	K1500 TAHOE 4WD	Chevrolet K1500 TAHOE 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	17	15	21	6000	5.3	320	Naturally Aspirated	8	2.505149978	0.72427587
+GMC	K1500 YUKON XL AWD	GMC K1500 YUKON XL AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	14	13	18	6500	6.2	403	Naturally Aspirated	8	2.605305046	0.79239169
+GMC	K2500 YUKON XL 4WD	GMC K2500 YUKON XL 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	12	10	15	7000	6	352	Naturally Aspirated	8	2.546542664	0.77815125
+BUICK	LACROSSE AWD	Buick LACROSSE AWD	Midsize Cars	Both	Semi-Automatic	20	16	26	4500	3.6	280	Naturally Aspirated	6	2.447158031	0.556302501
+BUICK	LACROSSE	Buick LACROSSE	Midsize Cars	Car	Semi-Automatic	29	25	36	4000	2.4	182	Naturally Aspirated	4	2.260071388	0.380211242
+BUICK	LACROSSE	Buick LACROSSE	Midsize Cars	Both	Semi-Automatic	21	17	27	4250	3.6	280	Naturally Aspirated	6	2.447158031	0.556302501
+CHEVROLET	MALIBU	Chevrolet MALIBU	Midsize Cars	Car	Semi-Automatic	26	22	33	3750	2.4	175	Naturally Aspirated	4	2.243038049	0.380211242
+CHEVROLET	MALIBU	Chevrolet MALIBU	Midsize Cars	Car	Semi-Automatic	20	17	26	3875	3.6	250	Naturally Aspirated	6	2.397940009	0.556302501
+BUICK	REGAL	Buick REGAL	Midsize Cars	Car	Manual	24	20	32	4000	2	270	Turbocharged	4	2.431363764	0.301029996
+BUICK	REGAL	Buick REGAL	Midsize Cars	Car	Semi-Automatic	22	18	29	4000	2	220	Turbocharged	4	2.342422681	0.301029996
+BUICK	REGAL	Buick REGAL	Midsize Cars	Both	Semi-Automatic	29	25	36	4000	2.4	182	Naturally Aspirated	4	2.260071388	0.380211242
+CHEVROLET	SONIC	Chevrolet SONIC	Compact Cars	Car	Manual	29	26	35	3000	1.8	138	Naturally Aspirated	4	2.139879086	0.255272505
+CHEVROLET	SONIC	Chevrolet SONIC	Compact Cars	Car	Semi-Automatic	28	25	35	3125	1.8	140	Naturally Aspirated	4	2.146128036	0.255272505
+CADILLAC	SRX 2WD	Cadillac SRX 2WD	Special Purpose Vehicle, SUV 2WD	Both	Semi-Automatic	19	17	24	4750	3.6	280	Naturally Aspirated	6	2.447158031	0.556302501
+GMC	TERRAIN FWD	GMC TERRAIN FWD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	20	17	24	4250	3	264	Naturally Aspirated	6	2.421603927	0.477121255
+CHEVROLET	TRAVERSE AWD	Chevrolet TRAVERSE AWD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	16	23	5250	3.6	288	Naturally Aspirated	6	2.459392488	0.556302501
+CHEVROLET	VOLT	Chevrolet VOLT	Compact Cars	Car	Continuously Variable	37	35	40	4000	1.4	85	Naturally Aspirated	4	1.929418926	0.146128036
+HONDA	CIVIC HF	Honda CIVIC HF	Compact Cars	Car	Automatic	33	29	41	3000	1.8	140	Naturally Aspirated	4	2.146128036	0.255272505
+HONDA	CIVIC HYBRID	Honda CIVIC HYBRID	Compact Cars	Car	Continuously Variable	44	44	44	3125	1.5	90	Naturally Aspirated	4	1.954242509	0.176091259
+HONDA	FIT	Honda FIT	Small Station Wagons	Car	Automatic	31	28	35	2875	1.5	117	Naturally Aspirated	4	2.068185862	0.176091259
+HONDA	FIT	Honda FIT	Small Station Wagons	Car	Manual	29	27	33	2750	1.5	117	Naturally Aspirated	4	2.068185862	0.176091259
+ACURA	MDX 4WD	Acura MDX 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	18	16	21	5000	3.7	300	Naturally Aspirated	6	2.477121255	0.568201724
+ACURA	TL 2WD	Acura TL 2WD	Midsize Cars	Car	Semi-Automatic	23	20	29	4000	3.5	280	Naturally Aspirated	6	2.447158031	0.544068044
+ACURA	TL 4WD	Acura TL 4WD	Midsize Cars	Car	Manual	20	17	25	4250	3.7	305	Naturally Aspirated	6	2.484299839	0.568201724
+ACURA	TL 4WD	Acura TL 4WD	Midsize Cars	Car	Semi-Automatic	21	18	26	4250	3.7	305	Naturally Aspirated	6	2.484299839	0.568201724
+ACURA	TSX	Acura TSX	Compact Cars	Car	Manual	24	21	29	3750	2.4	201	Naturally Aspirated	4	2.303196057	0.380211242
+ACURA	TSX	Acura TSX	Compact Cars	Car	Semi-Automatic	26	22	31	3875	2.4	201	Naturally Aspirated	4	2.303196057	0.380211242
+ACURA	TSX	Acura TSX	Compact Cars	Car	Semi-Automatic	23	19	28	4000	3.5	280	Naturally Aspirated	6	2.447158031	0.544068044
+ACURA	ZDX 4WD	Acura ZDX 4WD	Special Purpose Vehicle, SUV 4WD	Car	Semi-Automatic	19	16	23	4750	3.7	300	Naturally Aspirated	6	2.477121255	0.568201724
+HYUNDAI	Accent	HYUNDAI MOTOR COMPANY ACCENT	Compact Cars	Car	Automatic	33	30	40	2875	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+HYUNDAI	Accent	HYUNDAI MOTOR COMPANY ACCENT	Compact Cars	Car	Manual	34	30	40	2750	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+HYUNDAI	ELANTRA TOURING	HYUNDAI MOTOR COMPANY ELANTRA TOURING	Small Station Wagons	Car	Automatic	26	23	30	3375	2	138	Naturally Aspirated	4	2.139879086	0.301029996
+HYUNDAI	ELANTRA TOURING	HYUNDAI MOTOR COMPANY ELANTRA TOURING	Small Station Wagons	Car	Manual	26	23	31	3375	2	138	Naturally Aspirated	4	2.139879086	0.301029996
+HYUNDAI	ELANTRA	HYUNDAI MOTOR COMPANY ELANTRA	Midsize Cars	Car	Automatic	33	29	40	3000	1.8	148	Naturally Aspirated	4	2.170261715	0.255272505
+HYUNDAI	ELANTRA	HYUNDAI MOTOR COMPANY ELANTRA	Midsize Cars	Car	Manual	33	29	40	3000	1.8	148	Naturally Aspirated	4	2.170261715	0.255272505
+HYUNDAI	EQUUS	HYUNDAI MOTOR COMPANY EQUUS	Large Cars	Car	Automatic	18	15	23	4750	5	429	Naturally Aspirated	8	2.632457292	0.698970004
+HYUNDAI	GENESIS COUPE	HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Automatic	23	20	30	3750	2	210	Turbocharged	4	2.322219295	0.301029996
+HYUNDAI	GENESIS COUPE	HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Automatic	20	17	27	3750	3.8	306	Naturally Aspirated	6	2.485721427	0.579783597
+HYUNDAI	GENESIS COUPE	HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Manual	24	21	30	3750	2	210	Turbocharged	4	2.322219295	0.301029996
+HYUNDAI	GENESIS COUPE	HYUNDAI MOTOR COMPANY GENESIS COUPE	Subcompact Cars	Car	Manual	20	17	26	3750	3.8	306	Naturally Aspirated	6	2.485721427	0.579783597
+HYUNDAI	GENESIS R SPEC	HYUNDAI MOTOR COMPANY GENESIS R SPEC	Large Cars	Car	Automatic	19	16	25	4500	5	429	Naturally Aspirated	8	2.632457292	0.698970004
+HYUNDAI	GENESIS	HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	22	19	29	4250	3.8	333	Naturally Aspirated	6	2.522444234	0.579783597
+HYUNDAI	GENESIS	HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	20	17	26	4500	4.6	385	Naturally Aspirated	8	2.58546073	0.662757832
+HYUNDAI	GENESIS	HYUNDAI MOTOR COMPANY GENESIS	Large Cars	Car	Automatic	20	17	26	4500	5	429	Naturally Aspirated	8	2.632457292	0.698970004
+HYUNDAI	SONATA	HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Automatic	26	22	34	3750	2	274	Turbocharged	4	2.437750563	0.301029996
+HYUNDAI	SONATA	HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Automatic	28	24	35	3500	2.4	190	Naturally Aspirated	4	2.278753601	0.380211242
+HYUNDAI	SONATA	HYUNDAI MOTOR COMPANY SONATA	Large Cars	Car	Manual	28	24	35	3500	2.4	198	Naturally Aspirated	4	2.29666519	0.380211242
+HYUNDAI	Veloster	HYUNDAI MOTOR COMPANY VELOSTER	Compact Cars	Car	Automated Manual	32	29	38	3000	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+HYUNDAI	Veloster	HYUNDAI MOTOR COMPANY VELOSTER	Compact Cars	Car	Manual	32	28	40	3000	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	FORTE ECO	KIA MOTORS CORPORATION FORTE ECO	Midsize Cars	Car	Automatic	30	27	37	3125	2	154	Naturally Aspirated	4	2.187520721	0.301029996
+KIA	FORTE KOUP	KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Automatic	29	25	34	3125	2	156	Naturally Aspirated	4	2.193124598	0.301029996
+KIA	FORTE KOUP	KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Automatic	26	23	31	3250	2.4	173	Naturally Aspirated	4	2.238046103	0.380211242
+KIA	FORTE KOUP	KIA MOTORS CORPORATION FORTE KOUP	Compact Cars	Car	Manual	28	24	33	3125	2	156	Naturally Aspirated	4	2.193124598	0.301029996
+KIA	FORTE	KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Automatic	29	26	36	3125	2	154	Naturally Aspirated	4	2.187520721	0.301029996
+KIA	FORTE	KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Automatic	26	23	32	3250	2.4	173	Naturally Aspirated	4	2.238046103	0.380211242
+KIA	FORTE	KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Manual	29	25	34	3125	2	156	Naturally Aspirated	4	2.193124598	0.301029996
+KIA	FORTE	KIA MOTORS CORPORATION FORTE	Midsize Cars	Car	Manual	26	22	32	3250	2.4	173	Naturally Aspirated	4	2.238046103	0.380211242
+KIA	OPTIMA	KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Automatic	26	22	34	3750	2	274	Turbocharged	4	2.437750563	0.301029996
+KIA	OPTIMA	KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Automatic	28	24	35	3750	2.4	166	Naturally Aspirated	4	2.220108088	0.380211242
+KIA	OPTIMA	KIA MOTORS CORPORATION OPTIMA	Midsize Cars	Car	Manual	28	24	35	3500	2.4	200	Naturally Aspirated	4	2.301029996	0.380211242
+KIA	RIO	KIA MOTORS CORPORATION RIO	Compact Cars	Car	Automatic	33	30	40	2875	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	RIO	KIA MOTORS CORPORATION RIO	Compact Cars	Car	Manual	34	30	40	2750	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	RONDO	KIA MOTORS CORPORATION RONDO	Midsize Station Wagons	Car	Automatic	22	20	27	3750	2.4	175	Naturally Aspirated	4	2.243038049	0.380211242
+KIA	RONDO	KIA MOTORS CORPORATION RONDO	Midsize Station Wagons	Car	Automatic	21	18	26	4000	2.7	192	Naturally Aspirated	6	2.283301229	0.431363764
+KIA	SEDONA	KIA MOTORS CORPORATION SEDONA	Special Purpose Vehicle, minivan 2WD	Truck	Automatic	21	18	25	4750	3.5	271	Naturally Aspirated	6	2.432969291	0.544068044
+KIA	SOUL ECO	KIA MOTORS CORPORATION SOUL ECO	Small Station Wagons	Car	Automatic	32	29	36	3000	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	SOUL ECO	KIA MOTORS CORPORATION SOUL ECO	Small Station Wagons	Car	Automatic	30	27	35	3250	2	164	Naturally Aspirated	4	2.214843848	0.301029996
+KIA	SOUL	KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Automatic	30	27	35	3000	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	SOUL	KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Automatic	29	26	34	3250	2	164	Naturally Aspirated	4	2.214843848	0.301029996
+KIA	SOUL	KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Manual	30	27	35	3000	1.6	138	Naturally Aspirated	4	2.139879086	0.204119983
+KIA	SOUL	KIA MOTORS CORPORATION SOUL	Small Station Wagons	Car	Manual	29	26	34	3125	2	164	Naturally Aspirated	4	2.214843848	0.301029996
+MASERATI	GRANTURISMO CONVERTIBLE	MASERATI Granturismo Convertible	Subcompact Cars	Car	Automatic	15	13	20	4750	4.7	434	Naturally Aspirated	8	2.63748973	0.672097858
+MASERATI	GRANTURISMO	MASERATI GRANTURISMO	Subcompact Cars	Car	Automatic	15	13	21	4500	4.7	434	Naturally Aspirated	8	2.63748973	0.672097858
+Mercedes-Benz	C 250	Mercedes-Benz C 250	Compact Cars	Car	Automatic	25	21	31	3750	1.8	201	Turbocharged	4	2.303196057	0.255272505
+Mercedes-Benz	C 300 4MATIC	Mercedes-Benz C 300 4MATIC	Compact Cars	Both	Automatic	20	17	24	4000	3	228	Naturally Aspirated	6	2.357934847	0.477121255
+Mercedes-Benz	C 350 (Coupe)	Mercedes-Benz C 350 (Coupe)	Subcompact Cars	Car	Automatic	22	19	28	4000	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	C 350	Mercedes-Benz C 350	Compact Cars	Car	Automatic	23	20	29	4000	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+W204E63-Z1011	C 63 AMG	Mercedes-Benz C 63 AMG	Compact Cars	Car	Automatic	15	13	19	4250	6.2	451	Naturally Aspirated	8	2.654176542	0.79239169
+Mercedes-Benz	CL 550 4MATIC	Mercedes-Benz CL 550 4MATIC	Compact Cars	Car	Automatic	18	15	24	5000	4.7	429	Turbocharged	8	2.632457292	0.672097858
+Mercedes-Benz	CL 600	Mercedes-Benz CL 600	Compact Cars	Car	Automatic	14	12	18	5250	5.5	510	Turbocharged	12	2.707570176	0.74036269
+Mercedes-Benz	CL 63 AMG	Mercedes-Benz CL 63 AMG	Compact Cars	Car	Automatic	18	15	22	5250	5.5	536	Turbocharged	8	2.72916479	0.74036269
+Mercedes-Benz	CL 65 AMG	Mercedes-Benz CL 65 AMG	Compact Cars	Car	Automatic	14	12	18	5250	6	621	Turbocharged	12	2.7930916	0.77815125
+Mercedes-Benz	CLS 550 4MATIC	Mercedes-Benz CLS 550 4MATIC	Compact Cars	Car	Automatic	19	16	25	4750	4.7	402	Turbocharged	8	2.604226053	0.672097858
+Mercedes-Benz	CLS 550	Mercedes-Benz CLS 550	Compact Cars	Car	Automatic	20	17	25	4500	4.7	402	Turbocharged	8	2.604226053	0.672097858
+Mercedes-Benz	CLS 63 AMG	Mercedes-Benz CLS 63 AMG	Compact Cars	Car	Automatic	19	16	25	4500	5.5	518	Turbocharged	8	2.71432976	0.74036269
+Mercedes-Benz	E 350 (Convertible)	Mercedes-Benz E 350 (CONVERTIBLE)	Subcompact Cars	Car	Automatic	22	18	28	4250	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	E 350 (Coupe)	Mercedes-Benz E 350 (coupe)	Subcompact Cars	Car	Automatic	22	19	28	4000	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	G 550	Mercedes-Benz G 550	Special Purpose Vehicle, SUV 4WD	Both	Automatic	13	12	15	6000	5.5	382	Naturally Aspirated	8	2.582063363	0.74036269
+Mercedes-Benz	GL 450 4MATIC	Mercedes-Benz GL 450 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	15	13	18	6000	4.7	335	Naturally Aspirated	8	2.525044807	0.672097858
+Mercedes-Benz	GL 550 4MATIC	Mercedes-Benz GL 550 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	14	12	17	6000	5.5	382	Naturally Aspirated	8	2.582063363	0.74036269
+Mercedes-Benz	GLK 350 4MATIC	Mercedes-Benz GLK 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Both	Automatic	18	16	21	4500	3.5	268	Naturally Aspirated	6	2.428134794	0.544068044
+Mercedes-Benz	GLK 350	Mercedes-Benz GLK 350	Special Purpose Vehicle, SUV 2WD	Both	Automatic	18	16	22	4500	3.5	268	Naturally Aspirated	6	2.428134794	0.544068044
+Mercedes-Benz	ML 350 4MATIC	Mercedes-Benz ML 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	19	17	22	5000	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	ML 350 BLUETEC 4MATIC	Mercedes-Benz ML 350 BLUETEC 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	22	20	27	5500	3	240	Turbocharged	6	2.380211242	0.477121255
+Mercedes-Benz	R 350 4MATIC	Mercedes-Benz R 350 4MATIC	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	16	21	5500	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	S 350 BLUETEC 4MATIC	Mercedes-Benz S 350 BLUETEC 4MATIC	Large Cars	Car	Automatic	25	21	31	5000	3	240	Turbocharged	6	2.380211242	0.477121255
+Mercedes-Benz	S 550 4MATIC	Mercedes-Benz S 550 4MATIC	Large Cars	Car	Automatic	18	15	24	5250	4.7	429	Turbocharged	8	2.632457292	0.672097858
+Mercedes-Benz	S 550	Mercedes-Benz S 550	Large Cars	Car	Automatic	19	15	25	5000	4.7	429	Turbocharged	8	2.632457292	0.672097858
+Mercedes-Benz	S 600	Mercedes-Benz S 600	Large Cars	Car	Automatic	14	12	19	5250	5.5	510	Turbocharged	12	2.707570176	0.74036269
+Mercedes-Benz	S 63 AMG	Mercedes-Benz S 63 AMG	Large Cars	Car	Automatic	18	15	23	5250	5.5	536	Turbocharged	8	2.72916479	0.74036269
+Mercedes-Benz	S 65 AMG	Mercedes-Benz S 65 AMG	Large Cars	Car	Automatic	14	12	19	5500	6	621	Turbocharged	12	2.7930916	0.77815125
+Mercedes-Benz	SL 550	Mercedes-Benz SL 550	Two Seaters	Both	Automatic	17	14	22	4500	5.5	382	Naturally Aspirated	8	2.582063363	0.74036269
+Mercedes-Benz	SL 63 AMG	Mercedes-Benz SL 63 AMG	Two Seaters	Car	Automatic	14	12	19	4750	6.2	518	Naturally Aspirated	8	2.71432976	0.79239169
+Mercedes-Benz	SLK 350	Mercedes-Benz SLK 350	Two Seaters	Car	Automatic	23	20	29	3750	3.5	302	Naturally Aspirated	6	2.480006943	0.544068044
+Mercedes-Benz	SLS AMG	Mercedes-Benz SLS AMG	Two Seaters	Car	Automated Manual	16	14	20	4000	6.2	563	Naturally Aspirated	8	2.750508395	0.79239169
+MITSUBISHI	OUTLANDER 2WD	Mitsubishi Motors Corporation OUTLANDER 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Semi-Automatic	22	19	26	4000	3	230	Naturally Aspirated	6	2.361727836	0.477121255
+MITSUBISHI	OUTLANDER 4WD	Mitsubishi Motors Corporation OUTLANDER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	21	19	25	4250	3	230	Naturally Aspirated	6	2.361727836	0.477121255
+MITSUBISHI	OUTLANDER 4WD	Mitsubishi Motors Corporation OUTLANDER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Selectable Continuously Variable (e.g. CVT with paddles)	24	22	27	4000	2.4	168	Naturally Aspirated	4	2.225309282	0.380211242
+Porsche	Cayenne S	Porsche Cayenne S	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	16	22	5000	4.8	400	Naturally Aspirated	8	2.602059991	0.681241237
+Porsche	Cayenne Turbo	Porsche Cayenne Turbo	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	17	15	22	5250	4.8	500	Turbocharged	8	2.698970004	0.681241237
+Porsche	Cayenne	Porsche Cayenne	Special Purpose Vehicle, SUV 4WD	Truck	Manual	17	15	22	5000	3.6	300	Naturally Aspirated	6	2.477121255	0.556302501
+Porsche	Cayenne	Porsche Cayenne	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	19	16	23	5000	3.6	300	Naturally Aspirated	6	2.477121255	0.556302501
+Porsche	Cayman S	Porsche Cayman S	Two Seaters	Car	Automatic	23	20	29	3500	3.4	320	Naturally Aspirated	6	2.505149978	0.531478917
+Porsche	Cayman S	Porsche Cayman S	Two Seaters	Car	Manual	22	19	26	3500	3.4	320	Naturally Aspirated	6	2.505149978	0.531478917
+Porsche	Cayman	Porsche Cayman	Two Seaters	Car	Automatic	24	20	29	3500	2.9	265	Naturally Aspirated	6	2.423245874	0.462397998
+Porsche	Cayman	Porsche Cayman	Two Seaters	Car	Manual	22	19	27	3375	2.9	265	Naturally Aspirated	6	2.423245874	0.462397998
+Porsche	Panamera 4S	Porsche Panamera 4S	Large Cars	Car	Automatic	19	16	24	4500	4.8	400	Naturally Aspirated	8	2.602059991	0.681241237
+Porsche	Panamera S Hybrid	Porsche Panamera S Hybrid	Large Cars	Car	Automatic	25	22	30	4750	3	333	Supercharged	6	2.522444234	0.477121255
+Porsche	Panamera Turbo	Porsche Panamera Turbo	Large Cars	Car	Automatic	18	15	23	4750	4.8	500	Turbocharged	8	2.698970004	0.681241237
+Porsche	Panamera	Porsche Panamera	Large Cars	Car	Automatic	21	18	27	4500	3.6	300	Naturally Aspirated	6	2.477121255	0.556302501
+Rolls Royce	Phantom	Rolls-Royce Motor Cars Limited Phantom	Large Cars	Car	Semi-Automatic	14	11	18	6000	6.7	453	Naturally Aspirated	12	2.656098202	0.826074803
+SAAB	9-3 SEDAN AWD	Saab 9-3 SEDAN AWD	Compact Cars	Car	Manual	24	20	30	3875	2	220	Turbocharged	4	2.342422681	0.301029996
+SAAB	9-3 SEDAN AWD	Saab 9-3 SEDAN AWD	Compact Cars	Car	Semi-Automatic	22	18	29	4000	2	220	Turbocharged	4	2.342422681	0.301029996
+SAAB	9-3 SPORT SEDAN	Saab 9-3 SPORT SEDAN	Compact Cars	Car	Manual	25	20	33	3625	2	220	Turbocharged	4	2.342422681	0.301029996
+SAAB	9-3 SPORT SEDAN	Saab 9-3 SPORT SEDAN	Compact Cars	Car	Semi-Automatic	23	19	29	3750	2	220	Turbocharged	4	2.342422681	0.301029996
+SAAB	9-5 SEDAN AWD	Saab 9-5 SEDAN AWD	Midsize Cars	Car	Semi-Automatic	20	17	27	4500	2.8	300	Turbocharged	6	2.477121255	0.447158031
+SAAB	9-5 SEDAN	Saab 9-5 SEDAN	Midsize Cars	Car	Manual	25	20	33	4000	2	220	Turbocharged	4	2.342422681	0.301029996
+SAAB	9-5 SEDAN	Saab 9-5 SEDAN	Midsize Cars	Car	Semi-Automatic	22	18	28	4250	2	220	Turbocharged	4	2.342422681	0.301029996
+SUZUKI	GRAND VITARA 4WD	Suzuki GRAND VITARA 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	20	19	23	3875	2.4	166	Naturally Aspirated	4	2.220108088	0.380211242
+SUZUKI	GRAND VITARA	Suzuki GRAND VITARA	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	21	19	25	3750	2.4	166	Naturally Aspirated	4	2.220108088	0.380211242
+SUZUKI	GRAND VITARA	Suzuki GRAND VITARA	Special Purpose Vehicle, SUV 2WD	Truck	Manual	22	19	26	3750	2.4	166	Naturally Aspirated	4	2.220108088	0.380211242
+SUZUKI	KIZASHI AWD	Suzuki KIZASHI AWD	Compact Cars	Car	Continuously Variable	25	22	29	3750	2.4	185	Naturally Aspirated	4	2.267171728	0.380211242
+MAZDA	MAZDA2	MAZDA MAZDA2	Compact Cars	Car	Automatic	30	28	34	2625	1.5	100	Naturally Aspirated	4	2	0.176091259
+MAZDA	MAZDA2	MAZDA MAZDA2	Compact Cars	Car	Manual	32	29	35	2625	1.5	100	Naturally Aspirated	4	2	0.176091259
+Mazda	Mazda3	MAZDA MAZDA3	Compact Cars	Car	Manual	28	25	33	3125	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+MAZDA	MAZDA3	MAZDA MAZDA3	Compact Cars	Car	Manual	23	20	28	3375	2.5	165	Naturally Aspirated	4	2.217483944	0.397940009
+Mazda	Mazda3	MAZDA MAZDA3	Compact Cars	Car	Semi-Automatic	27	24	33	3250	2	148	Naturally Aspirated	4	2.170261715	0.301029996
+MAZDA	MAZDA6	MAZDA MAZDA6	Midsize Cars	Car	Manual	24	21	30	3625	2.5	170	Naturally Aspirated	4	2.230448921	0.397940009
+MAZDA	MAZDA6	MAZDA MAZDA6	Midsize Cars	Car	Semi-Automatic	25	22	31	3625	2.5	168	Naturally Aspirated	4	2.225309282	0.397940009
+MAZDA	Mazdaspeed3	MAZDA MAZDASPEED3	Midsize Cars	Car	Manual	21	18	25	3625	2.3	263	Turbocharged	4	2.419955749	0.361727836
+MAZDA	MX-5	MAZDA MX-5	Two Seaters	Car	Manual	25	22	28	2750	2	167	Naturally Aspirated	4	2.222716471	0.301029996
+LEXUS	CT 200h	LEXUS CT 200h	Compact Cars	Car	Continuously Variable	42	43	40	3500	1.8	98	Naturally Aspirated	4	1.991226076	0.255272505
+TOYOTA	FJ CRUISER 2WD	TOYOTA FJ CRUISER 2WD	Special Purpose Vehicle, SUV 2WD	Truck	Automatic	19	17	20	4500	4	260	Naturally Aspirated	6	2.414973348	0.602059991
+TOYOTA	FJ CRUISER 4WD	TOYOTA FJ CRUISER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Automatic	18	17	20	4750	4	260	Naturally Aspirated	6	2.414973348	0.602059991
+TOYOTA	FJ CRUISER 4WD	TOYOTA FJ CRUISER 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Manual	16	15	18	4750	4	260	Naturally Aspirated	6	2.414973348	0.602059991
+LEXUS	GX 460	LEXUS GX 460	Special Purpose Vehicle, SUV 4WD	Truck	Semi-Automatic	17	15	20	5500	4.6	301	Naturally Aspirated	8	2.478566496	0.662757832
+TOYOTA	HIGHLANDER HYBRID 4WD	TOYOTA HIGHLANDER HYBRID 4WD	Special Purpose Vehicle, SUV 4WD	Truck	Continuously Variable	28	28	28	5250	3.5	231	Naturally Aspirated	6	2.36361198	0.544068044
+SCION	iQ	SCION iQ	Minicompact Cars	Car	Continuously Variable	37	36	37	2375	1.3	94	Naturally Aspirated	4	1.973127854	0.113943352
+LEXUS	IS 250/IS 250C	LEXUS IS 250/IS 250C	Subcompact Cars	Car	Manual	22	19	28	4250	2.5	204	Naturally Aspirated	6	2.309630167	0.397940009
+TOYOTA	PRIUS v	TOYOTA PRIUS v	Midsize Station Wagons	Car	Continuously Variable	42	44	40	3625	1.8	98	Naturally Aspirated	4	1.991226076	0.255272505
+TOYOTA	PRIUS	TOYOTA PRIUS	Midsize Cars	Car	Continuously Variable	50	51	48	3375	1.8	98	Naturally Aspirated	4	1.991226076	0.255272505
+TOYOTA	TACOMA 2WD	TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	21	19	24	4000	2.7	159	Naturally Aspirated	4	2.201397124	0.431363764
+TOYOTA	TACOMA 2WD	TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Automatic	19	17	21	4500	4	236	Naturally Aspirated	6	2.372912003	0.602059991
+TOYOTA	TACOMA 2WD	TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Manual	22	21	25	3875	2.7	159	Naturally Aspirated	4	2.201397124	0.431363764
+TOYOTA	TACOMA 2WD	TOYOTA TACOMA 2WD	Small Pick-up Trucks 2WD	Truck	Manual	18	16	21	4250	4	236	Naturally Aspirated	6	2.372912003	0.602059991
+TOYOTA	TACOMA 4WD	TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	19	18	21	4250	2.7	159	Naturally Aspirated	4	2.201397124	0.431363764
+TOYOTA	TACOMA 4WD	TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Automatic	18	16	21	4500	4	236	Naturally Aspirated	6	2.372912003	0.602059991
+TOYOTA	TACOMA 4WD	TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Manual	19	18	20	4250	2.7	159	Naturally Aspirated	4	2.201397124	0.431363764
+TOYOTA	TACOMA 4WD	TOYOTA TACOMA 4WD	Small Pick-up Trucks 4WD	Truck	Manual	17	15	19	4500	4	236	Naturally Aspirated	6	2.372912003	0.602059991
+SCION	tC	SCION tC	Compact Cars	Car	Manual	26	23	31	3375	2.5	180	Naturally Aspirated	4	2.255272505	0.397940009
+TOYOTA	YARIS	TOYOTA YARIS	Compact Cars	Car	Automatic	32	30	35	2625	1.5	106	Naturally Aspirated	4	2.025305865	0.176091259
+TOYOTA	YARIS	TOYOTA YARIS	Compact Cars	Car	Manual	33	30	38	2625	1.5	106	Naturally Aspirated	4	2.025305865	0.176091259
+AUDI	A8L	Audi A8L	Large Cars	Car	Semi-Automatic	16	14	21	5000	6.3	500	Naturally Aspirated	12	2.698970004	0.79934055
+Volkswagen	Beetle	Volkswagen BEETLE	Subcompact Cars	Car	Semi-Automatic	25	22	29	3375	2.5	170	Naturally Aspirated	5	2.230448921	0.397940009
+VOLKSWAGEN	Eos	Volkswagen EOS	Subcompact Cars	Car	Semi-Automatic	25	22	30	3500	2	200	Turbocharged	4	2.301029996	0.301029996
+Volkswagen	Golf	Volkswagen GOLF	Compact Cars	Car	Manual	34	30	42	3500	2	140	Turbocharged	4	2.146128036	0.301029996
+Volkswagen	Jetta	Volkswagen Jetta	Compact Cars	Car	Manual	28	24	34	3625	2	140	Naturally Aspirated	4	2.146128036	0.301029996
+VW	Jetta	Volkswagen Jetta	Compact Cars	Car	Manual	26	23	33	3500	2.5	170	Naturally Aspirated	5	2.230448921	0.397940009
+VOLKSWAGEN	Jetta	Volkswagen Jetta	Compact Cars	Car	Semi-Automatic	27	24	32	3250	2	115	Turbocharged	4	2.06069784	0.301029996
+VOLKSWAGEN	Passat	Volkswagen Passat	Midsize Cars	Car	Manual	35	31	43	3750	2	140	Turbocharged	4	2.146128036	0.301029996
+VOLKSWAGEN	Passat	Volkswagen Passat	Midsize Cars	Car	Semi-Automatic	34	30	40	3750	2	140	Turbocharged	4	2.146128036	0.301029996
+VOLKSWAGEN	Passat	Volkswagen Passat	Midsize Cars	Car	Semi-Automatic	23	20	28	3750	3.6	280	Naturally Aspirated	6	2.447158031	0.556302501
