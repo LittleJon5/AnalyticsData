@@ -13,9 +13,12 @@ require(shiny)
 require(ggplot2)
 require(reshape2)
 require(magrittr)
+require(devtools)
 
- gas <- read.table("C:\\Users\\Jonathan\\Documents\\GitHub\\AnalyicsData\\Stine&Foster\\Data by Chapter\\Chapter 19\\19_convenience\\19_convenience.txt",
+
+ gas <- read.table(gasUrl,
              header = TRUE,
+             skip = 2,
              sep = "\t"
              )
  
