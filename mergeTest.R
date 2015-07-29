@@ -2,5 +2,5 @@ ggplot(data = mtcars, aes(x = wt, y = mpg)) +
   geom_point() +
   geom_hline(yintercept = 25) +
   geom_line() +
-  geom_smooth(method = "lm", span = 0.2, color = "green") +
+  geom_smooth(method = "lm", span = 0.2, color = "blue") +
   facet_wrap( ~cyl)
