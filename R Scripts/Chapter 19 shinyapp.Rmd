@@ -50,14 +50,14 @@ gasLM <- lm(sales ~ gallons, data = gas)
 The estimated equation is:
 $sales = `r round(gasLM$coefficients[1],0)` + `r round(gasLM$coefficients[2], 2)` * gallons$
 
-### Part C: Interpret the summary values R^2^ 
+### Part C: Interpret the summary values r^2^ 
 
 ```{r, include = FALSE}
 modelSummary <- gasLM %>% summary
 
 ```
 
-**The R-squared value is:** `r round(modelSummary$r.squared, 2)`
+**The r-squared value is:** `r round(modelSummary$r.squared, 2)`
 
 `r round(modelSummary$r.squared*100, 2) ` percent of the variation in sales can be explained gallons sold on a given day.
 
