@@ -50,7 +50,7 @@ gasLM <- lm(sales ~ gallons, data = gas)
 The estimated equation is:
 $sales = `r round(gasLM$coefficients[1],0)` + `r round(gasLM$coefficients[2], 2)` * gallons$
 
-### Part C, Interpret the summary values R^2^ 
+### Part C: Interpret the summary values R^2^ 
 
 ```{r, include = FALSE}
 modelSummary <- gasLM %>% summary
