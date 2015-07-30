@@ -105,7 +105,7 @@ litersLm %>% summary
 
 ### Part F
 
-A key component of this problem is the word 'causation'. "Correlation isn't causation" is an oft quoted statisticians maxim.` Causation is a word that we avoid using in regression/statistics in general. The best way to phrase our discovery is to put things interms of our response and explanitory variables.
+A key component of this problem is the word 'causation'. "Correlation isn't causation" is an oft quoted statisticians maxim.` Causation is a word that we avoid using in regression/statistics in general. The best way to phrase our discovery is to put things interms of our response and explanatory variables.
 
 We'd state that our response variable can be explained by our explanitory variable. So the amount sold can be explained by the number of gallons sold. How much explaining our explainitory variables is the R^2^ value. 
 
