@@ -1,12 +1,26 @@
-Location <- "C:\\Users\\Jonathan\\Documents\\GitHub\\AnalyicsData\\Stine&Foster\\Data by Format\\Text\\04_4m_exec_comp_2010.txt"
+Location <-  "C:\\Users\\Jonathan\\Google Drive\\Stats Camp\\Stine&Foster\\Data by Chapter\\Chapter 20\\20_walmart\\20_walmart.txt"
 
 Location2 <- file.choose()
+
+testData <- readLines(Location)
+
+testData <- gsub("\\!|\\$|\\(|\\)|\\[|\\]|\\{|\\}|\\#|\\'|\\%|\\~|\\?|\\@|\\^|\\*|\\&|\\,",
+                 "",
+                 testData)
+
+testData <- gsub(" ", "", testData)
+
+framedData <- read.table(textConnection(testData), header = TRUE, sep = "\t")
+
+
 
 
 readFile <- function(fileLocation, dlm = "\t"){
   testData <- readLines(fileLocation)
   
-  testData <- gsub("([[:punct:]])", "", testData)
+  testData <- gsub("\\!|\\$|\\(|\\)|\\[|\\]|\\{|\\}|\\#|\\'|\\%|\\~|\\?|\\@|\\^|\\*|\\&|\\,",
+                   "",
+                   testData)
   
   testData <- gsub(" ", "", testData)
   
