@@ -32,7 +32,7 @@ gas$weekend <- factor(gas$weekend, labels = c("WeekDay", "WeekEnd"))
 ```
 
 
-```{r, echo = FALSE}
+```{r}
 ggplot(data = gas, aes(x = gallons, y = sales, color = weekend)) +
         geom_point() +
         labs(x = "Gallons", y = "sales") +
@@ -43,7 +43,7 @@ ggplot(data = gas, aes(x = gallons, y = sales, color = weekend)) +
 
 ### Part B: Estimate the linear equation, using the least-Square method
 
-```{r, echo = FALSE}
+```{r}
 gasLM <- lm(sales ~ gallons, data = gas)
 ```
 
@@ -52,7 +52,7 @@ $sales = `r round(gasLM$coefficients[1],0)` + `r round(gasLM$coefficients[2], 2)
 
 ### Part C: Interpret the summary values r^2^ 
 
-```{r, include = FALSE}
+```{r}
 modelSummary <- gasLM %>% summary
 
 ```
@@ -67,7 +67,7 @@ modelSummary <- gasLM %>% summary
 
 ### Part D: Different predictions
 
-```{r, echo = FALSE}
+```{r}
 
 inputPanel(
   numericInput("one", "First Value to be predicted", value = 3500),
@@ -122,7 +122,7 @@ Our sales for the day were `r abs(round(diffDat, 2))` less than we expected.
 
 ### Part H: Residuals plot
 
-```{r, echo = FALSE}
+```{r}
 gas$residuals <- resid(gasLM)
 
 ggplot(data = gas, aes(x = gallons, y = residuals, color = weekend)) +
