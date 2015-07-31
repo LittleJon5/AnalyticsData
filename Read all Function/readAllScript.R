@@ -2,7 +2,7 @@ Location <-  "C:\\Users\\Jonathan\\Google Drive\\Stats Camp\\Stine&Foster\\Data 
 
 Location2 <- file.choose()
 
-testData <- readLines(Location)
+testData <- readLines(Location2)
 
 testData <- gsub("\\!|\\$|\\(|\\)|\\[|\\]|\\{|\\}|\\#|\\'|\\%|\\~|\\?|\\@|\\^|\\*|\\&|\\,",
                  "",
