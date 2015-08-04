@@ -4,9 +4,11 @@ output: html_document
 runtime: shiny
 ---
 
-```{r, include = false}
+```{r, include = FALSE}
 #Including packages
-
+require(magrittr)
+require(ggplot2)
+require(gridExtra)
 ## we want to use the read all funcion here
 readFile <- function(fileLocation, dlm = "\t"){
   testData <- readLines(fileLocation)
@@ -27,45 +29,205 @@ location <- "C:\\Users\\Jonathan\\Google Drive\\Stats Camp\\Stine&Foster\\Data b
 walmart <- readFile(location)
 
 ```
+### Problem 31, Part A
 
+```{r}
 
-```{r, echo=FALSE}
-inputPanel(
-  selectInput("n_breaks", label = "Number of bins:",
-              choices = c(10, 20, 35, 50), selected = 20),
-  
-  sliderInput("bw_adjust", label = "Bandwidth adjustment:",
-              min = 0.2, max = 2, value = 1, step = 0.2)
-)
-
-renderPlot({
-  hist(faithful$eruptions, probability = TRUE, breaks = as.numeric(input$n_breaks),
-       xlab = "Duration (minutes)", main = "Geyser eruption duration")
-  
-  dens <- density(faithful$eruptions, adjust = input$bw_adjust)
-  lines(dens, col = "blue")
-})
+ggplot(data = walmart, aes(x = Date, y = NetIncome)) +
+  geom_point(color = "red") +
+  geom_line(color = "blue")
 
 ```
 
-## Embedded Application
+The pattern isn't linear. The points gradually spread out as time goes on. It makes a megaphonic patern.
 
-It's also possible to embed an entire Shiny application within an R Markdown document using the `shinyAppDir` function. This example embeds a Shiny application located in another directory:
+### Problem 31, Part B: linear fit
 
-```{r, echo=FALSE}
-shinyAppDir(
-  system.file("examples/06_tabsets", package="shiny"),
-  options=list(
-    width="100%", height=550
-  )
-)
+```{r}
+
+ggplot(data = walmart, aes(x = Date, y = NetIncome)) +
+  geom_point() +
+  geom_smooth(method = "lm")
+
+walmartLM <- lm(NetIncome ~ Date, data = walmart)
+
+summaryWalmart <- walmartLM %>% summary
+
 ```
 
-Note the use of the `height` parameter to determine how much vertical space the embedded application should occupy.
+The linear fit is: $NetIncome = `r round(summaryWalmart$coefficients[1,2], digits = 4)` * Date + `r round(summaryWalmart$coefficients[1,1], digits = 4)`$  
 
-You can also use the `shinyApp` function to define an application inline rather then in an external directory.
 
-In all of R code chunks above the `echo = FALSE` attribute is used. This is to prevent the R code within the chunk from rendering in the document alongside the Shiny components.
+### Problem 31, Part C: Residual Plot
+
+```{r}
+walmartResid <- resid(walmartLM)
+walmart$resid <- walmartResid
+
+ggplot(data = walmart, aes(x = Date, y = resid)) +
+  geom_point(color = "red") 
+```
+
+There is a patern in the residuals. It has is a megaphonic patern to it which indicates a non-linear patern.
+
+### Problem 31, Part D: Comparison on the log and normal Scales.
+
+```{r}
+normalPlot <- ggplot(data = walmart, aes(x = Date, y = NetIncome)) +
+                    geom_point() +
+                    geom_smooth(method = "lm")
+
+logPlot <- ggplot(data = walmart, aes(x = Date, y = LogOpIncome)) +
+                  geom_point() +
+                  geom_smooth(method = "lm")
+
+grid.arrange(normalPlot, logPlot)
+```
+
+Looking at the two graphs together. The Log Income shows a mostly uniform residual size from the main line. The residuals on the Net income graph show more distance as the date increase. The better option is the log transformed data.
+
+### Problem 31, Part E the fit for log equation
+
+```{r}
+
+WalmartLogLM <- lm(LogOpIncome ~ Date, data = walmart)
+
+summaryLogLM <- WalmartLogLM %>% summary
+
+```
+
+The equation for the new line: $Date = `r summaryLogLM$coefficients[2,1]` * Date + `r summaryLogLM$coefficients[1,1]`$
+
+The slope `r summaryLogLM$coefficients[2,1]` means that for increase of one day we expect the LogIncome to increase by `r summaryLogLM$coefficients[2,1]`.
+
+```{r}
+logResid <- resid(summaryLogLM)
+
+walmart$logResid <- logResid
+
+ggplot(data = walmart, aes(x = Date, y = logResid)) +
+  geom_point(color = "blue")
+
+```
+The fourth quarter is always higher than the the other quarters. It's a little less bowed than the non transformed model.
+
+### Problem 31, Part G
+
+This The better choice is the log transformed data. The residual plot is better and it also successfully explains more of the data than the other model. 
+
+### Problem 42, 
+
+#### Motivation
+##### Part A
+
+```{r, include = FALSE}
+
+filePath <- "C:\\Users\\Jonathan\\Documents\\GitHub\\AnalyticsData\\Stine and Foster\\Data by Chapter\\Chapter 20\\20_4m_philadelphia\\20_4m_philadelphia.txt"
+
+philly <- readFile(filePath)
+```
+
+I they can show a negitive correlation between crime rates and housing prices they'd be able to justify more police to potentially increase property values
+
+##### Part B
+
+The equation wouldn't be causal. "Correlation isn't Causation". A good equation indicates that crime rate can be used to predict housing prices but doesn't cause them. The property value of a shanty in the middle of a desert with a crime rate of zero doesn't mean that the property is valuable. 
+
+#### Method
+##### Part C
+
+The community leader wouldn't want to use crime as the explanitory varible because they want to use crime to explain the housing prices. Their end goal is to try and incease spending on police. To using property value to explain crime would be more likely to pull funding to help citizens build nicer homes or race property values.
+
+
+##### Part D
+
+```{r}
+philly <- philly[philly$Name != "PhilaCC",]
+```
+Economic Data tends to be non-linear so we don't expect a linear relationship in this case. 
+
+#### Mechanics
+##### Part E
+```{r}
+
+ggplot(data = philly, aes(x = CrimeRate, y = HousePrice)) +
+  geom_point(color = "blue")
+
+```
+
+The relationship is strong-negitive and non-linear
+
+##### Part F
+```{r}
+phillyLM <- lm(HousePrice ~ CrimeRate, data = philly)
+
+phillyLMSummary <- summary(phillyLM)
+```
+
+The slope is: `r  phillyLMSummary$coefficients[2,1]`
+
+The Intercept is: `r phillyLMSummary$coefficients[1,1]`
+
+The R^2^ value is: `r phillyLMSummary$r.squared`
+
+`r phillyLMSummary$r.squared %>% round(digits = 4)* 100` percent of the variation in the housing price can be explained Crime Rate.
+
+The Standard Error: `r phillyLMSummary$coefficients[2, 2]`
+
+##### Part G
+```{r}
+ggplot(data = philly, aes(x = X1000.Crime, y = CrimeRate)) +
+  geom_point(color = "red")
+
+```
+
+#### Message
+##### Part H
+
+The Summary using the reciprocal (1/x) 
+
+```{r}
+phillyTransLMSummary <- lm(X1000.Crime ~ CrimeRate, data = philly) %>% summary
+
+phillyTransLM <- lm(X1000.Crime ~ CrimeRate, data = philly)
+```
+
+**Non-Transformed**
+
+*Slope:* `r  phillyLMSummary$coefficients[2,1]`
+
+*Intercept:* `r phillyLMSummary$coefficients[1,1]`
+
+*R^2^:* `r phillyLMSummary$r.squared`
+
+*Standard Error:* `r phillyLMSummary$coefficients[2, 2]`
+
+
+**Transformed**
+
+*Slope:* `r  phillyTransLMSummary$coefficients[2,1]`
+
+*Intercept:* `r phillyTran`sLMSummary$coefficients[1,1]`
+
+*R^2^:* `r phillyTransLMSummary$r.squared`
+
+*Standard Error:* `r phillyTransLMSummary$coefficients[2, 2]`
+
+```{r}
+TransResids <- resid(phillyTransLM)
+
+NonTransResids <- resid(phillyLM)
+
+```
+
+
+
+##### Part I
+##### Part J
+
+
+
+
 
 
 
