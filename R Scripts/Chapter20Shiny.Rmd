@@ -100,6 +100,8 @@ The equation for the new line: $Date = `r summaryLogLM$coefficients[2,1]` * Date
 
 The slope `r summaryLogLM$coefficients[2,1]` means that for increase of one day we expect the LogIncome to increase by `r summaryLogLM$coefficients[2,1]`.
 
+### Problem 31, Part F residual patterns
+
 ```{r}
 logResid <- resid(summaryLogLM)
 
@@ -109,13 +111,14 @@ ggplot(data = walmart, aes(x = Date, y = logResid)) +
   geom_point(color = "blue")
 
 ```
+
 The fourth quarter is always higher than the the other quarters. It's a little less bowed than the non transformed model.
 
 ### Problem 31, Part G
 
 This The better choice is the log transformed data. The residual plot is better and it also successfully explains more of the data than the other model. 
 
-### Problem 42, 
+### Problem 42 
 
 #### Motivation
 ##### Part A
@@ -127,16 +130,16 @@ filePath <- "C:\\Users\\Jonathan\\Documents\\GitHub\\AnalyticsData\\Stine and Fo
 philly <- readFile(filePath)
 ```
 
-I they can show a negitive correlation between crime rates and housing prices they'd be able to justify more police to potentially increase property values
+If they can show a negitive correlation between crime rates and housing prices they'd be able to justify recruiting more police in an attept to raise property values.
 
 ##### Part B
 
-The equation wouldn't be causal. "Correlation isn't Causation". A good equation indicates that crime rate can be used to predict housing prices but doesn't cause them. The property value of a shanty in the middle of a desert with a crime rate of zero doesn't mean that the property is valuable. 
+The equation wouldn't be causal because "Correlation isn't Causation". A good equation indicates that crime rate can be used to predict housing prices but doesn't cause them. The property value of a shanty in the middle of a desert with a crime rate of zero doesn't mean that the property is valuable. 
 
 #### Method
 ##### Part C
 
-The community leader wouldn't want to use crime as the explanitory varible because they want to use crime to explain the housing prices. Their end goal is to try and incease spending on police. To using property value to explain crime would be more likely to pull funding to help citizens build nicer homes or race property values.
+The community leader would use crime as the explanitory varible. His or her end goal is to try and incease spending on the police. Useing the crime rate to explain the housing prices makes the most convincing argument. Using property value to explain crime would be more likely to pull funding to help citizens build nicer homes or raise property values.
 
 
 ##### Part D
