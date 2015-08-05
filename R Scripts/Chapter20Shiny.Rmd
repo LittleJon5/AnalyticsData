@@ -207,7 +207,7 @@ phillyTransLM <- lm(X1000.Crime ~ CrimeRate, data = philly)
 
 *Slope:* `r  phillyTransLMSummary$coefficients[2,1]`
 
-*Intercept:* `r phillyTran`sLMSummary$coefficients[1,1]`
+*Intercept:* `r phillyTransLMSummary$coefficients[1,1]`
 
 *R^2^:* `r phillyTransLMSummary$r.squared`
 
@@ -223,8 +223,45 @@ NonTransResids <- resid(phillyLM)
 
 
 ##### Part I
+
+$Housing Price = `r  phillyTransLMSummary$coefficients[2,1]` * CrimeRate + `r phillyTransLMSummary$coefficients[1,1]`$
+
 ##### Part J
 
+```{r}
+inputPanel(
+  numericInput("one", "First Value to be predicted", value = 1),
+  numericInput("two", "Second value to be predicted", value = 2)
+)
+inputPanel(
+  numericInput("three", "First Value to be predicted", value = 11),
+  numericInput("four", "Second value to be predicted", value = 12)
+)
+
+renderPlot({
+  ggplot(data = philly, aes(x = X1000.Crime, y = CrimeRate)) +
+  geom_point(color = "red") + 
+  geom_vline(xintercept = input$one) +
+  geom_vline(xintercept = input$two) +
+  geom_vline(xintercept = input$three) +
+  geom_vline(xintercept = input$four) 
+})
+
+renderText({
+  
+  crimePred <- data.frame(CrimeRate = c(input$one, input$two, input$three, input$four))
+  
+  predictions <- predict.lm(phillyTransLM, newdata = crimePred)
+  
+  differences <- c(predictions[1] - predictions[2], predictions[3] - predictions[4])
+  
+  paste("The difference between the first two is: ", differences[1],
+        "The difference between the second two is: ", differences[2])
+})
+
+```
+
+Using the linear model to predict the differences we get the same difference between the points. 
 
 
 
